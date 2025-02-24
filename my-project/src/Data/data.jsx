@@ -196,15 +196,16 @@ export const products = [
     Productimg: "/Assets/Product img/Auribery Plus.jpeg",
     Productname: "/Assets/Product name/Auribery Plus.jpeg",
     composition: [
-      "1 capsule",
-      "Green tea Nanophosphosome ® (Auricam®)",
-      "Green tea Phosphatidylcholine-, Ethanolamine-Inositol-Serine complex 300 mg",
-      "EGCG, minimum 50 mg",
-      "Daily Value not established * Fortified with Caffeine & Piperine",
-      "Other ingredients: Calcium Carbonate, Permitted class II preservative."
+      "Each 500 mg Capsule contains:",
+      "Lactobacillus acidophilis 0.25 billion",
+      "Lactobacillus Plantarum 0.25 billion",
+      "Cranberry extract",
+      "(Proanthocyanidins will be 1.8%) 18 mg instead of 25%",
+      "Retinyl acetate (Vitamin A) 160 mcg",
+      "FOS 100 mg"
     ],
     indications:
-      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut-friendly probiotics and Vitamin A.",
+      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut friendly probiotics and Vitamin A.",
     usage:
       "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
     report: "Lab tested for purity and effectiveness.",
@@ -213,9 +214,9 @@ export const products = [
   },
   {
     id: 2,
-    name: "Supports Urinary Tract Health",
+    name: "Green Tea Nanophosphosome®",
     description:
-      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+      "Auricam is a green tea supplement, a nano-emulsified EGCG (Epigallocatechin gallates) Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Auricam (Green tea Nanophosphosome) contains polyphenols i.e EGCG and caffeine, easily crosses the gut barrier resulting in significantly higher blood level. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the EGCG and caffeine to reach the systemic circulation and also increases its absorption and bioavailability. Bioenhancer and Metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve EGCG and caffeine absorption as well prevents its metabolic reduction through inhibition of P-gp efflux pump, CYP3AG and UGT.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -231,22 +232,22 @@ export const products = [
       "Other ingredients: Calcium Carbonate, Permitted class II preservative."
     ],
     indications:
-      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut-friendly probiotics and Vitamin A.",
+      "Reports suggest that consuming green tea extract helps in weight loss management. Auricam is a Nanophosphosome form of green tea with technologically advanced bioenhancer and metabolic potentiator technology.",
     usage:
-      "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      "2 capsules daily once or in divided doses. Or as directed by qualified healthcare professional. Better results observed in empty stomach or 1 hr interval from food intake. This product is not intended to cure or prevent any disease.",
     report: "Lab tested for purity and effectiveness.",
     brochure: "Download our product brochure for details.",
     feedback: "Customer reviews and testimonials."
   },
   {
     id: 3,
-    name: "Supports Urinary Tract Health",
+    name: "Supports Urinary Tract HealthCurcumin Nanophosphosome®",
     description:
-      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+      "Auricur is Turmeric supplement, a nano-emulsified Curcumin Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Auricur (Curcumin Nanophosphosome) easily crosses the gut barrier resulting in significantly higher blood levels of Curcumin. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the Curcumin to reach the systemic circulation and also increases it’s absorption and bioavailability. Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves Curcumin absorption as well prevents it’s metabolic reduction through inhibition of P-gp, CYP3AG and UGT.",
     segment: "Human OTC",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "30, 60 and 90 Capsules Container",
+    type: "Capsule , Tablet",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product img/Auricur.jpeg",
     Productname: "/Assets/Product name/Auricur.jpeg",
     composition: [
