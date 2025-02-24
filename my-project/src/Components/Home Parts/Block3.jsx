@@ -51,9 +51,7 @@ const Block3 = () => {
             <h3 className="text-lg font-semibold text-gray-800">{item.title}</h3>
             <div className="flex justify-center mt-1">{renderStars(item.rating)}</div>
             <span
-              className={`mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full ${
-                index % 2 === 0 ? "bg-orange-100 text-orange-700" : "bg-green-100 text-green-700"
-              }`}
+              className={"mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-green-100 text-green-700"}
             >
               {item.segment}
             </span>

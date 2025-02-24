@@ -92,17 +92,16 @@ const Navbar = () => {
                             <Link to="/equine" className="block px-4 py-2 hover:bg-gray-100">Equine</Link>
                             <Link to="/pet" className="block px-4 py-2 hover:bg-gray-100">Pet</Link>
                             <Link to="/feed-grain" className="block px-4 py-2 hover:bg-gray-100">Feed & Grain</Link>
-                            <Link to="/nanamin" className="block px-4 py-2 hover:bg-gray-100">Neunamin</Link>
                             <div className="relative group/nano">
                                 <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
-                                    Nanophosphosome ▸
+                                    Nanobiotechnologh ▸
                                 </button>
                                 <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
-                                    <Link to="/nanophosphosome-type1" className="block px-4 py-2 hover:bg-gray-100">
-                                        Type 1
+                                    <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100">
+                                    Nanophosphosome
                                     </Link>
-                                    <Link to="/nanophosphosome-type2" className="block px-4 py-2 hover:bg-gray-100">
-                                        Type 2
+                                    <Link to="/neunamin" className="block px-4 py-2 hover:bg-gray-100">
+                                    Neunamin
                                     </Link>
                                 </div>
                             </div>
@@ -221,12 +220,19 @@ const Navbar = () => {
                         <Link to="/feed-grain" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Feed & Grain
                         </Link>
-                        <Link to="/feed-grain" className="block py-2 px-4 hover:bg-gray-100 rounded">
-                            Neunamin
-                        </Link>
-                        <Link to="/health-supplements" className="block py-2 px-4 hover:bg-gray-100 rounded">
-                            Nanophosphosome
-                        </Link>
+                        <div className="relative group/nano">
+                            <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
+                                Nanobiotechnologh  ▸
+                            </button>
+                            <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
+                                <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100">
+                                Nanophosphosome
+                                </Link>
+                                <Link to="/Neunamin" className="block px-4 py-2 hover:bg-gray-100">
+                                Neunamin
+                                </Link>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
