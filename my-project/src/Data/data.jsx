@@ -126,51 +126,27 @@ export const productTypes = [
 export const speciesData = [
   {
     title: "Poultry",
-    image: "/Assets/block 5/Block5 img1.jpg",
-    data: [
-      { type: "Corn", amount: "50kg" },
-      { type: "Soybean", amount: "30kg" },
-    ],
+    image: "/Assets/block 5/Block5 img1.jpg"
   },
   {
     title: "Aqua",
-    image: "/Assets/block 5/Block5 img2.jpg",
-    data: [
-      { type: "Wheat", amount: "20kg" },
-      { type: "Barley", amount: "40kg" },
-    ],
+    image: "/Assets/block 5/Block5 img2.jpg"
   },
   {
     title: "Swine",
-    image: "/Assets/block 5/Block5 img3.jpg",
-    data: [
-      { type: "Maize", amount: "35kg" },
-      { type: "Oats", amount: "25kg" },
-    ],
+    image: "/Assets/block 5/Block5 img3.jpg"
   },
   {
     title: "Pet",
-    image: "/Assets/block 5/Block5 img4.jpg",
-    data: [
-      { type: "Alfalfa", amount: "28kg" },
-      { type: "Grass Hay", amount: "33kg" },
-    ],
+    image: "/Assets/block 5/Block5 img4.jpg"
   },
   {
     title: "Equine",
-    image: "/Assets/block 5/Block5 img5.jpeg",
-    data: [
-      { type: "Pellets", amount: "40kg" },
-      { type: "Hay", amount: "50kg" },
-    ],
+    image: "/Assets/block 5/Block5 img5.jpeg"
   },
   {
     title: "Feed & Grain",
-    image: "/Assets/block 5/Block5 img6.jpg",
-    data: [
-      { type: "Grass", amount: "30kg" },
-      { type: "Pasture", amount: "40kg" },
-    ],
+    image: "/Assets/block 5/Block5 img6.jpg"
   },
 ];
 
@@ -205,4 +181,89 @@ export const reviews = [
       image: "/data/user5.png",
       text: "Affordable and efficient medical solutions.",
   },
+];
+
+// data.jsx
+export const products = [
+  {
+    id: 1,
+    name: "Supports Urinary Tract Health",
+    description:
+      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
+    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    composition: [
+      "1 capsule",
+      "Green tea Nanophosphosome ® (Auricam®)",
+      "Green tea Phosphatidylcholine-, Ethanolamine-Inositol-Serine complex 300 mg",
+      "EGCG, minimum 50 mg",
+      "Daily Value not established * Fortified with Caffeine & Piperine",
+      "Other ingredients: Calcium Carbonate, Permitted class II preservative."
+    ],
+    indications:
+      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut-friendly probiotics and Vitamin A.",
+    usage:
+      "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+    report: "Lab tested for purity and effectiveness.",
+    brochure: "Download our product brochure for details.",
+    feedback: "Customer reviews and testimonials."
+  },
+  {
+    id: 2,
+    name: "Supports Urinary Tract Health",
+    description:
+      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
+    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    composition: [
+      "1 capsule",
+      "Green tea Nanophosphosome ® (Auricam®)",
+      "Green tea Phosphatidylcholine-, Ethanolamine-Inositol-Serine complex 300 mg",
+      "EGCG, minimum 50 mg",
+      "Daily Value not established * Fortified with Caffeine & Piperine",
+      "Other ingredients: Calcium Carbonate, Permitted class II preservative."
+    ],
+    indications:
+      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut-friendly probiotics and Vitamin A.",
+    usage:
+      "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+    report: "Lab tested for purity and effectiveness.",
+    brochure: "Download our product brochure for details.",
+    feedback: "Customer reviews and testimonials."
+  },
+  {
+    id: 3,
+    name: "Supports Urinary Tract Health",
+    description:
+      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
+    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    composition: [
+      "1 capsule",
+      "Green tea Nanophosphosome ® (Auricam®)",
+      "Green tea Phosphatidylcholine-, Ethanolamine-Inositol-Serine complex 300 mg",
+      "EGCG, minimum 50 mg",
+      "Daily Value not established * Fortified with Caffeine & Piperine",
+      "Other ingredients: Calcium Carbonate, Permitted class II preservative."
+    ],
+    indications:
+      "Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut-friendly probiotics and Vitamin A.",
+    usage:
+      "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+    report: "Lab tested for purity and effectiveness.",
+    brochure: "Download our product brochure for details.",
+    feedback: "Customer reviews and testimonials."
+  }
 ];

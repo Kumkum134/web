@@ -6,6 +6,7 @@ import Contact from "./Pages/contact/contact";
 import Footer from "./Layout/Footer/footer";
 import About from "./Pages/About us/about";
 import VisionMission from "./Pages/About us/vision&mission";
+import Healthsupplements from "./Pages/Human/Health-supplements";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
           <Route path="/about-us" element={<About />} />
           <Route path="/contact-us" element={<Contact />} />
           <Route path="/vision-mission" element={<VisionMission />} />
+          <Route path="/health-supplements" element={<Healthsupplements />} />
         </Routes>
       </div>
       <Footer />
