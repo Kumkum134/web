@@ -5,7 +5,7 @@ const VisionMission = () => {
         <div className="flex flex-col items-center justify-center min-h-screen px-6 py-12">
             <div className="flex flex-col md:flex-row items-center text-center md:text-left max-w-4xl w-full mb-12">
                 <img
-                    src="/Assets/Vision.png"
+                    src="/Assets/vision and mission/Vision.png"
                     alt="Vision"
                     className="w-48 h-48 object-cover mb-4 md:mb-0 md:mr-6"
                 />
@@ -21,7 +21,7 @@ const VisionMission = () => {
 
             <div className="flex flex-col md:flex-row-reverse items-center text-center md:text-left max-w-4xl w-full mb-12">
                 <img
-                    src="/Assets/Mission.png"
+                    src="/Assets/vision and mission/Mission.png"
                     alt="Mission"
                     className="w-48 h-48 object-cover mb-4 md:mb-0 md:ml-6"
                 />
@@ -37,7 +37,7 @@ const VisionMission = () => {
 
             <div className="flex flex-col md:flex-row items-center text-center md:text-left max-w-4xl w-full">
                 <img
-                    src="/Assets/Values.png"
+                    src="/Assets/vision and mission/Values.png"
                     alt="Values"
                     className="w-48 h-48 object-cover mb-4 md:mb-0 md:mr-6"
                 />

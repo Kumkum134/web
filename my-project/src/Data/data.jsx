@@ -152,38 +152,37 @@ export const speciesData = [
 
 export const reviews = [
   {
-      id: 1,
-      name: "John Doe",
-      image: "/data/user1.png",
-      text: "Excellent service! Highly recommended.",
+    id: 1,
+    name: "John Doe",
+    image: "/data/user1.png",
+    text: "Excellent service! Highly recommended.",
   },
   {
-      id: 2,
-      name: "Jane Smith",
-      image: "/data/user2.png",
-      text: "Great experience, very professional team!",
+    id: 2,
+    name: "Jane Smith",
+    image: "/data/user2.png",
+    text: "Great experience, very professional team!",
   },
   {
-      id: 3,
-      name: "Alex Johnson",
-      image: "/data/user3.png",
-      text: "Quick and reliable healthcare services.",
+    id: 3,
+    name: "Alex Johnson",
+    image: "/data/user3.png",
+    text: "Quick and reliable healthcare services.",
   },
   {
-      id: 4,
-      name: "Emma Brown",
-      image: "/data/user4.png",
-      text: "Loved the friendly staff and fast service.",
+    id: 4,
+    name: "Emma Brown",
+    image: "/data/user4.png",
+    text: "Loved the friendly staff and fast service.",
   },
   {
-      id: 5,
-      name: "Michael Wilson",
-      image: "/data/user5.png",
-      text: "Affordable and efficient medical solutions.",
+    id: 5,
+    name: "Michael Wilson",
+    image: "/data/user5.png",
+    text: "Affordable and efficient medical solutions.",
   },
 ];
 
-// data.jsx
 export const products = [
   {
     id: 1,
@@ -194,8 +193,8 @@ export const products = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
-    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    Productimg: "/Assets/Product img/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Auribery Plus.jpeg",
     composition: [
       "1 capsule",
       "Green tea Nanophosphosome ® (Auricam®)",
@@ -221,8 +220,8 @@ export const products = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
-    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    Productimg: "/Assets/Product img/Auricam.jpeg",
+    Productname: "/Assets/Product name/Auricam.jpeg",
     composition: [
       "1 capsule",
       "Green tea Nanophosphosome ® (Auricam®)",
@@ -248,8 +247,8 @@ export const products = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Metagrow-WS.jpg",
-    Produchname: "/Assets/Product name/Auribery Plus.jpeg",
+    Productimg: "/Assets/Product img/Auricur.jpeg",
+    Productname: "/Assets/Product name/Auricur.jpeg",
     composition: [
       "1 capsule",
       "Green tea Nanophosphosome ® (Auricam®)",
