@@ -94,7 +94,7 @@ const Navbar = () => {
                             <Link to="/feed-grain" className="block px-4 py-2 hover:bg-gray-100">Feed & Grain</Link>
                             <div className="relative group/nano">
                                 <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
-                                    Nanobiotechnologh ▸
+                                    Nanobiotechnologh
                                 </button>
                                 <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
                                     <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100">
