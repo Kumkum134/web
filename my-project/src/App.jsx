@@ -8,6 +8,7 @@ import About from "./Pages/About us/about";
 import VisionMission from "./Pages/About us/vision&mission";
 import Healthsupplements from "./Pages/Human/Health-supplements";
 import Persnolcare from "./Pages/Human/Persnol care";
+import Livestock from "./Pages/Veterinary/Livestock";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/vision-mission" element={<VisionMission />} />
           <Route path="/health-supplements" element={<Healthsupplements />} />
           <Route path="/personal-care" element={<Persnolcare />} />
+          <Route path="/livestock" element={<Livestock />} />
         </Routes>
       </div>
       <Footer />

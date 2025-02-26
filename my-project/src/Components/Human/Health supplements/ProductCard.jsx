@@ -61,7 +61,13 @@ const ProductCard = ({ product }) => {
             ))}
           </ul>
         )}
-        {activeTab === "Indications" && <p>{product.indications}</p>}
+         {activeTab === "Indications" && (
+          <ul className="pl-5">
+            {product.indications.map((item, index) => (
+              <li key={index}>{item}</li>
+            ))}
+          </ul>
+        )}
         {activeTab === "Usage" && <p>{product.usage}</p>}
         {activeTab === "Report" && <p>{product.report}</p>}
         {activeTab === "Brochure" && <p>{product.brochure}</p>}

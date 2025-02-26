@@ -6,7 +6,7 @@ const Persnolcare = () => {
   return (
     <div className="flex flex-col min-h-screen w-full p-4">
       <h1 className="text-2xl font-bold text-gray-800 text-center mb-4">
-        Health Supplements
+        Persnol Care
       </h1>
 
       {persnolcare?.length > 0 ? (
