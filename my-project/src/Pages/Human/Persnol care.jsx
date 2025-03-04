@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/Health supplements/ProductCard";
-import { persnolcare } from "../../Data/Persnol_care_Data";
+import { persnolcare } from "../../Data/persnol_care_data";
 
 const Persnolcare = () => {
   return (
