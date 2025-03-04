@@ -13,6 +13,8 @@ import Poultry from "./Pages/Veterinary/Poultry";
 import Aqua from "./Pages/Veterinary/Aqua";
 import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
+import Blog from "./Pages/Blog/Blog";
+import ProductBrochures from "./Pages/Product Brochures/ProductBrochures";
 
 const App = () => {
   return (
@@ -31,6 +33,8 @@ const App = () => {
           <Route path="/aqua" element={<Aqua />} />
           <Route path="/swine" element={<Swine />} />
           <Route path="/feed-grain" element={<FeedGrain />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/productbrochures" element={<ProductBrochures />} />
         </Routes>
       </div>
       <Footer />

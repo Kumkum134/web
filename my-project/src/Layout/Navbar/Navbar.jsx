@@ -126,10 +126,10 @@ const Navbar = () => {
                             <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Review & Feedback
                             </Link>
-                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/productbrochures" className="block px-4 py-2 hover:bg-gray-100">
                                 Product Brochures
                             </Link>
-                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/blog" className="block px-4 py-2 hover:bg-gray-100">
                                 Blogs
                             </Link>
                             <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
@@ -254,7 +254,7 @@ const Navbar = () => {
                         <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Review & Feedback
                         </Link>
-                        <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/productbrochures" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Product Brochures
                         </Link>
                         <Link to="/blog" className="block py-2 px-4 hover:bg-gray-100 rounded">
