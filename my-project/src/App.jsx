@@ -11,6 +11,8 @@ import Persnolcare from "./Pages/Human/Persnol care";
 import Livestock from "./Pages/Veterinary/Livestock";
 import Poultry from "./Pages/Veterinary/Poultry";
 import Aqua from "./Pages/Veterinary/Aqua";
+import Swine from "./Pages/Veterinary/Swine";
+import FeedGrain from "./Pages/Veterinary/Feed & Grain";
 
 const App = () => {
   return (
@@ -27,6 +29,8 @@ const App = () => {
           <Route path="/livestock" element={<Livestock />} />
           <Route path="/poultry" element={<Poultry />} />
           <Route path="/aqua" element={<Aqua />} />
+          <Route path="/swine" element={<Swine />} />
+          <Route path="/feed-grain" element={<FeedGrain />} />
         </Routes>
       </div>
       <Footer />

@@ -117,22 +117,22 @@ const Navbar = () => {
                             Media
                         </button>
                         <div className="absolute left-0 bg-white shadow-lg rounded mt-2 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
-                            <Link to="/poultry" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Report
                             </Link>
-                            <Link to="/aqua" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Gallery
                             </Link>
-                            <Link to="/swine" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Review & Feedback
                             </Link>
-                            <Link to="/equine" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Product Brochures
                             </Link>
-                            <Link to="/pet" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Blogs
                             </Link>
-                            <Link to="/feed-grain" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/" className="block px-4 py-2 hover:bg-gray-100">
                                 Articles
                             </Link>
                         </div>
@@ -245,22 +245,22 @@ const Navbar = () => {
                         Media
                     </button>
                     <div className={`pl-4 ${openDropdown === "media" ? 'block' : 'hidden'}`}>
-                        <Link to="/poultry" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Report
                         </Link>
-                        <Link to="/aqua" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Gallery
                         </Link>
-                        <Link to="/swine" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Review & Feedback
                         </Link>
-                        <Link to="/equine" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Product Brochures
                         </Link>
-                        <Link to="/pet" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/blog" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Blogs
                         </Link>
-                        <Link to="/feed-grain" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/articles" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Articles
                         </Link>
                     </div>

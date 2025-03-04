@@ -6,7 +6,7 @@ const Poultry = () => {
   return (
     <div className="flex flex-col min-h-screen w-full p-4">
       <h1 className="text-2xl font-bold text-gray-800 text-center mb-4">
-        Health Supplements
+      Poultry
       </h1>
 
       {poultry?.length > 0 ? (
