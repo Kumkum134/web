@@ -3,14 +3,11 @@ import React from "react";
 const ResearchDevelopment = () => {
   return (
     <div className="font-sans">
-      {/* Header Section */}
       <div className="relative">
         <img
           src="https://storage.googleapis.com/a1aa/image/PDiBL-srCPc1L2_Iaf-mCAe8QjFJd6yO-DK4ozd3n4c.jpg"
           alt="Scientists working in a lab"
-          className="w-full h-64 object-cover"
-          width="1200"
-          height="400"
+          className="w-full h-72 object-cover"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <h1 className="text-white text-3xl md:text-5xl font-bold">

@@ -68,7 +68,7 @@ const Navbar = () => {
                             <Link to="/health-supplements" className="block px-4 py-2 hover:bg-gray-100">
                                 Health Supplements
                             </Link>
-                            <Link to="/personal-care" className="block px-4 py-2 hover:bg-gray-100">
+                            <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100">
                                 Nanophosphosome
                             </Link>
                             <Link to="/personal-care" className="block px-4 py-2 hover:bg-gray-100">
@@ -182,7 +182,7 @@ const Navbar = () => {
                         <Link to="/health-supplements" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Health Supplements
                         </Link>
-                        <Link to="/health-supplements" className="block py-2 px-4 hover:bg-gray-100 rounded">
+                        <Link to="/nanophosphosome" className="block py-2 px-4 hover:bg-gray-100 rounded">
                             Nanophosphosome
                         </Link>
                         <Link to="/personal-care" className="block py-2 px-4 hover:bg-gray-100 rounded">
