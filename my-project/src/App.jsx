@@ -15,6 +15,10 @@ import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
 import Blog from "./Pages/Blog/Blog";
 import ProductBrochures from "./Pages/Product Brochures/ProductBrochures";
+import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
+import ResearchDevelopment from "./Pages/About us/ResearchDevelopment";
+import Export from "./Pages/About us/Export";
+import Certificates from "./Pages/About us/Certificates";
 
 const App = () => {
   return (
@@ -35,6 +39,10 @@ const App = () => {
           <Route path="/feed-grain" element={<FeedGrain />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/productbrochures" element={<ProductBrochures />} />
+          <Route path="/manufacturing-facility" element={<ManufacturingFacility />} />
+          <Route path="/research-development" element={<ResearchDevelopment />} />
+          <Route path="/export" element={<Export />} />
+          <Route path="/certificates" element={<Certificates />} />
         </Routes>
       </div>
       <Footer />
