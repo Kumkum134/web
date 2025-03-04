@@ -18,9 +18,9 @@ export const persnolcare = [
         ["Moisturises dry, rough and sensitive skin with softness and soothing effect. Enhances natural radiance. Slow the signs of aging and improves the suppleness of skin. Heal damaged skin and removes skin cracks."],
       usage:
         "Apply daily all over your body, suitable for use by entire family.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 2,
@@ -44,9 +44,9 @@ export const persnolcare = [
         ["Helps reduce the chances of stretch marks generally formed during pregnancy, teenage growth spurts and rapid weight gain. Helps improve the existing stretch marks. Helps manage uneven skin tone, blemishes and over-pigmentation."],
       usage:
         " ",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 3,
@@ -73,9 +73,9 @@ export const persnolcare = [
         ["Reduces exhaustion & pain. Relaxes body & elevates mood. Moisturises dry, rough and sensitive skin with softness and soothing effect. Enhances natural radiance. Slow the signs of aging and improves the suppleness of skin. Heal damaged skin and removes skin cracks."],
       usage:
         "Apply daily all over your body, suitable for use by entire family.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 4,
@@ -96,9 +96,9 @@ export const persnolcare = [
         ["Promotes hair follicular growth.Useful for Alopecia Conditions (i.e.,Alopecia Areata) Provides strength to the hair in the scalp. Improves blood circulation in scalp."],
       usage:
         "For women :- 3-5 gm For men :- 1-2 gm; Method of Application:Apply Auroshine Hair Essentials Hair Growth Serum through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 5,
@@ -131,9 +131,9 @@ export const persnolcare = [
         ["Dryness of scalp Controls Dandruff. Reduces Premature Graying of Hair. Reduces Hair Fall & Improves Hair Follicular Growth."],
       usage:
         "Dryness of scalp Controls Dandruff. Reduces Premature Graying of Hair. Reduces Hair Fall & Improves Hair Follicular Growth.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 6,
@@ -154,9 +154,9 @@ export const persnolcare = [
         ["Prevents premature grayness and stops the further spread. Improves the melanin pigmentation Improve the blood circulation in scalp Provides nutrition for rejuvenation of hair."],
       usage:
         "For women: - 3 - 5 gm For men: - 1 - 2 gm;Method of Application:Apply Auroshine Hair Essentials Premature Grayness Control Serum through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 7,
@@ -180,9 +180,9 @@ export const persnolcare = [
         ["Effectively controls dandruff. Soothes itchiness and irritation.Help nourish and moisturize the scalp. Regular scalp massage provides luster and shine to hair"],
       usage:
         "For women :- 3-5 gm For men :- 1-2 gm; Method of Application:Apply Auroshine Hair Essentials Anti-dandruff Serum through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 8,
@@ -209,9 +209,9 @@ export const persnolcare = [
         ["Non-sticky, Non-toxic. Environmental friendly. Safer on sensitive skins and some can be used on children as young as 3 months; reduced irritation. Harmless to most plastics and fabrics."],
       usage:
         "Spray on the exposed areas of body to prevent mosquito bite.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 9,
@@ -238,9 +238,9 @@ export const persnolcare = [
         ["Non - sticky, Non - toxic. Environmental friendly. Safer on sensitive skins and some can be used on children as young as 3 months; reduced irritation. Harmless to most plastics and fabrics."],
       usage:
         "To be used on fabric as mosquito repellant Child: 4 drops 1 drop each on both side of shoulder. 1 drop each on both side of lower.Adult: 6 drops 1 drop each on both side of shoulder. 1 drop each on both shirt hand cuffs. 1 drop each on both side of trouser leg cuffs.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 10,
@@ -263,9 +263,9 @@ export const persnolcare = [
         ["Wound and burn healer Prevents bacterial and fungal infections Recommended in fresh cut wounds, ulcerated wounds, deep wounds, lacerations and burn wounds."],
       usage:
         "Sprinkle 2 to 4 times on wound and burn affected parts during the day.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 11,
@@ -287,9 +287,9 @@ export const persnolcare = [
         ["Stops premature greying of hair and stops the further spread. Improves the melanin pigmentation. Improves the blood circulation. Provides nutrition for rejuvenation of hair."],
       usage:
         " ",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 12,
@@ -310,9 +310,9 @@ export const persnolcare = [
         ["Provides stress free sleep and relief from stress, depression and insomnia. Boosts memory function and helps to reduce the effect of Alzheimer disorder. Tones the skin and hair health, Improve blood circulation."],
       usage:
         "For women :- 4-6 gm For men :- 2 gm; Method of Application:Apply Auriwell Anti Stress Oil through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 13,
@@ -334,9 +334,9 @@ export const persnolcare = [
         ["Provide strength to the hair in the scalp.Stops hair falling."],
       usage:
         "For women :- 3-5 gm For men :- 1-2 gm; Method of Application:Apply Auroshine Hair Essentials Anti-dandruff Serum through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 14,
@@ -358,9 +358,9 @@ export const persnolcare = [
         ["Effectively controls dandruff. Soothes itchiness and irritation. Help nourish and moisturize the scalp. Improves blood circulation to the scalp."],
       usage:
         "For women :- 3-5 gm For men :- 1-2 gm; Method of Application:Apply Auroshine Hair Essentials Anti-dandruff Serum through gentle massage of scalp in circular motion with your fingers.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 15,
@@ -383,9 +383,9 @@ export const persnolcare = [
         ["Provides stress free sleep and relief from stress, depression and insomnia. Boosts memory function and helps to reduce the effect of Alzheimer disorder. Tones the skin and hair health Improve blood circulation. Provides anti-inflamatery effect."],
       usage:
         " ",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     }
   ];
   

@@ -10,6 +10,7 @@ import Healthsupplements from "./Pages/Human/Health-supplements";
 import Persnolcare from "./Pages/Human/Persnol care";
 import Livestock from "./Pages/Veterinary/Livestock";
 import Poultry from "./Pages/Veterinary/Poultry";
+import Aqua from "./Pages/Veterinary/Aqua";
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
           <Route path="/personal-care" element={<Persnolcare />} />
           <Route path="/livestock" element={<Livestock />} />
           <Route path="/poultry" element={<Poultry />} />
+          <Route path="/aqua" element={<Aqua />} />
         </Routes>
       </div>
       <Footer />

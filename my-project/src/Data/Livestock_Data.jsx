@@ -18,9 +18,9 @@ export const livestock = [
         ["Prevents sub-clinical mastitis & reduces the prevalence of mastitis Increases immunity & milk quality when milk production decreases"],
       usage:
         "For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days. ",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 2,
@@ -48,9 +48,9 @@ export const livestock = [
         ["Wound healer Maggoticide Fly repellen Fungal infections and Mange infestations"],
       usage:
         "2 to 3 topical applications daily for 3 to 5 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 3,
@@ -78,9 +78,9 @@ export const livestock = [
         ["Wound healer Maggoticide Fly repellent Fungal infections Mange infestations"],
       usage:
         "2 to 3 topical applications daily for 3 to 5 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 4,
@@ -114,9 +114,9 @@ export const livestock = [
         ],
       usage:
         "2 Ltr. – 5 Ltr. per tone of feed",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 5,
@@ -144,9 +144,9 @@ export const livestock = [
         ["Improve milk fat Enhances fattening and body weight of animal"],
       usage:
         "1 Sachet twice daily for 60 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 6,
@@ -175,9 +175,9 @@ export const livestock = [
         ],
       usage:
         "Cattle/ Buffalo- 1 sachet orally B.I.D. for 2-3 days; Sheep/ Goat – ½ sachet orally B.I.D. for 2-3 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 7,
@@ -203,9 +203,9 @@ export const livestock = [
         [" Prevents the chance of ROP, Milk Fever, Mastitis and Metritis in dairy animals Improves udder conformity (increases value of animal), Uterine cleansing and involution process to initiate early heat in recently parturated animal with higher conception rate"],
       usage:
         "1 Sachet orally B.I.D. for 24 days. The supplementation should start 1-2 days prior to parturition",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 8,
@@ -226,9 +226,9 @@ export const livestock = [
         ["Endometritis, Metritis, Pyometra, Prolapse of uterus, Pneumonia, HS, CCPP, CBPP and Mastitis"],
       usage:
         "Cow/ Buffalo/ Sheep/Goat- 5 mg per kg bwt by IM/ IV route",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 9,
@@ -259,9 +259,9 @@ export const livestock = [
         ],
       usage:
         "Sheep/ Goat/ Calf/ Foal/ Pig- 1 tablet for 40 kg bwt by oral route Sheep/ Goat/ Calf/ Foal/ Pig- 1 ml 10 kg bwt by oral route",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 10,
@@ -286,9 +286,9 @@ export const livestock = [
         ],
       usage:
         "Cow/ Buffalo- 7.5 to 10 mg per kg bwt by oral route for 300-400 kg bwt",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 11,
@@ -314,9 +314,9 @@ export const livestock = [
         ],
       usage:
         "Cow/ buffalo- 10 mg per kg bwt by oral route for 400 - 500 kg bwt.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 12,
@@ -354,9 +354,9 @@ export const livestock = [
         ],
       usage:
         "Cow and Buffalo: 1 Bolus daily for 20 days by oral route",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 13,
@@ -394,9 +394,9 @@ export const livestock = [
         ],
       usage:
         "Cow and Buffalo: 1 Bolus daily for 20 days by oral route.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 14,
@@ -437,9 +437,9 @@ export const livestock = [
         ],
       usage:
         "Cattle / Buffalo: 2 bolus per animal per day Goat / Sheep: ½ bolus per animal per day or advised by a Qualified veterinary Practitioner",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 15,
@@ -465,9 +465,9 @@ export const livestock = [
         ],
       usage:
         "As an oral drench- Sheep, Goat, Cattle and Buffalo: 1 ml/5 kg body weight or as directed by veterinarian.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 16,
@@ -492,9 +492,9 @@ export const livestock = [
         ],
       usage:
         "Cow and Buffalo: 25-50 ml orally B.I.D. during early and peak lactation period. Calves: 10-15 ml daily, Sheep and Goat: 5 ml daily",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 17,
@@ -531,9 +531,9 @@ export const livestock = [
         ],
       usage:
         "Cow and Buffalo: 1 Sachet daily for 15-20 days by oral route",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 18,
@@ -579,9 +579,9 @@ export const livestock = [
         ],
       usage:
         "Cows- 10 gm upto 10 litre milk yield per day and 1 gm. per litre per day on the additional yield Buffaloes- 10 gm upto 8 litres milk yield per day and 1.25 gm. per litre per day on the additional yield MIXING RATIO- Cows, Buffaloes, Poultry and Swine- 0.2% to be mixed in feed Or as recommended by Veterinarian / Animal Nutritionist",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 19,
@@ -608,9 +608,9 @@ export const livestock = [
         ],
       usage:
         "Regular Use- Administer one bottle at the first sign of calving to support normal parturition, alleviate negative energy balance and reduce the chances of milk fever and associated complications. Milk Fever Management- Administer one bottle post-parturition (upon observing milk fever symptoms or follow-up therapy after I/V calcium administration) by oral route, repeat after 24 hrs if required Directions for use: Remove the seal of the bottle. Hold the head of the animal in a normal to slightly elevated position. Carefully place the nozzle by side of the muzzle and squeeze the center of the tube slowly. Note: Do not administer to animals that are unable to swallow.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 20,
@@ -639,9 +639,9 @@ export const livestock = [
         ],
       usage:
         "Give to high- Yielding cows orally with an infusion during drying off period in an amount of 500 g per 600 kg body weight a day. Up to 350 Kg bwt- it may be given 300 gms. If required, may be repeated after 2 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 21,
@@ -665,9 +665,9 @@ export const livestock = [
         ["IPrevent from the incidence of all kind of mosquitoes infections including Dengue, Chikungunya, Malariya, Zika"],
       usage:
         "10-20 gm needs to be diluted in 1 ltr of water to spray over 1000 sq. feet area, mainly roof, pillar and walls. The dilution depends on the intensity of mosquito problem in the area.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 22,
@@ -696,9 +696,9 @@ export const livestock = [
         ],
       usage:
         "Cow/Buffalo: 100ml Calf: 50 ml Sheep/Goat: 20 ml Twice daily till symptoms disappear.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 23,
@@ -723,9 +723,9 @@ export const livestock = [
         ],
       usage:
         "Cow/Buffalo: 100ml Calf: 50 ml Sheep/Goat: 20 ml Twice daily till symptoms disappear.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 24,
@@ -752,9 +752,9 @@ export const livestock = [
         ],
       usage:
         "Cow and Buffalo: 40-50 ml daily orally. Calf, Sheep and Goat: 10-15 ml daily orally.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 25,
@@ -792,9 +792,9 @@ export const livestock = [
           "As an adjunctive therapy in Trypanosomiasis, Babesiosis, Theileriosis, Anaplasmosis.",],
       usage:
         "Cow and Buffalo: 40-50 ml daily orally. Calf, Sheep and Goat: 10-15 ml daily orally",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 26,
@@ -820,9 +820,9 @@ export const livestock = [
         ],
       usage:
         "For Cow, Buffalo, Mare & Camel Cow, (Each 100Kg Bwt) During periparturient period as immunomodulator- 20 gm daily for 10-15 days During exposure to metritis as supportive therapy- 20 gm twice daily for 5-7 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 27,
@@ -844,9 +844,9 @@ export const livestock = [
         ],
       usage:
         "Apply or Spray directly over body at alternate days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 28,
@@ -868,9 +868,9 @@ export const livestock = [
         ["Management of Lumpy Skin Disease Symptoms Supportive therapy in cases of PPR affected animals"],
       usage:
         "Cattle: 40 ml thrice daily for 4 to 5 days at 8 hourly interval Calf: 20 ml thrice daily for 4 to 5 days at 8 hourly interval. Sheep/Goat: 10 ml thrice daily for 4 to 5 days at 8 hourly interval For best results, application of Aurilum Topical is recommended. Preventive Supplementation : Cattle : 2.5 ml twice daily Calf : 1 ml twice daily Till epidemic is over from the area",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 29,
@@ -896,9 +896,9 @@ export const livestock = [
         ],
       usage:
         "For Prevention: Cow/Buffalo/Horse: 100 ml twice daily.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 30,
@@ -938,9 +938,9 @@ export const livestock = [
         ],
       usage:
         "Cow/Buffalo: 100 ml twice daily for 7 to 10 days Sheep/Goat: 25 ml twice daily for 7 to 10 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 31,
@@ -969,9 +969,9 @@ export const livestock = [
         ],
       usage:
         "For prevention of retained placenta- 200 ml oral postdelivery, repeat the dose after 6 hour interval if needed. For open pyometra, repeat breeders- 100 ml oral daily for 5 days. For early induction of estrus- After 30- 45 days of delivery, 100 ml oral daily for 5 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 32,
@@ -999,9 +999,9 @@ export const livestock = [
         ],
       usage:
         "Cow/Buffaloe: 250 ml on the first day of heat followed by same dose on second day",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 33,
@@ -1037,9 +1037,9 @@ export const livestock = [
         ],
       usage:
         "For easy Parturition- Cow/Buffalo: 50-100 ml at the time of Parturition (divided in 2 doses of 50 ml each at an interval of 3 hrs, if required) Followed by 100 ml after 6 Hrs. of Parturition for easy expulsion of placenta, If required. (Should be used in consultation with a qualified veterinarian practitioner) For Retention of Placenta- Cow/Buffalo: 200 ml once Sheep/Goat: 50 ml once Repeat after 6 Hrs. if required",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 34,
@@ -1066,9 +1066,9 @@ export const livestock = [
         ],
       usage:
         "Cow/Buffalo/ Horse: 6 ml/100 kg body weight for 5-7 days. Sheep/Goat: 3 ml/25 kg body weight for 5-7 days. For regular supplementation, 1/4 of dose is recommended.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 35,
@@ -1098,9 +1098,9 @@ export const livestock = [
         ],
       usage:
         "100 gm bottle twice daily for 2-3 days to reduce the severity of rumen acidosis. The supplementation may be given 2 bottles twice daily for animal weighing 400 kg or more.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 36,
@@ -1126,9 +1126,9 @@ export const livestock = [
         ],
       usage:
         "Livestock: Through oral route Animals- Sheep/ Goat- 10-15 ml B.I.D. for 5-7 days Calves/ Foals- 15- 20 ml B.I.D. for 5-7 days Cow/ Buffalo/ Horse- 50 ml B.I.D. for 5-7 days Aqua: 200 ml to 500 ml per day/per ton of Aqua crop for 5 to 7 days. Poultry: Birds- Broiler up to 2 week- 5 ml daily per 100 birds 3rd and 4th week- 10 ml daily per 100 birds 5th week onwards- 15 ml daily per 100 birds Chicks- 5 ml daily per 100 birds Growers- 10 ml daily per 100 birds Layers- 15 ml daily per 100 birds Breeders- 20 ml daily per 100 birds. Swine: Swine 15-20 ml BID for 5-7 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 37,
@@ -1153,9 +1153,9 @@ export const livestock = [
           "Adjunct to Antibiotic therapy"],
       usage:
         "Large ruminants: 1-2 bolus/ animal/day Small ruminants: 1/2 bolus/ animal/day Or as per direction of registered Veterinarian/ Consultant.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 38,
@@ -1183,9 +1183,9 @@ export const livestock = [
         ],
       usage:
         "Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 39,
@@ -1211,9 +1211,9 @@ export const livestock = [
           "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"],
       usage:
         "25 ml/100 kg body weight or as directed by Veterinarian. 25 ml/100 kg body weight Aquaculture:-10-13 ml/100 kg body weight or as directed by Veterinarian/ Aquaculture consultant.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 40,
@@ -1246,9 +1246,9 @@ export const livestock = [
         ["Initiates faster growth in growing pig, goat kid and calf/heifer to achieve higher weight gain."],
       usage:
         "Beef cattle:-15-20 gm twice daily for 60 days. Buck/Goat/Calf:- 5 gm twice daily for 60 days. Goat kid:- 2 gm twice daily for 60 days. Swine: 2nd month:- 5 gm/day 3rd month :- 7.5 gm/day 4th month :- 10 gm/day 5th month :- 12.5 gm/day 6th month :- 15 gm/day",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 41,
@@ -1283,9 +1283,9 @@ export const livestock = [
         ],
       usage:
         "Calves/Sheep/ Goat: 10 to 30 gm per day. Cow/Buffalo/Horse/Camel: 50 gm per day. In case of heat induced panting administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians. Poultry: 10 gm per litre of water for 100 birds. Swine: 10 to 30 gm per day. In case of heat induced panting, administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 42,
@@ -1313,9 +1313,9 @@ export const livestock = [
         ],
       usage:
         "For oral administration via feed or drinking water. Cattle & Horse: 15 ml per 100 kg body weight for 5 to 7 days. Sheep & Goat: 7.5 ml per 25 kg body weight for 5 to 7 days. Mixed with feed, the product should be used immediately. Medicated drinking water should be used within 24 hours. In case of increased or lowered water intake, adjust the medication concentrations accordingly. For Poultry: For oral administration via feed or drinking water. Poultry: 750 ml per 2000 ltr. of drinking water for 5 to 7 days. Mixed with feed, the product should be used immediately. Medicated drinking water should be used within 24 hours. In case of increased or lowered water intake, adjust the medication concentrations accordingly.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 43,
@@ -1342,9 +1342,9 @@ export const livestock = [
         ],
       usage:
         "Through oral route Animals- Sheep/Goat-2 to 3 ml daily, Calves/Foal-3 to 5 ml daily, Cow/Buffalo-15 to 20 ml daily",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 44,
@@ -1365,9 +1365,9 @@ export const livestock = [
         ["Improves milk yield, Milk fat and SNF in dairy animals"],
       usage:
         "Cow/ Buffalo- 50 to 100 gm orally daily (50 gm for 10 litre producing cow and 8 litre producing buffalo)",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 45,
@@ -1391,9 +1391,9 @@ export const livestock = [
         ],
       usage:
         "Cow/ Buffalo- 50 to 100 gm orally daily (50 gm for 10 litre producing cow and 8 litre producing buffalo)",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 46,
@@ -1415,9 +1415,9 @@ export const livestock = [
           "Increases immunity & milk quality when milk production decreases"],
       usage:
         "For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy:- 100 gm daily for 3-5 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 47,
@@ -1444,9 +1444,9 @@ export const livestock = [
           "Removes deficiency signs of phosphorus"],
       usage:
         "Poultry: 1gm / 1-2 Ltr.  of drinking water as per direction of Qualified  veterinary Practitioner",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 48,
@@ -1475,9 +1475,9 @@ export const livestock = [
           "Adjunct to Antibiotic therapy"],
       usage:
         "Cow/Buffalo: 1-2 Sachets orally B.I.D. for consecutive 2-3 days. Calves/Goat/ Sheep: 1/2-1 Sachet orally 1-2 times per day for consecutive 2-3 days. or, as per direction of registered Veterinarian/ Consultant.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 49,
@@ -1507,9 +1507,9 @@ export const livestock = [
           "Adjunct to Antibiotic therapy"],
       usage:
         "Cow/ Buffalo- 2 bolus orally B.I.D. for 2-3 days Sheep/ Goat- ½ bolus orally B.I.D. for 2-3 days",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 50,
@@ -1532,9 +1532,9 @@ export const livestock = [
           "Improves reproductive performance."],
       usage:
         "Cow/ Buffalo- 50 to 100 gm orally daily (50 gm for 10 litre producing cow and 8 litre producing buffalo)",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 51,
@@ -1560,9 +1560,9 @@ export const livestock = [
           "Improve conception rate after AI"],
       usage:
         "Cow and Buffalo: 2 Bolus daily for 15-20 days by oral route",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 52,
@@ -1586,9 +1586,9 @@ export const livestock = [
         ["Endometritis, Metritis, Pyometra, Retained fetal membranes"],
       usage:
         "5 ml Thypin IU will be diluted with 20 to 50 ml of distilled water and used as intrauterine infusion once daily. The application may be repeated 3 to 5 days or as per the advice of Registered Veterinary Practitioner",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 53,
@@ -1616,9 +1616,9 @@ export const livestock = [
           "Reduces convalescence period during, vaccination, stress and disease challenges. Improves consistency of stool, FCR and egg production in birds. Increases growth in chicks."],
       usage:
         "Sheep/ Goat- 10-15 ml daily Calves/ Foals- 15- 20 ml daily Cow/ Buffalo/ Horse- 50 ml daily. Poultry: Birds- Broiler: Up to 2 week 5 ml daily per 100 birds, 3rd and 4th week 10 ml daily per 100 birds, 5th week onwards 20 ml daily per 100 birds, Chicks: 5 ml daily per 100 birds Growers: 10 ml daily per 100 birds Layers: 20 ml daily per 100 birds.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 54,
@@ -1644,9 +1644,9 @@ export const livestock = [
           "Helps to improve immunity and fight stress conditions"],
       usage:
         "Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 55,
@@ -1670,9 +1670,9 @@ export const livestock = [
           "Acts as Hepatoprotective and helps to reduce the risk of liver disorders"],
       usage:
         "Cow/Buffalo/ Horse: 6 ml/100 kg body weight for 5-7 days. Sheep/Goat: 3 ml/25 kg body weight for 5-7 days. For regular supplementation, 1/4 of dose is recommended.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 56,
@@ -1694,9 +1694,9 @@ export const livestock = [
           "As an adjunct therapy in clinical mastitis."],
       usage:
         "For Cows and Buffaloes:In Subclinical Mastitis: 100 gm daily for 2-3 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 57,
@@ -1721,9 +1721,9 @@ export const livestock = [
           "Restores milk pH, quality and milk yield."],
       usage:
         "For Cows and Buffaloes:As an adjunct to Mastitis therapy: 100 gm daily for 4 - 5 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     },
     {
       id: 58,
@@ -1752,8 +1752,8 @@ export const livestock = [
           "Enhances the udder defense mechanism."],
       usage:
         "Wash udder and teats thoroughly after each milking,Dry with a clean cloth/towel and apply a sufficient quantity of Maspre gel to cover the udder/infected quarters twice daily for 5 days.",
-      report: "Lab tested for purity and effectiveness.",
-      brochure: "Download our product brochure for details.",
-      feedback: "Customer reviews and testimonials."
+      report: " ",
+      brochure: " ",
+      feedback: " "
     }
   ];
