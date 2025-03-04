@@ -8,8 +8,8 @@ export const swine = [
         type: "Liquid",
         category: "Enzyme , Other Specialty",
         packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each litre contains:",
             "Alpha amylase 250000 FAU, Pectinase 30000 PGU, Cellulase 10000000 CU, Arabinase 7000 units, Acid protease 400000 HUT, Lipase 6500 IU, Beta glucanase 10000 units, Alpha galactosidase 10000 units, Xylanase 1500000 XU, β-mannanase 10000 U, Phytase 68000 FTU"
@@ -33,8 +33,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg Pack, 25 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Probicap 3S (Unique blend of 3 Bacillus probiotics)",
             "Bacillus subtilis",
@@ -65,8 +65,8 @@ export const swine = [
         type: "Liquid, Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome©",
@@ -98,8 +98,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from",
@@ -135,8 +135,8 @@ export const swine = [
         type: "Liquid",
         category: "Performance Enhancer , Other Specialty",
         packaging: "500 ml Pack 1 L Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "Vitamin B1 7000 mg",
@@ -170,8 +170,8 @@ export const swine = [
         type: "Liquid",
         category: "Toxin Binder , Other Specialty",
         packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains:",
             "Mannan oligosaccharide",
@@ -203,8 +203,8 @@ export const swine = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "500 gm Pack, 1 kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Vitamin A palmitate 60,00,000 IU",
@@ -239,8 +239,8 @@ export const swine = [
         type: "Powder",
         category: "Nutrition Supplement , Performance Enhancer",
         packaging: "25 Kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "NUTRITIONAL VALUE PER 5 Kg",
             "Copper Glycinate 330g, Ferrous Glycinate 1650g",
@@ -269,8 +269,8 @@ export const swine = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "500 ml 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains:",
             "Silver Nano Particles 2500 ppm."
@@ -297,8 +297,8 @@ export const swine = [
         type: "Liquid",
         category: "Immunomodulator, Antibacterial , Other Specialty",
         packaging: "250 gm 1 Kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm of Essential oil contains:",
             "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
@@ -325,8 +325,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm 1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Beta-glucan 162 gm, Mannan oligosaccharides 162 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici",
@@ -356,8 +356,8 @@ export const swine = [
         type: "Liquid",
         category: "Immunomodulator , Other Specialty",
         packaging: "500 ml, 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "β- Glucan-MOS complex 25 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 40% 37500 mg",
@@ -384,8 +384,8 @@ export const swine = [
         type: "Liquid, Powder",
         category: "Enzyme , Other Specialty",
         packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Lysozyme HCl 5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 75000 IU, Selenium 200 mg, Vitamin C 80 gm",
@@ -413,8 +413,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 Kg 25 Kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm contains:",
             "Sodium chloride 0.8 gm",
@@ -451,8 +451,8 @@ export const swine = [
         type: "Gel",
         category: "Other Specialty",
         packaging: "25 kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Phytase enzyme 10000 FYT/ gm"
         ],
@@ -475,8 +475,8 @@ export const swine = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Kg Pack 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Aurovita",
             "Each 100 gm contains:",
@@ -504,8 +504,8 @@ export const swine = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "500 gm Pack 1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg essential oil contains -",
             "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil(1 - 8 cineole, Limonene)125 gm, Holy basil oil(Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1 - 8 cineole) 250 gm, Clove oil(Eugenol) 10 gm",
@@ -534,8 +534,8 @@ export const swine = [
         type: "Liquid",
         category: "Liver Stimulant , Other Specialty",
         packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 5 ml contains extracts derived from:",
             "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 60 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -562,8 +562,8 @@ export const swine = [
         type: "Powder",
         category: "Performance Enhancer , Immunomodulator",
         packaging: "100 gm and 500 gm HDPE bottle",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             " "
         ],
@@ -588,8 +588,8 @@ export const swine = [
         type: "Powder",
         category: "Nutrition Supplement",
         packaging: "1 Kg and 25 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Bacillus Subtilis",
@@ -620,8 +620,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "25 kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains:",
             "Calcium sulphate",
@@ -647,8 +647,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 gm pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains:",
             "Potassium monosulphate compound………..49.8 % w / w",
@@ -677,8 +677,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from:",
@@ -715,8 +715,8 @@ export const swine = [
         type: "Liquid",
         category: "Performance Enhancer , Nutrition Supplement",
         packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Vitamin A 500,000 IU, Vitamin D3 75,000 IU, Vitamin E 10,000 mg, Vitamin B1 1, 250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5, 300 mcg, Vitamin K 350 mg, Vitamin H12, 500 mcg, Vitamin C 1,000 mg, Niacin 1, 400 mg, D Panthenol 625 mg, Folic Acid precursor 625 mg, Lysine 100 mg, DL - Methionine 1, 500 mg, Protein Hydrolysate 1,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 2000 mg, Organic Manganese 1,000 mg, Organic Zinc 3,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3, 280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq.to 3,000 IU Vitamin E activity"
@@ -741,8 +741,8 @@ export const swine = [
         type: "Powder",
         category: "Toxin Binder , Other Specialty",
         packaging: "25 kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg contains:",
             "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
@@ -767,8 +767,8 @@ export const swine = [
         type: "Spray",
         category: "Other Specialty",
         packaging: "100 ml aluminum bottle",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains:",
             "Ocimum sanctum oil 8 gm",
@@ -802,8 +802,8 @@ export const swine = [
         type: "Powder",
         category: "Growth Promoter , Other Specialty",
         packaging: "1 kg 25 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg contains:",
             "Phytochemical extracts of - Leptadenia reticulate",
@@ -838,8 +838,8 @@ export const swine = [
         type: "Liquid",
         category: "Antimicrobial , Antibacterial",
         packaging: "1 L 5 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Povidone iodine 10 % with suitable stabilizer and activators."
         ],
@@ -865,8 +865,8 @@ export const swine = [
         type: "Liquid",
         category: "Performance Enhancer , Other Specialty",
         packaging: "100 ml 250 ml 500 ml 1 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains:",
             "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
@@ -892,8 +892,8 @@ export const swine = [
         type: "Liquid",
         category: "Performance Enhancer , Other Specialty",
         packaging: "100 ml 250 ml 500 ml 1 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains:",
             "Vitamin A 1,00,000 IU, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
@@ -919,8 +919,8 @@ export const swine = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "250 gm 500 gm 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin - 3 - gallate, Grape Skin Nanophosphosome©",
@@ -952,8 +952,8 @@ export const swine = [
         type: "Powder",
         category: "Performance Enhancer , Other Specialty",
         packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains high concentration of:",
             "Vitamin A, D3 and E(coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc(MHA), Organic Chromium, Selenium, Magnesium and Iodine",
@@ -980,8 +980,8 @@ export const swine = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from:",

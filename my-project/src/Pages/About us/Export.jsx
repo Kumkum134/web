@@ -37,7 +37,7 @@ const Export = () => {
                 </div>
                 <div className="w-full md:w-1/2">
                     <img
-                        src="/Assets/vision and mission/map.jpg"
+                        src="/Assets/vision and mission/GlobalMap.jpg"
                         alt="World map highlighting different regions"
                         className="w-full max-w-md mx-auto"
                         width="600"

@@ -8,8 +8,8 @@ export const poultry = [
         type: "Liquid",
         category: "Nutrition Supplement , Performance Enhancer , Other Specialty",
         packaging: "1 Ltr Bottle 5 Ltr Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre Contains:",
             "Protein Hydrolysate 360 gm, Arginine 5200mg,  Cystine1050mg, Glycine 3150mg,  Histidine 2000mg, Isoleucine 3275mg, Leucine 5700mg, L-Lysine 4500mg, DL-Methionine 1350mg, Phenylalanine 3400mg, Serine 3800mg, Tyrosine 3200mg, Threonine ,2900mg",
@@ -38,8 +38,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 kg 25 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg Contains:",
             "Thymol 3500 mg, Terpinene-4-ol 2400 mg, 1,8-Cineole 800 mg, Carvacrol 375 mg, Vitamin A 16,00,000 IU,",
@@ -64,8 +64,8 @@ export const poultry = [
         type: "Powder",
         category: "Vitamins, Minerals and Electrolytes",
         packaging: "1 kg 25 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Zinc Neunamin…………………………………..1,00,000 PPM",
@@ -102,8 +102,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "AUROL is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
         ],
@@ -127,8 +127,8 @@ export const poultry = [
         type: "Powder",
         category: "Liver Stimulant , Other Specialty",
         packaging: "25 Kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 5 gm contains extracts derived from:",
             "Andrographis paniculata 5600 mg",
@@ -159,8 +159,8 @@ export const poultry = [
         type: "Powder",
         category: "Enzyme , Other Specialty",
         packaging: "1 kg 2.5 kg 25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm contains:",
             "Alpha amylase…………….40000 unit",
@@ -197,8 +197,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 kg and 25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm contains:",
             "Alpha amylase…………….40000 unit",
@@ -235,8 +235,8 @@ export const poultry = [
         type: "Powder",
         category: " Growth Promoter, Other Specialty",
         packaging: "1 kg and 25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "High metabolic activators, antioxidants and immunogens",
@@ -264,8 +264,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 kg and 25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "High metabolite antioxidants and immunogens",
@@ -293,8 +293,8 @@ export const poultry = [
         type: "Liquid",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Ltr., 5 Ltr. and 50 Ltr. Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains:",
             "Phytochemical extracts derived from",
@@ -330,8 +330,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "25 kg Bags",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains",
             "Phosphatidyl choline",
@@ -362,8 +362,8 @@ export const poultry = [
         type: "Liquid",
         category: "Immunomodulator, Antibacterial, Other Specialty",
         packaging: " 250 ml 500 ml 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm contains:",
             "1 - 8 cineole 3900 mg",
@@ -391,8 +391,8 @@ export const poultry = [
         type: "Liquid",
         category: "Toxin Binder, Other Specialty",
         packaging: "500 ml, 1 Ltr and 5 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each liter Contains:",
             "Phytochemical extracts from blend of Andrographis paniculata, Eclipta alba, Terminalia chebula, and",
@@ -426,8 +426,8 @@ export const poultry = [
         type: "Powder, Liquid",
         category: "Enzyme, Other Specialty",
         packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Microbial Lysozyme 3, 50,000 units",
@@ -465,8 +465,8 @@ export const poultry = [
         type: "Liquid",
         category: "Immunomodulator , Other Specialty",
         packaging: "500 ml, 1 Ltr, 5Ltr, 25 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "Mannan oligosaccharides 20 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 15000 mg, Fortified with phytochemical principles of Ocimum sanctum, Phyllanthus emblica, Allium sativum and Lysozyme"
@@ -493,8 +493,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "100 gm, 500 gm & 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 1 kg contains:",
             "Mannan oligosaccharides160 gm, Vitamin C 48 gm, Betaine hydrochloride 200 gm, Pepsin 1.44 gm, Vitamin E 48 gm, Sodium selenite 3.6 gm, Nucleotides 16 gm, Protein hydrolysate 120 gm",
@@ -522,8 +522,8 @@ export const poultry = [
         type: "Powder, Liquid",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Ltr contains:",
             "Phytochemical principles of Allicin, Withanolides, polyphenols, Epigallocatechin-3-gallate Vitamin C 2.8 gm, Selenium 0.21 mg, Copper (as glycinate complex) 33 mg, Manganese (as glycinate complex) 16 mg",
@@ -564,8 +564,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm 1 kg and 25 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Mannan oligosaccharides 720 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus (Probiotic count is 3,000 Billion CFU per kg)"
@@ -590,8 +590,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm 1 kg and 25 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Beta Glucan & MOS Complex 900 gm",
@@ -617,8 +617,8 @@ export const poultry = [
         type: "Liquid",
         category: "Immunomodulator , Other Specialty, Antibacterial",
         packaging: "250 gm 1 Kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm of Essential oil contains:",
             "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
@@ -647,8 +647,8 @@ export const poultry = [
         type: "Liquid",
         category: "Liver Stimulant , Other Specialty",
         packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 10 ml contains:",
             "Extract derived from Andrographis paniculata 400 mg, Tephrosia purpurea 200 mg, Boerhavia diffusa 100 mg, Eclipta alba 200 mg, Picrorhiza kurroa 56 mg, Cichorium intybus 100 mg, Phyllanthus niruri 200 mg"
@@ -673,8 +673,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from",
@@ -708,8 +708,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 ml 1 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains:",
             "Silver Nano Particles 2500 ppm.",
@@ -735,8 +735,8 @@ export const poultry = [
         type: "Powder",
         category: "Nutrition Supplement , Performance Enhancer",
         packaging: "25 Kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "NUTRITIONAL VALUE PER 5 Kg",
             "Copper Glycinate 330g, Ferrous Glycinate 1650g , Manganese Glycinate 1310g , Zinc Glycinate 1500g, Organic Chromium 50mg, Lodine 10g, Cobalt 2500mg, Selenium 2500mg, Molybdenum 7.25 ppm, Lactobacillus sporogenes 1000 million, Saccharomyces cerevisiae 300 billion, Aspergillus oryzae 1000 million"
@@ -760,8 +760,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm 1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
@@ -787,8 +787,8 @@ export const poultry = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "500 gm Pack, 1 kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg essential oil contains-",
             "Vitamin A Palmitate 60,00,000 IU",
@@ -828,8 +828,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 Kg 25 Kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 gm contains:",
             "Sodium chloride 0.8 gm",
@@ -864,8 +864,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 Kg 25 Kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Sodium chloride 257 gm",
@@ -902,8 +902,8 @@ export const poultry = [
         type: "Liquid",
         category: "Liver Stimulant , Other Specialty",
         packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains.",
             "Sorbitol 20 gm, L-Carnitine 2.5 gm, Cynarin extract 500 mg, DL-Methionine 1 gm, Choline chloride 1.875 gm, Magnesium sulphate 1 gm"
@@ -926,8 +926,8 @@ export const poultry = [
         type: "Liquid",
         category: "Toxin Binder , Other Specialty",
         packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar 50 Ltr Drum and 200 Ltr Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 100 ml contains:",
             "Mannan oligosaccharides 160 mg, Sodium potassium tartrate 10 mg, Citric acid 800 mg, Sodium citrate 10 mg, Phosphoric acid 650 mg, Thiamine mononitrate 30 mg, Malic acid 100 mg, Riboflavin 30 mg, Tartaric acid 150 mg, Pyridoxine hydrochloride 200 mg, Disodium EDTA 150 mg, Copper pentasulphate 1 gm, Propylene glycol 10 gm, Saccharomyces cerevisiae 2 gm, Aspartic acid 20 mg."
@@ -952,8 +952,8 @@ export const poultry = [
         type: "Powder",
         category: "Performance Enhancer , Nutrition Supplement",
         packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jarx",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "Vitamin A 5,00,000 IU, Vitamin D3 1,00,000 IU, Vitamin E 10,000 mg, Vitamin B1 1,250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5,300 mcg, Vitamin K 350 mg, Vitamin H 10,00,000 mcg, Vitamin C 10,000 mg, Niacin 1,400 mg, D-Panthenol 625 mg, Folic Acid precursor 625 mg, L-Lysine 100 mg, DL-Methionine 1,500 mg, Protein Hydrolysate 10,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 4,000 mg, Organic Manganese 10,000 mg, Organic Zinc 10,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3,280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq. to 3,000 IU Vitamin E activity",
@@ -985,8 +985,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "100 gm, 500 gm & 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "sativum"
         ],
@@ -1007,8 +1007,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm, 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Butaphosphan INN 100 mg",
@@ -1036,8 +1036,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 gm, 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from:",
@@ -1073,8 +1073,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 gm, 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts derived from:",
@@ -1106,8 +1106,8 @@ export const poultry = [
         type: "Liquid",
         category: "Liver Stimulant , Other Specialty",
         packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 5 ml contains extracts derived from:",
             "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 225 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -1132,8 +1132,8 @@ export const poultry = [
         type: "Powder",
         category: "Toxin Binder , Other Specialty",
         packaging: "25 Kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg contains:",
             "HSCAS…………………………………760 gm",
@@ -1160,8 +1160,8 @@ export const poultry = [
         type: "Powder",
         category: "Enzymes , Other Specialty",
         packaging: "5 Kg Pack, 10 kg Pack, 15 kg Bucket",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Bacillus subtilis 30 million CFU, Bacillus licheniformis 30 million CFU, Lactobacillus acidophillus 10 million CFU, Saccharomyces boulardii 5 million CFU, Alpha amylase 400 FAU, Pectinase 2000 PGU, Cellulase 6000 CU, Phytase 400 FTU, Acid protease 500 HUT, Lipase 1200 lU, Glucanase 500 BU, Hemicellulase 150 HCU, Xylanase 9000 XU"
@@ -1185,8 +1185,8 @@ export const poultry = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "500 gm Pack 1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg essential oil contains-",
             "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil (1-8 cineole, Limonene) 125 gm, Holy basil oil (Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1-8 cineole) 250 gm, Clove oil (Eugenol) 10 gm, Thyme oil (Thymol) 10 gm, Lemon oil (Linalool, Limonene) 2 gm, Camphor oil (Linalool, 1-8 cineole) 20 gm, Ginger oil (Zingiberene) 5 gm"
@@ -1210,8 +1210,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Kg Pack 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Aurovita",
             "Each 100 gm contains:",
@@ -1237,8 +1237,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 Kg Pack 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Lutein-Zeaxanthin Nanophosphosome",
@@ -1276,8 +1276,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Kg Pack 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts of-",
@@ -1303,8 +1303,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "500 gm , 1 kg & 25 kg bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Phytase enzyme 10000 FYT/ gm"
         ],
@@ -1325,8 +1325,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "25 kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains : Calcium sulphate,Guar gum"
         ],
@@ -1348,8 +1348,8 @@ export const poultry = [
         type: "Powder",
         category: "Performance Enhancer , Immunomodulator",
         packaging: "100 gm and 500 gm HDPE bottle",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "xtracts of Allium Sativum and Ocimum sanctum, Phhytochemical principles of Thymol, Curcumin and Capsaicin Nucleotides, Vitamin C,FOS, Selenium, Zinc, Esterified Butyrate, Organic acid derivatives, Fermentation Extracts Base of Ginger, Garlic & Inulin QS"
         ],
@@ -1370,8 +1370,8 @@ export const poultry = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 gm pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains :",
             "Potassium monosulphate compound………..49.8% w/w",
@@ -1397,8 +1397,8 @@ export const poultry = [
         type: "Powder",
         category: "Nutrition Supplement",
         packaging: "1 Kg and 25 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Bacillus Subtilis",
@@ -1426,8 +1426,8 @@ export const poultry = [
         type: "Powder",
         category: "Performance Enhancer",
         packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains high concentration of:",
             "Vitamin A, D3 and E (coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc (MHA), Organic Chromium, Selenium, Magnesium and Iodine",
@@ -1453,8 +1453,8 @@ export const poultry = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "250 gm 500 gm 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome®",
@@ -1488,8 +1488,8 @@ export const poultry = [
         type: "Powder",
         category: "Toxin Binder , Other Specialty",
         packaging: "25 kg Bag",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg contains:",
             "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
@@ -1511,8 +1511,8 @@ export const poultry = [
         type: "Liquid",
         category: "Performance Enhancer , Other Specialty",
         packaging: "100 ml 250 ml 500 ml 1 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains:",
             "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"

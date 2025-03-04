@@ -8,8 +8,8 @@ export const feedgrain = [
         type: " ",
         category: "Other Specialty",
         packaging: "40kg",
-        Productimg: "/Assets/Product img/Auribery Plus.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Crude Protein (Minimum)………………….. 20%",
             "Crude Fibre (Maximum)……………………..12%",
@@ -52,8 +52,8 @@ export const feedgrain = [
         type: " ",
         category: "Other Specialty",
         packaging: "40kg",
-        Productimg: "/Assets/Product img/Auribery Plus.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Crude Protein (Minimum)………………….. 22%",
             "Crude Fibre (Maximum)……………………..12%",
@@ -91,8 +91,8 @@ export const feedgrain = [
         type: " ",
         category: "Other Specialty",
         packaging: "40kg",
-        Productimg: "/Assets/Product img/Auribery Plus.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Crude Protein (Approx. )………………. 23%",
             "Crude Fibre (Minimum)…………………… 7%",

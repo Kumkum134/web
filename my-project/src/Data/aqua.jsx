@@ -8,8 +8,8 @@ export const aqua = [
         type: "Granule",
         category: "Toxin Binder",
         packaging: "25 Kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Silicon dioxide……. 75-85%",
@@ -38,8 +38,8 @@ export const aqua = [
         type: "Liquid",
         category: "Performance Enhancer",
         packaging: "1 liter bottle and 5 liter Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains –",
             "Bacillus licheniformis",
@@ -72,8 +72,8 @@ export const aqua = [
         type: "Gel",
         category: "Performance Enhancer",
         packaging: "1 liter bottle and 5 liter Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Pack Contains :",
             "Sargassum wightii",
@@ -114,8 +114,8 @@ export const aqua = [
         type: "Granule",
         category: "Toxin Binder",
         packaging: "5 Kg and 25 Kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Silicon dioxide 70-80%",
@@ -149,8 +149,8 @@ export const aqua = [
         type: "Granule",
         category: "Toxin Binder",
         packaging: "5 Kg and 25 Kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains",
             "Bacillus subtilis",
@@ -188,8 +188,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Sodium percarbonate 700 gm",
@@ -218,8 +218,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg contains:",
             "Sodium Percarbonate...........650 gm",
@@ -253,8 +253,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm, 1 kg, 25 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Butaphosphan INN……………………………….100 mg",
@@ -290,8 +290,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "500 gm pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains :",
             "Potassium monosulphate compound………..49.8% w/w",
@@ -320,8 +320,8 @@ export const aqua = [
         type: "Powder",
         category: "Nutrition Supplement",
         packaging: "1 Kg and 25 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains:",
             "Bacillus Subtilis",
@@ -352,8 +352,8 @@ export const aqua = [
         type: "Powder",
         category: "Performance Enhancer , Immunomodulator",
         packaging: "100 gm and 500 gm HDPE bottle",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack Contains:",
             "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Fermentation extracts & Inulin"
@@ -379,8 +379,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "200 gm 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Sea lettuce extract 100 gm",
@@ -411,8 +411,8 @@ export const aqua = [
         type: "Liquid",
         category: "Flukicide , Anthelmintic",
         packaging: "1 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains:",
             "Ivermectin IP 0.8 mg, Benzyl Alcohol IP (As Preservative) 0.02 ml",
@@ -440,8 +440,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "25 Kg pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Pond Alkalizers",
@@ -470,8 +470,8 @@ export const aqua = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "1 L Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Alkyl Dimethyl Benzyl Ammonium",
             "Chloride 80%",
@@ -499,8 +499,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm 1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
@@ -528,8 +528,8 @@ export const aqua = [
         type: "Liquid",
         category: "Liver Stimulant , Other Specialty",
         packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 5 ml contains extracts derived from:",
             "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 225 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -560,8 +560,8 @@ export const aqua = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "1 Ltr Bottle & 5 Ltr Bottle",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Ltr Contains:",
             "Yucca schidigera 10% Extract 100 gm"
@@ -585,8 +585,8 @@ export const aqua = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "100 gm, 500 gm & 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 1 kg contains:",
             "Mannan oligosaccharides 160 gm",
@@ -621,8 +621,8 @@ export const aqua = [
         type: "Liquid",
         category: "Antimicrobial , Antibacterial",
         packaging: "1 L & 5 L",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Povidone iodine 10% with suitable stabilizer and activators."
         ],
@@ -648,8 +648,8 @@ export const aqua = [
         type: "Powder",
         category: "Nutrition Supplement , Other Specialty",
         packaging: "10 Kg Pack, 25 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Copper sulphate 5 gm, Magnesium oxide 36 gm, Zinc sulphate 25 gm, Ferrous sulphate 19 gm, Manganese sulphate 14 gm, Calcium 274 gm, Phosphorus 137 gm, Potassium 100 mg, Sulphur 8.1 gm, Sodium 5.9 gm"
@@ -673,8 +673,8 @@ export const aqua = [
         type: "Powder",
         category: "Nutrition Supplement , Other Specialty",
         packaging: "10 Kg Pack 25 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg Contains:",
             "Copper sulphate 5gm, Manganese sulphate 14gm, Zinc sulphate 25gm, Ferrous sulphate 19 gm, Selenium 15mg, Cobalt sulphate 100mg, Potassium iodide 325mg, Magnesium oxide 36gm, Calcium 274gm, Phosphorus 137gm, Chromium nicotinate 403mg, Potassium 100mg, Sulphur 8gm, Sodium 5.9gm, Vitamin A 1200000IU, Vitamin D3 240000IU, Vitamin E 3000IU, Vitamin C 10gm, DL- Methionine 2gm, L - Lysine 4gm, Grape Polyphenol ext 300 mg, Saccharomyces cerevisiae 200billion CFU, Bacillus coagulans 100billion CFU, Bacillus subtilis 100billion CFU, Bacillus licheniformis 100billion CFU, Bacillus megatarium 100billion CFU"
@@ -698,8 +698,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "80 gm Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 80 gm contains:",
             "Bacillus megaterium",
@@ -729,8 +729,8 @@ export const aqua = [
         type: "Liquid",
         category: "Immunomodulator , Performance Enhancer , Other Specialty",
         packaging: "500 ml Pack 1 L Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "Vitamin C 250,000 mg, Vitamin B12 44, 500 mcg, Stabilizer and activators"
@@ -757,8 +757,8 @@ export const aqua = [
         type: "Powder",
         category: "Nutrition Supplement , Other Specialty",
         packaging: "100 gm 500 gm & 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Phytochemical extracts of -",
@@ -783,8 +783,8 @@ export const aqua = [
         type: "Liquid",
         category: "Performance Enhancer , Other Specialty",
         packaging: "500 ml Pack 1 L Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Litre contains:",
             "Vitamin B1 7000 mg",
@@ -818,8 +818,8 @@ export const aqua = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "1 Ltr & 5 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each ml contains: (pH 4.0)",
             "Bacillus subtilis, Bacillus megaterium, Thiobacillus denitrificans, Rhodobacter spp.",
@@ -849,8 +849,8 @@ export const aqua = [
         type: "Liquid",
         category: "Other Specialty",
         packaging: "10 Ltr & 35 Ltr",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Organic acids"
         ],
@@ -874,8 +874,8 @@ export const aqua = [
         type: "Granule",
         category: "Nutrition Supplement , Toxin Binder , Enzyme , Other Specialty",
         packaging: "1 Kg & 5 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Silicon dioxide 70 % -80 %",
@@ -905,8 +905,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "80 gm Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 80 gm bottle contains:",
             "Bacillus licheniformis",
@@ -939,8 +939,8 @@ export const aqua = [
         type: "Powder",
         category: "Nutrition Supplement , Performance Enhancer",
         packaging: "1 kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each pack contains:",
             "Very high concentrations of coated Vitamin A, coated Vitamin D3, coated Vitamin E, Zinc MHA, Copper MHA, Manganese MHA, Iron MHA, Magnesium, Nicotinamide, Cobalt, Iodine, Sulphur, Potassium, Sodium, Selenium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP extract, Phytobio - CalphosTM, Myo - inositol - hexakisphosphate - 3 phosphohydrolase concentrate, Energy Booster Complex"
@@ -966,8 +966,8 @@ export const aqua = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Contains:",
             "Specific Ig Y antibodies for Vibriosis",
@@ -994,8 +994,8 @@ export const aqua = [
         type: "Powder",
         category: "Immunomodulator , Other Specialty",
         packaging: "1 Kg Pack",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Lactobacillus plantarum, Bacillus amyloliquefaciens, Sargassum spp.Extract, Beta Glucan Mannan Oligosaccharide, Vitamin E, Grape Polyphenol, Ascorbic Acid",
@@ -1021,8 +1021,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "80 gm, 500 gm",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each gm contains: -",
             "Bacillus subtilis",
@@ -1053,8 +1053,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "80 gm 400 gm",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each 80 gm contains:",
             "Bacillus subtilis",
@@ -1087,8 +1087,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "100 gm, 250 gm, 500 gm and 1 kg",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each kg contains:",
             "Beta Glucan 30,000 mg, Mannan oligosaccharides 40,000 mg, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
@@ -1124,8 +1124,8 @@ export const aqua = [
         type: "Powder",
         category: "Other Specialty",
         packaging: "200 gm bottle 1 kg HDPE Jar",
-        Productimg: "/Assets/Product img/Auricur.jpeg",
-        Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+        Productimg: " ",
+        Productname: " ",
         composition: [
             "Each Kg Contains:",
             "Yucca schidigera 30 % extract 100 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus polymyxa, Bacillus megaterium, Bacillus coagulans, SiO2 25 %, Al2O3 4 %, CaO 1 %, Na2O 0.025 %, MgO 0.5 %, Fe2O3 0.5 %, K2O 0.5 %",

@@ -12,7 +12,7 @@ const Certificates = () => {
             <img
               src={certificate.imgSrc}
               alt={certificate.name + " Certificate"}
-              className="mx-auto mb-2"
+              className="mx-auto mb-2 hover:scale-105"
               width="200"
               height="300"
             />
