@@ -7,7 +7,7 @@ const Export = () => {
                 <img
                     src="https://storage.googleapis.com/a1aa/image/2K7dQ6qCBTD_bYtRoDotMjDJmInAoUzmdOS8KDc0x1U.jpg"
                     alt="Export"
-                    className="w-full h-72 object-cover"
+                    className="w-full h-[500px] object-cover"
                 />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

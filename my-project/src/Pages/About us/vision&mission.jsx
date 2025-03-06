@@ -7,7 +7,7 @@ const VisionMission = () => {
                 <img
                     src="/Assets/vision and mission/vission and mission.jpg"
                     alt="Vision and Mission"
-                    className="w-full h-72 object-cover object-bottom"
+                    className="w-full h-[500px] object-cover object-bottom"
                 />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

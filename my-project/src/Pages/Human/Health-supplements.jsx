@@ -1,5 +1,5 @@
 import React from "react";
-import ProductCard from "../../Components/Human/Health supplements/ProductCard";
+import ProductCard from "../../Components/Human/ProductCard";
 import { Human } from "../../Data/human_data";
 
 const Healthsupplements = () => {
@@ -9,7 +9,7 @@ const Healthsupplements = () => {
         <img
           src="/Assets/banner/Health suppliments.webp"
           alt="Health suppliments"
-          className="w-full h-96 object-cover object-bottom"
+          className="w-full h-[500px] object-cover object-bottom"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">

@@ -11,7 +11,7 @@ const About = () => {
                 <img
                     src="/Assets/About us.jpg"
                     alt="About Us"
-                    className="w-full h-80 object-cover object-bottom"
+                    className="w-full h-[500px] object-cover object-bottom"
                 />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

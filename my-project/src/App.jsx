@@ -19,6 +19,8 @@ import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
 import ResearchDevelopment from "./Pages/About us/ResearchDevelopment";
 import Export from "./Pages/About us/Export";
 import Certificates from "./Pages/About us/Certificates";
+import Yeppuen from "./Pages/Human/Yeppuen";
+import Pet from "./Pages/Veterinary/Pet";
 
 const App = () => {
   return (
@@ -32,10 +34,12 @@ const App = () => {
           <Route path="/vision-mission" element={<VisionMission />} />
           <Route path="/health-supplements" element={<Healthsupplements />} />
           <Route path="/personal-care" element={<Persnolcare />} />
+          <Route path="/yeppuen" element={<Yeppuen />} />
           <Route path="/livestock" element={<Livestock />} />
           <Route path="/poultry" element={<Poultry />} />
           <Route path="/aqua" element={<Aqua />} />
           <Route path="/swine" element={<Swine />} />
+          <Route path="/pet" element={<Pet />} />
           <Route path="/feed-grain" element={<FeedGrain />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/productbrochures" element={<ProductBrochures />} />

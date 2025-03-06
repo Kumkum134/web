@@ -1,26 +1,26 @@
 import React from "react";
-import ProductCard from "../../Components/Human/ProductCard";
-import { aqua } from "../../Data/aqua_data";
+import { yeppuen } from "../../Data/yeppuen";
+import YeppuenCard from "../../Components/Human/YeppuenCard";
 
-const Aqua = () => {
+const Yeppuen = () => {
   return (
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/Aqua.jpg"
-          alt="Aqua"
+          src="/Assets/banner/Persnol care.webp"
+          alt="Personal care"
           className="w-full h-[500px] object-cover"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">
-          <h1 className="text-4xl font-bold">Aqua</h1>
+          <h1 className="text-4xl font-bold">Yeppuen</h1>
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {aqua?.length > 0 ? (
+        {yeppuen.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {aqua.map((product) => (
-              <ProductCard key={product.id} product={product} />
+            {yeppuen.map((product) => (
+              <YeppuenCard key={product.id} product={product} />
             ))}
           </div>
         ) : (
@@ -31,4 +31,4 @@ const Aqua = () => {
   );
 };
 
-export default Aqua;
+export default Yeppuen;

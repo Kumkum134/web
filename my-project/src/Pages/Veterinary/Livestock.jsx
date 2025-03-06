@@ -1,5 +1,5 @@
 import React from "react";
-import ProductCard from "../../Components/Human/Health supplements/ProductCard";
+import ProductCard from "../../Components/Human/ProductCard";
 import { livestock } from "../../Data/livestock_data";
 
 const Livestock = () => {
@@ -9,7 +9,7 @@ const Livestock = () => {
       <img
         src="/Assets/banner/Livestock.jpg"
         alt="Livestock"
-        className="w-full h-96 object-cover"
+        className="w-full h-[500px] object-cover object-top"
       />
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">
