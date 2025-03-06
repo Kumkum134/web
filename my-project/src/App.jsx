@@ -13,7 +13,9 @@ import Poultry from "./Pages/Veterinary/Poultry";
 import Aqua from "./Pages/Veterinary/Aqua";
 import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
-import Blog from "./Pages/Blog/Blog";
+import Reports from "./Pages/Media/Report";
+import Blog from "./Pages/Media/Blog";
+import Articles from "./Pages/Media/Articles";
 import ProductBrochures from "./Pages/Product Brochures/ProductBrochures";
 import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
 import ResearchDevelopment from "./Pages/About us/ResearchDevelopment";
@@ -21,6 +23,7 @@ import Export from "./Pages/About us/Export";
 import Certificates from "./Pages/About us/Certificates";
 import Yeppuen from "./Pages/Human/Yeppuen";
 import Pet from "./Pages/Veterinary/Pet";
+import Rating from "./Pages/Media/Review & Feedback";
 
 const App = () => {
   return (
@@ -41,7 +44,10 @@ const App = () => {
           <Route path="/swine" element={<Swine />} />
           <Route path="/pet" element={<Pet />} />
           <Route path="/feed-grain" element={<FeedGrain />} />
+          <Route path="/reports" element={<Reports />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/articles" element={<Articles />} />
+          <Route path="/rating" element={<Rating />} />
           <Route path="/productbrochures" element={<ProductBrochures />} />
           <Route path="/manufacturing-facility" element={<ManufacturingFacility />} />
           <Route path="/research-development" element={<ResearchDevelopment />} />
