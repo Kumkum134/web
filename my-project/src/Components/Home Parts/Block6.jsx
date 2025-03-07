@@ -1,8 +1,19 @@
 import React, { useState } from "react";
 import { speciesData } from "../../Data/data";
+import { useNavigate } from "react-router-dom";
 
 const Block6 = () => {
   const [expandedIndex, setExpandedIndex] = useState(null);
+  const navigate = useNavigate();
+
+  const speciesPaths = {
+    Poultry: "/poultry",
+    Aqua: "/aqua",
+    Swine: "/swine",
+    Pet: "/pet",
+    Equine: "/equine",
+    "Feed & Grain": "/feed-grain"
+  };
 
   return (
     <div className="relative flex justify-center py-8 px-4 md:px-8 lg:px-12 min-h-48">
@@ -15,6 +26,7 @@ const Block6 = () => {
             }`}
             onMouseEnter={() => setExpandedIndex(index)}
             onMouseLeave={() => setExpandedIndex(null)}
+            onClick={() => navigate(speciesPaths[species.title])} 
           >
             <img
               src={species.image}
