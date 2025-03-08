@@ -36,7 +36,7 @@ const Block8 = () => {
       {block8Data.map((item, index) => (
         <div
           key={item.id}
-          className="w-full max-w-xs md:max-w-sm h-[25rem] flex flex-col justify-between bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-300 hover:scale-105"
+          className="w-full max-w-xs md:max-w-sm h-[28rem] flex flex-col justify-between bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-300 hover:scale-105"
           onMouseEnter={() => setHoveredIndex(index)}
           onMouseLeave={() => setHoveredIndex(null)}
         >
@@ -61,3 +61,4 @@ const Block8 = () => {
 };
 
 export default Block8;
+// 800px × 1000px?
