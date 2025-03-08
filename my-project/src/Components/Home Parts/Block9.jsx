@@ -1,52 +1,37 @@
-import React, { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import { reviews } from "../../Data/data";
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Block9 = () => {
-    const [currentIndex, setCurrentIndex] = useState(0);
-
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCurrentIndex((prevIndex) =>
-                prevIndex === reviews.length - 1 ? 0 : prevIndex + 1
-            );
-        }, 3000);
-
-        return () => clearInterval(interval);
-    }, []);
-
     return (
-        <div className="flex flex-wrap gap-4 items-center justify-center py-12 px-6 md:px-12 lg:px-16 rounded-2xl shadow-xl relative overflow-hidden">
-            <h1 className="text-3xl font-bold text-gray-900 mb-6">Aurinko Health Care Pvt. Ltd</h1>
-            <motion.div
-                className="mb-8 text-center"
-                whileHover={{ scale: 1.05 }}
-                transition={{ duration: 0.3 }}
-            >
-                <h2 className="text-2xl font-semibold text-gray-800">Review & Feedback</h2>
-                <button className="mt-3 px-6 py-2 bg-orange-600 text-white rounded-full shadow-lg hover:bg-green-800 transition-all duration-300">
-                    Go Review
-                </button>
-            </motion.div>
+        <div className=" min-h-96 py-12">
+            <div className="flex flex-col md:flex-row justify-between items-stretch p-10 rounded-lg max-w-6xl mx-auto gap-6">
+                <div className="flex-1 text-center md:text-left">
+                    <h1 className="text-4xl font-bold text-green-700 mb-6">Get in Touch</h1>
+                    <div className="bg-white/90 backdrop-blur-lg p-6 rounded-lg shadow-lg border-l-4 border-green-600 flex flex-col justify-center h-full">
+                        <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                            We believe in making healthcare better, together! If you're interested in our vision and want to collaborate or learn more, let's talk!
+                        </p>
+                        <Link to="/contact-us">
+                            <button className="bg-orange-500 text-white px-8 py-3 rounded-lg text-lg font-semibold shadow-md hover:bg-orange-600 transition-transform duration-300 hover:scale-105 hover:shadow-2xl">
+                                Join Us
+                            </button>
+                        </Link>
+                    </div>
+                </div>
 
-            <motion.div 
-                key={currentIndex} 
-                className="relative w-96 h-96 flex flex-col items-center justify-center bg-white bg-opacity-20 backdrop-blur-md shadow-xl rounded-2xl p-6 text-center border border-white"
-                initial={{ opacity: 0, scale: 0.8, y: 20 }}
-                animate={{ opacity: 1, scale: 1, y: 0 }}
-                exit={{ opacity: 0, scale: 0.8, y: -20 }}
-                transition={{ duration: 0.6 }}
-            >
-                <motion.img
-                    src={reviews[currentIndex].image}
-                    alt="Review user"
-                    className="w-20 h-20 rounded-full border-4 mb-3 "
-                    whileHover={{ scale: 1.1 }}
-                    transition={{ duration: 0.3 }}
-                />
-                <p className="text-gray-900 text-lg italic">{reviews[currentIndex].text}</p>
-                <h3 className="mt-2 text-xl font-medium text-gray-800">{reviews[currentIndex].name}</h3>
-            </motion.div>
+                <div className="flex-1 text-center md:text-left">
+                    <h2 className="text-2xl font-bold text-green-700 mb-6">A Thought on Healthcare</h2>
+                    <div className="bg-white/90 backdrop-blur-lg p-6 rounded-lg border-l-4 border-orange-500 shadow-lg flex flex-col justify-center h-full">
+                        <p className="text-gray-700 leading-relaxed italic mb-6">
+                            "Health is not just about being disease-free. It's about physical, mental, and social well-being. Let's work together to create a healthier world."
+                        </p>
+                        <p className="text-gray-800 px-4 py-2 rounded-md font-semibold text-right">
+                            - John Doe
+                        </p>
+                    </div>
+                </div>
+
+            </div>
         </div>
     );
 };

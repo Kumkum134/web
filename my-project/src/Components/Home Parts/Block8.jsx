@@ -32,11 +32,11 @@ const Block8 = () => {
   };
 
   return (
-    <div className="flex flex-wrap justify-center gap-4 py-4">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 py-6 px-4">
       {block8Data.map((item, index) => (
         <div
           key={item.id}
-          className="w-full sm:w-1/2 md:w-1/3 lg:w-[18%] h-[25rem] flex flex-col justify-between bg-white rounded-lg shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105"
+          className="w-full max-w-xs md:max-w-sm h-[25rem] flex flex-col justify-between bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-300 hover:scale-105"
           onMouseEnter={() => setHoveredIndex(index)}
           onMouseLeave={() => setHoveredIndex(null)}
         >
@@ -44,15 +44,13 @@ const Block8 = () => {
             <img
               src={hoveredIndex === index ? item.hoverImage : item.image}
               alt={item.title}
-              className="w-full h-full rounded-lg object-cover transition-opacity duration-300"
+              className="w-full h-full object-cover transition-opacity duration-300"
             />
           </div>
-          <div className="text-center mt-2 h-[25%] flex flex-col justify-center bg-gray-50 p-2 rounded-b-lg">
-            <h3 className="text-lg font-semibold">{item.title}</h3>
+          <div className="text-center h-[25%] flex flex-col justify-center bg-gray-50 p-3 rounded-b-xl">
+            <h3 className="text-lg font-semibold text-gray-800">{item.title}</h3>
             <div className="flex justify-center mt-1">{renderStars(item.rating)}</div>
-            <span
-              className={"mt-2 inline-block bg-orange-100 text-orange-700 text-xs font-semibold px-3 py-1 rounded-full"}
-            >
+            <span className="mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-orange-100 text-orange-700">
               {item.segment}
             </span>
           </div>

@@ -32,11 +32,11 @@ const Block3 = () => {
   };
 
   return (
-    <div className="flex flex-wrap justify-center gap-6 py-6 px-4 sm:px-6 md:px-8 lg:px-12">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 py-6 px-4">
       {block3Data.map((item, index) => (
         <div
           key={item.id}
-          className="w-full sm:w-1/2 md:w-1/3 lg:w-1/5 xl:w-[18%] max-w-xs h-[25rem] flex flex-col justify-between bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-300 hover:scale-105"
+          className="w-full max-w-xs md:max-w-sm h-[25rem] flex flex-col justify-between bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-300 hover:scale-105"
           onMouseEnter={() => setHoveredIndex(index)}
           onMouseLeave={() => setHoveredIndex(null)}
         >
@@ -50,9 +50,7 @@ const Block3 = () => {
           <div className="text-center h-[25%] flex flex-col justify-center bg-gray-50 p-3 rounded-b-xl">
             <h3 className="text-lg font-semibold text-gray-800">{item.title}</h3>
             <div className="flex justify-center mt-1">{renderStars(item.rating)}</div>
-            <span
-              className={"mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-green-100 text-green-700"}
-            >
+            <span className="mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-green-100 text-green-700">
               {item.segment}
             </span>
           </div>

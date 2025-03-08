@@ -8,12 +8,13 @@ import Block5 from "../../Components/Home Parts/Block5";
 import Block6 from "../../Components/Home Parts/Block6";
 import Block7 from "../../Components/Home Parts/Block7";
 import Block8 from "../../Components/Home Parts/Block8";
-import Footer from "../../Layout/Footer/footer";
 import Block9 from "../../Components/Home Parts/Block9";
+import Block10 from "../../Components/Home Parts/Block10";
+import Footer from "../../Layout/Footer/footer";
 
 const Home = () => {
     return (
-        <div className="absolute top-0 left-0 w-full h-auto bg-white">
+        <div className="absolute top-0 left-0 w-full h-auto bg-gradient-to-br from-white to-gray-100">
             <ImageSlider />
             <Block1 />
             <Block2 />
@@ -24,6 +25,7 @@ const Home = () => {
             <Block7 />
             <Block8 />
             <Block9/>
+            <Block10/>
             <Footer />
         </div>
     );
