@@ -21,15 +21,14 @@ const Navbar = () => {
     return (
         <nav className="p-4 z-30">
             <div className="flex items-center justify-between">
-                <div className="md:hidden">
+                <div className="lg:hidden">
                     <button onClick={toggleMenu} className="text-black focus:outline-none">
                         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16m-7 6h7"></path>
                         </svg>
                     </button>
                 </div>
-
-                <div className="hidden md:flex md:flex-wrap md:items-center lg:flex lg:flex-wrap">
+                <div className="hidden md:flex-wrap md:items-center lg:flex lg:flex-wrap">
                     <Link to="/" className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
                         Home
                     </Link>
@@ -59,7 +58,6 @@ const Navbar = () => {
                             </Link>
                         </div>
                     </div>
-
                     <div className="relative group">
                         <button className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
                             Human
@@ -92,7 +90,6 @@ const Navbar = () => {
                             </Link>
                         </div>
                     </div>
-
                     <div className="relative group">
                         <button className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
                             Veterinary
@@ -123,8 +120,6 @@ const Navbar = () => {
                             </div>
                         </div>
                     </div>
-
-
                     <Link to="/ingredients" className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
                         Ingredients
                     </Link>
@@ -158,12 +153,10 @@ const Navbar = () => {
                     </Link>
                 </div>
             </div>
-
-            <div className={`md:hidden ${isOpen ? 'block' : 'hidden'} mt-4`}>
+            <div className={`lg:hidden ${isOpen ? 'block' : 'hidden'} mt-4`}>
                 <Link to="/" className="block py-2 px-4 hover:bg-gray-100 rounded">
                     Home
                 </Link>
-
                 <div className="mt-2">
                     <button onClick={() => toggleDropdown("about")} className="w-full text-left py-2 px-4 hover:bg-gray-100 rounded">
                         About Us
