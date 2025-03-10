@@ -978,28 +978,6 @@ export const poultry = [
     },
     {
         id: 32,
-        name: "Potent Organic Immunomodulator",
-        description:
-            "growth",
-        segment: "Poultry, Aqua",
-        type: "Powder",
-        category: "Immunomodulator , Other Specialty",
-        packaging: "100 gm, 500 gm & 1 kg",
-        Productimg: " ",
-        Productname: " ",
-        composition: [
-            "sativum"
-        ],
-        indications:
-            ["Promoter"],
-        usage:
-            ["weeks"],
-        report: " ",
-        brochure: " ",
-        feedback: " "
-    },
-    {
-        id: 32,
         name: "Supports Metabolic Activation",
         description:
             "PHOSBOL is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",

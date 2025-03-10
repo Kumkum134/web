@@ -16,7 +16,7 @@ const Block10 = () => {
     }, []);
 
     return (
-        <div className="flex flex-col items-center justify-center py-12 px-6 md:px-12 lg:px-16">
+        <div className="flex flex-col items-center justify-center py-10 px-6 md:px-8 lg:px-12">
             <div className="text-center">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-green-800">
                     Review <span className="text-orange-600">And Feedback</span>
@@ -25,9 +25,12 @@ const Block10 = () => {
             </div>
             <div className="flex flex-col lg:flex-row items-center justify-center gap-10 mt-12 p-8 relative overflow-hidden">
                 <div className="text-center lg:text-left">
+                    <div>
+                        <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="w-36 h-32 mx-auto lg:mx-0"/>
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">
                         Aurinko Health Care Pvt. Ltd
                     </h2>
+                    </div>
                     <button className="mt-4 px-6 py-3 bg-orange-600 text-white text-lg font-medium rounded-full shadow-lg hover:bg-green-700 transition-all duration-300">
                         Go Review
                     </button>
@@ -35,7 +38,7 @@ const Block10 = () => {
                 <AnimatePresence mode="wait">
                     <motion.div
                         key={currentIndex}
-                        className="relative w-96 h-96 flex flex-col items-center justify-center bg-opacity-80 backdrop-blur-lg  rounded-2xl p-6 text-center"
+                        className="relative w-80 h-96 flex flex-col items-center justify-center bg-opacity-80 backdrop-blur-lg  rounded-2xl p-6 text-center"
                         initial={{ opacity: 0, scale: 0.9, y: 30 }}
                         animate={{ opacity: 1, scale: 1, y: 0 }}
                         exit={{ opacity: 0, scale: 0.9, y: -30 }}
