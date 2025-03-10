@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import items from "../../Data/productbrochure";
-import { FaTimes, FaExpand, FaSearchPlus, FaDownload, FaShareAlt } from "react-icons/fa";
+import { FaTimes, FaSearchPlus, FaDownload, FaShareAlt } from "react-icons/fa";
 
 const ProductBrochures = () => {
   const [selectedIndex, setSelectedIndex] = useState(null);

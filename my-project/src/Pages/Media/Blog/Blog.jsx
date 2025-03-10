@@ -1,6 +1,6 @@
 import React from "react";
-import BlogCard from "../../Components/Media/blogcard";
-import { blogs } from "../../Data/blog";
+import { blogs } from "../../../Data/blog";
+import BlogCard from "../../../Components/Blog/blogcard";
 
 const Blog = () => {
     return (

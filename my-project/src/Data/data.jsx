@@ -1,8 +1,8 @@
 export const block3Data = [
   {
     id: 1,
-    image: "/Assets/Product img/Auriplanta.jpg",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
+    image: "/Assets/Product img/Auriplanta.jpeg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpeg",
     title: "Auriplanta",
     segment: "LiveStock",
     rating: 4.5,

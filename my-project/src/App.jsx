@@ -14,7 +14,6 @@ import Aqua from "./Pages/Veterinary/Aqua";
 import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
 import Reports from "./Pages/Media/Report";
-import Blog from "./Pages/Media/Blog";
 import Articles from "./Pages/Media/Articles";
 import ProductBrochures from "./Pages/Product Brochures/ProductBrochures";
 import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
@@ -24,6 +23,7 @@ import Certificates from "./Pages/About us/Certificates";
 import Yeppuen from "./Pages/Human/Yeppuen";
 import Pet from "./Pages/Veterinary/Pet";
 import Rating from "./Pages/Media/Review & Feedback";
+import Blog from "./Pages/Media/Blog/Blog";
 
 const App = () => {
   return (
