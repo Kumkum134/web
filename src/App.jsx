@@ -28,6 +28,7 @@ import Equines from "./Pages/Veterinary/Equines";
 import Blog1 from "./Components/Blog/blog1";
 import Blog2 from "./Components/Blog/blog2";
 
+
 const App = () => {
   return (
     <Router>
