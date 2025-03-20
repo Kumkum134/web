@@ -1,10 +1,13 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [, setIsScrolled] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  const location = useLocation();
+  const isHomePage = location.pathname === '/';
 
   const toggleDropdown = (menu) => {
     setIsDropdownOpen(isDropdownOpen === menu ? null : menu);
@@ -30,7 +33,9 @@ const Navbar = () => {
   }, [isMobileMenuOpen]);
 
   return (
-    <header className="sticky top-0 left-0 w-full z-50 transition-all duration-300 bg-white h-26 font-medium">
+    <header className={`fixed w-full z-50 top-0 transition-all duration-300
+      ${isHomePage ? 'bg-black/10 text-white hover:bg-white hover:text-black' : 'bg-white text-black shadow-md'}
+     `}>
       <div className="container mx-auto flex items-center justify-between py-4 lg:py-1 px-6">
         <div className="hidden lg:flex items-center ">
           <Link to="/">
@@ -55,7 +60,32 @@ const Navbar = () => {
               <Link to="/certificates" className="block px-4 py-2 hover:bg-gray-100">Certificates</Link>
             </div>
           </div>
-
+          <div className="relative group">
+            <button className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
+              Human
+            </button>
+            <div className="absolute left-0 bg-white shadow-lg rounded mt-2 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+              <Link to="/health-supplements" className="block px-4 py-2 hover:bg-gray-100">Health Supplements</Link>
+              <div className="relative group/nano">
+                <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
+                  Nano-biotechnology Compounds
+                </button>
+                <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
+                  <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Nanophosphosomes®
+                  </Link>
+                  <Link to="/neunamin" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Neuna®mins
+                  </Link>
+                  <Link to="/neunamin" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Neuna®particles
+                  </Link>
+                </div>
+              </div>
+              <Link to="/personal-care" className="block px-4 py-2 hover:bg-gray-100">Personal Care</Link>
+              <Link to="/yeppuen" className="block px-4 py-2 hover:bg-gray-100">Yeppuen</Link>
+            </div>
+          </div>
           <div className="relative group">
             <button className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
               Veterinary
@@ -68,6 +98,22 @@ const Navbar = () => {
               <Link to="/equine" className="block px-4 py-2 hover:bg-gray-100">Equine</Link>
               <Link to="/pet" className="block px-4 py-2 hover:bg-gray-100">Pet</Link>
               <Link to="/feed-grain" className="block px-4 py-2 hover:bg-gray-100">Feed & Grain</Link>
+              <div className="relative group/nano">
+                <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
+                  Nano-biotechnology Compounds
+                </button>
+                <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
+                  <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Nanophosphosomes®
+                  </Link>
+                  <Link to="/neunamin" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Neuna®mins
+                  </Link>
+                  <Link to="/neunamin" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
+                    Neuna®particles
+                  </Link>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -96,7 +142,7 @@ const Navbar = () => {
 
         <div className="hidden lg:flex items-center space-x-4">
           <button className="text-black hover:text-gray-700 relative ">
-            <i className="fas fa-shopping-bag text-2xl"><a href="https://aurinkohealthcare.in"></a></i>
+          <Link to="https://aurinkohealthcare.in"> <i className="fas fa-shopping-bag text-2xl"></i></Link>
           </button>
         </div>
 
@@ -113,7 +159,7 @@ const Navbar = () => {
           </div>
 
           <button className="text-black hover:text-gray-700 relative mr-[7%]">
-            <i className="fas fa-shopping-bag text-xl"><a href="https://aurinkohealthcare.in"></a></i>
+          <Link to="https://aurinkohealthcare.in"><i className="fas fa-shopping-bag text-xl"></i></Link>
           </button>
         </div>
       </div>
@@ -158,7 +204,7 @@ const Navbar = () => {
                 <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
                   Nano-biotechnology Compounds
                 </button>
-                <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
+                <div className="absolute right-0 top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
                   <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
                     Nanophosphosomes®
                   </Link>
@@ -209,7 +255,7 @@ const Navbar = () => {
                 <button className="w-full text-left px-4 py-2 hover:bg-gray-100">
                   Nano-biotechnology Compounds
                 </button>
-                <div className="absolute left-full top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
+                <div className="absolute right-0 top-0 bg-white shadow-lg rounded w-48 hidden group-hover/nano:block transition-all duration-200">
                   <Link to="/nanophosphosome" className="block px-4 py-2 hover:bg-gray-100" onClick={closeMobileMenu}>
                     Nanophosphosomes®
                   </Link>

@@ -27,13 +27,11 @@ const ContactUs = () => {
     let formErrors = {};
     let isValid = true;
 
-    // Name validation
     if (!formData.name) {
       formErrors.name = "Name is required";
       isValid = false;
     }
 
-    // Mobile validation
     if (!formData.mobile) {
       formErrors.mobile = "Mobile number is required";
       isValid = false;
@@ -42,7 +40,6 @@ const ContactUs = () => {
       isValid = false;
     }
 
-    // Email validation
     if (!formData.email) {
       formErrors.email = "Email is required";
       isValid = false;
@@ -51,7 +48,6 @@ const ContactUs = () => {
       isValid = false;
     }
 
-    // Message validation
     if (!formData.message) {
       formErrors.message = "Message is required";
       isValid = false;
@@ -69,7 +65,7 @@ const ContactUs = () => {
     }
 
     try {
-      const response = await fetch("http://localhost:2025/api/contact-us", {
+      const response = await fetch("http://127.0.0.1:2025/api/contact-us", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

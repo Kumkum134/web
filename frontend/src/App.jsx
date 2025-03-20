@@ -1,5 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
-import { useEffect } from "react";
+import { Routes, Route } from 'react-router-dom';
 import Home from "./Pages/Home/Home";
 import ContactUs from "./Pages/contact/contact";
 import Footer from "./Layout/Footer/footer";
@@ -28,54 +27,48 @@ import Blog1 from "./Components/Blog/blog1";
 import Blog2 from "./Components/Blog/blog2";
 import Navbar from "../src/Layout/Navbar/Navbar";
 
-const ScrollToTop = () => {
-  const { pathname } = useLocation();
-
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [pathname]);
-
-  return null;
-};
-
 const App = () => {
   return (
-    <>
-    <Router>
-        {/* <Header />  */}
-        <Navbar />
-        <ScrollToTop />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about-us" element={<About />} />
-          <Route path="/contact-us" element={<ContactUs />} />
-          <Route path="/vision-mission" element={<VisionMission />} />
-          <Route path="/health-supplements" element={<Healthsupplements />} />
-          <Route path="/personal-care" element={<Persnolcare />} />
-          <Route path="/yeppuen" element={<Yeppuen />} />
-          <Route path="/livestock" element={<Livestock />} />
-          <Route path="/poultry" element={<Poultry />} />
-          <Route path="/aqua" element={<Aqua />} />
-          <Route path="/swine" element={<Swine />} />
-          <Route path="/equine" element={<Equines />} />
-          <Route path="/pet" element={<Pet />} />
-          <Route path="/feed-grain" element={<FeedGrain />} />
-          <Route path="/reports" element={<Reports />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/blog/blog1" element={<Blog1 />} />
-          <Route path="/blog/blog2" element={<Blog2 />} />
-          <Route path="/articles" element={<Articles />} />
-          <Route path="/rating" element={<Rating />} />
-          <Route path="/productbrochures" element={<ProductBrochures />} />
-          <Route path="/manufacturing-facility" element={<ManufacturingFacility />} />
-          <Route path="/research-development" element={<ResearchDevelopment />} />
-          <Route path="/export" element={<Export />} />
-          <Route path="/certificates" element={<Certificates />} />
-        </Routes>
-    
-      <Footer /> 
-    </Router>
-    </>
+    <div className="flex flex-col min-h-screen">
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route
+          path="/*"
+          element={
+            <div className="flex-1 mt-16">
+              <Routes>
+                <Route path="about-us" element={<About />} />
+                <Route path="contact-us" element={<ContactUs />} />
+                <Route path="vision-mission" element={<VisionMission />} />
+                <Route path="health-supplements" element={<Healthsupplements />} />
+                <Route path="personal-care" element={<Persnolcare />} />
+                <Route path="yeppuen" element={<Yeppuen />} />
+                <Route path="livestock" element={<Livestock />} />
+                <Route path="poultry" element={<Poultry />} />
+                <Route path="aqua" element={<Aqua />} />
+                <Route path="swine" element={<Swine />} />
+                <Route path="equine" element={<Equines />} />
+                <Route path="pet" element={<Pet />} />
+                <Route path="feed-grain" element={<FeedGrain />} />
+                <Route path="reports" element={<Reports />} />
+                <Route path="blog" element={<Blog />} />
+                <Route path="blog/blog1" element={<Blog1 />} />
+                <Route path="blog/blog2" element={<Blog2 />} />
+                <Route path="articles" element={<Articles />} />
+                <Route path="rating" element={<Rating />} />
+                <Route path="productbrochures" element={<ProductBrochures />} />
+                <Route path="manufacturing-facility" element={<ManufacturingFacility />} />
+                <Route path="research-development" element={<ResearchDevelopment />} />
+                <Route path="export" element={<Export />} />
+                <Route path="certificates" element={<Certificates />} />
+              </Routes>
+            </div>
+          }
+        />
+      </Routes>
+      <Footer />
+    </div>
   );
 };
 
