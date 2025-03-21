@@ -119,7 +119,7 @@ const ResearchDevelopment = () => {
           <ul className="text-gray-700 list-disc pl-5">
             <li>Greater bioavailability and cellular absorption.</li>
             <li>Higher retention and lower fecal excretion.</li>
-            <li>Broad safety margin with minimal side effects.</li>
+            <li>Broad safety margin with minimal side effects.</li> 
           </ul>
         </div>
       </div>
