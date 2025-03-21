@@ -11,6 +11,7 @@ import Poultry from "./Pages/Veterinary/Poultry";
 import Aqua from "./Pages/Veterinary/Aqua";
 import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
+import Ingredients from "./Pages/Media/Ingredients";
 import Reports from "./Pages/Media/Report";
 import Articles from "./Pages/Media/Articles";
 import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
@@ -51,6 +52,7 @@ const App = () => {
                 <Route path="equine" element={<Equines />} />
                 <Route path="pet" element={<Pet />} />
                 <Route path="feed-grain" element={<FeedGrain />} />
+                <Route path="ingredients" element={<Ingredients />} />
                 <Route path="reports" element={<Reports />} />
                 <Route path="blog" element={<Blog />} />
                 <Route path="blog/blog1" element={<Blog1 />} />
