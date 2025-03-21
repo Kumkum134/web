@@ -11,7 +11,7 @@ const VisionMission = () => {
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">
-          <h1 className="text-4xl font-bold">Vision & Mission</h1>
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold">Vision & Mission</h1>
         </div>
       </div>
       <div className="flex flex-col items-center justify-center min-h-screen px-6 py-12">

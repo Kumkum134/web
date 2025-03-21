@@ -76,7 +76,6 @@ const ContactUs = () => {
       const result = await response.json();
       if (response.ok) {
         alert("Message sent successfully!");
-        // Clear form after successful submission
         setFormData({
           name: "",
           mobile: "",
@@ -93,7 +92,9 @@ const ContactUs = () => {
   };
 
   return (
-    <div className="bg-white text-gray-800 container mx-auto p-4 ">
+    <div className="bg-white text-gray-800 container mx-auto p-4">
+      <h1 className="text-4xl font-bold text-center mb-8">Contact Us</h1>
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
           <h2 className="text-2xl font-bold mb-4 flex items-center">
@@ -154,6 +155,7 @@ const ContactUs = () => {
             </button>
           </form>
         </div>
+
         <div>
           <div className="mb-8">
             <h2 className="text-2xl font-bold mb-4 flex items-center">
@@ -172,6 +174,7 @@ const ContactUs = () => {
           </div>
         </div>
       </div>
+
       <div className="mt-8">
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3511.2936394417075!2d77.34505539999999!3d28.3499707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdb9766d62aab%3A0x499dcf82d3074077!2sAurinko%20Healthcare%20Private%20Limited!5e0!3m2!1sen!2sin!4v1741677068894!5m2!1sen!2sin"

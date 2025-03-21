@@ -52,8 +52,13 @@ const ProductBrochures = () => {
   };
 
   return (
-    <div className="bg-white min-h-screen flex justify-center items-center p-4">
-      <div className="container mx-auto py-8">
+    <div className="bg-white min-h-screen flex flex-col items-center mx-auto p-6">
+      <div className="w-full max-w-7xl text-center mb-8">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800">Product Brochures</h1>
+        <div className="h-1 w-32 bg-orange-500 mx-auto mt-4"></div>
+      </div>
+
+      <div className="container mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {items.map((item, index) => (
             <div
@@ -79,20 +84,20 @@ const ProductBrochures = () => {
       {selectedIndex !== null && (
         <div className="fixed inset-0 bg-black bg-opacity-80 flex justify-center items-center z-50 p-4">
           <div className="relative flex items-center justify-center w-full max-w-4xl max-h-[80vh]">
-
-
             <img
               src={items[selectedIndex].img}
               alt="Full View"
               className={`max-w-full max-h-[75vh] transition-transform duration-300 ${zoom ? "scale-125" : "scale-100"}`}
               onClick={() => setZoom(!zoom)}
             />
+            
             <button
               className="absolute top-15 left-4 text-white text-3xl"
               onClick={prevImage}
             >
               <FaChevronLeft />
             </button>
+            
             <button
               className="absolute top-15 right-4 text-white text-3xl"
               onClick={nextImage}

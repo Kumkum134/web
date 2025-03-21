@@ -27,7 +27,7 @@ const Export = () => {
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">
-          <h1 className="text-4xl font-bold">Export</h1>
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold">Export</h1>
         </div>
       </div>
       <div className="container mx-auto px-4 py-12 flex flex-col md:flex-row items-center gap-8">

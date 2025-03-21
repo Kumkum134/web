@@ -18,7 +18,7 @@ const ManufacturingFacility = () => {
           className="w-full h-[500px] object-cover"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-          <h1 className="text-white text-4xl font-bold">Manufacturing Facility</h1>
+          <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold">Manufacturing Facility</h1>
         </div>
       </div>
       <div className="container mx-auto px-4 py-8">
