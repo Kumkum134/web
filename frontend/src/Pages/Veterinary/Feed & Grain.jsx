@@ -1,5 +1,5 @@
 import React from "react";
-import ProductCard from "../../Components/Human/ProductCard"; 
+import ProductCard from "../../Components/Human/ProductCard";
 import feedgrain_data from "../../Data/feed & grain_Data.jsx";
 
 const FeedGrain = () => {
@@ -7,6 +7,7 @@ const FeedGrain = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Feed & Grain.webp"
           alt="Feed & Grain"
           className="w-full h-[500px] object-cover"

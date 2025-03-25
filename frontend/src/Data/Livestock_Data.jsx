@@ -8,7 +8,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Masti 24.jpeg",
     composition: [
       "Each 100 gm contains:",
@@ -19,7 +19,7 @@ const livestock_data = [
     usage:
       ["For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days."],
     report: " ",
-    brochure: " ",
+    brochure: "Assets/brochure/Masti 24.png",
     feedback: " "
   },
   {
@@ -31,7 +31,7 @@ const livestock_data = [
     type: "Spray",
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/AuroSpray.png",
     composition: [
       "Each 100 ml contains :",
@@ -56,12 +56,12 @@ const livestock_data = [
     id: 3,
     name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
     description:
-      "AURIHEAL is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
+      "Auriheal is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
     segment: "Livestock",
     type: "Spray",
     category: "Wound Healer Spray",
     packaging: "75 ml, 100 ml bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriheal.webp",
     Productname: "/Assets/Product name/Livestock/Auriheal.webp",
     composition: [
       "Each 100 ml contains :",
@@ -91,7 +91,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Animal Feed Premix",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr.",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
     composition: [
       "Each 100 ml contains :",
@@ -127,7 +127,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "16 gm sachet, Pack containing 60 sachets",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Fat-a-fat.png",
     composition: [
       "Each 15 gm Sachet contains :",
@@ -157,7 +157,7 @@ const livestock_data = [
     type: "Granule",
     category: "Digestive",
     packaging: "15 gm sachet, Pack containing 25 sachet",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Probirum.png",
     composition: [
       "Each 15 gm Sachet contains :",
@@ -188,7 +188,7 @@ const livestock_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "1Box containing 48 sachets",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Neulact.png",
     composition: [
       "Each sachet contains :",
@@ -216,7 +216,7 @@ const livestock_data = [
     type: "Injectable",
     category: "Antimicrobial , Antibacterial",
     packaging: "30 ml Vial in a unit carton with Tray and Antiseptic swab",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Neubac.png",
     composition: [
       "Each ml contains:",
@@ -239,7 +239,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Anti-Parasitic , Anthelmintic",
     packaging: "6 tablets strip in a unit carton, 100 ml, 250 ml and 500 ml bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
     composition: [
       "Each tablet contains:",
@@ -272,7 +272,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
     composition: [
       "Water Soluble Powder & each gm contains-",
@@ -311,7 +311,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
     composition: [
       "Each gm contains",
@@ -352,7 +352,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Anti - Parasitic, Anthelmintic",
     packaging: "Single bolus strip in a unit carton",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Mecfen.png",
     composition: [
       "Each bolus contains:",
@@ -379,7 +379,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Anti-Parasitic , Anthelmintic",
     packaging: "Single bolus strip in a unit carton",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/Mecfen-Forte.webp",
     composition: [
       "Each bolus contains:",
@@ -407,7 +407,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Bolus Contains:",
@@ -447,7 +447,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Bolus Contains:",
@@ -487,7 +487,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Milk Enhancer",
     packaging: "10×2 boli in a unit carton",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each bolus contains:",
@@ -530,7 +530,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Flukicide",
     packaging: "100 ml, 500 ml and 1 litre Bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -558,7 +558,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Milk Enhancer",
     packaging: "1 litre bottle; 5 litre and 25 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains:",
@@ -585,7 +585,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "16 gm sachets, Dispenser pack containing 20 sachets",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each sachet contains:",
@@ -624,7 +624,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "500 gm, 5 Kg and 25 Kg pack",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each pack contains :",
@@ -672,7 +672,7 @@ const livestock_data = [
     type: "Gel",
     category: "Nutrition Supplement",
     packaging: "400 gm squeezable bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 450 gm contains:",
@@ -701,7 +701,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Preventive Concepts",
     packaging: "500 gm bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Kg contains:",
@@ -732,7 +732,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Mosquito repellent",
     packaging: "100 gm, 250 gm and 1 kg Bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 gm essential oil contains:",
@@ -758,7 +758,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "11 litre Bottle 5 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat natura.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 10 ml conains:",
@@ -789,7 +789,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 5 ml contains:",
@@ -816,7 +816,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "250 ml. 500 ml",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 50 ml contains:",
@@ -845,7 +845,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "250 ml. 500 ml",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 50 ml contains:",
@@ -885,7 +885,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 80 gm contains:",
@@ -913,15 +913,14 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml, 1 ltr.",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Litre contains:",
       "Methylene Blue 1gm"
     ],
     indications:
-      ["Management of Lumpy Skin Disease Symptoms"
-      ],
+      ["Management of Lumpy Skin Disease Symptoms"],
     usage:
       ["Apply or Spray directly over body at alternate days."],
     report: " ",
@@ -937,7 +936,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "250 ml, 500 ml, 1 Ltr",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Lliquid.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -961,7 +960,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "1 Ltr",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Ltr contains-",
@@ -989,7 +988,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimet.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
@@ -1031,7 +1030,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml Bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
@@ -1062,7 +1061,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml Bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 5 ml contains:",
@@ -1092,7 +1091,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "200 ml, 1 litre Bottle, 5 litre Jar,  25 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriplanta.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
@@ -1130,7 +1129,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Immunomodulator , Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains:",
@@ -1159,7 +1158,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 200 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 200 gm contains:",
@@ -1191,7 +1190,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "250 ml Bottle, 500 ml Bottle, 1 litre Bottle, 5 litre Jar, 25 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -1226,7 +1225,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Digestive , Other Specialty",
     packaging: "10 x 4 boli",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each bolus contains :",
@@ -1253,7 +1252,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -1283,7 +1282,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -1306,12 +1305,12 @@ const livestock_data = [
     id: 42,
     name: "    An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
     segment: "Livestock , Swine",
     type: "Powder",
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Kg contains:",
@@ -1346,7 +1345,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 gm contains:",
@@ -1383,7 +1382,7 @@ const livestock_data = [
     type: "Powder",
     category: "Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains.",
@@ -1413,7 +1412,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Ltr. contains:",
@@ -1442,7 +1441,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 1 kg contains :",
@@ -1465,7 +1464,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 1 kg contains :",
@@ -1491,7 +1490,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "75 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 75 gm contains:",
@@ -1515,7 +1514,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 1 kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each gm contains:",
@@ -1544,7 +1543,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive , Other Specialty",
     packaging: "12 gm Sachets 10 Sachets in box",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 12 g Sachet Contains:",
@@ -1575,7 +1574,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Digestive , Other Specialty",
     packaging: "4 Bolus in Strip 2 Strips in a unit carton",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each bolus contains :",
@@ -1607,7 +1606,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 1 kg contains :",
@@ -1632,7 +1631,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "30 Bolus in a container",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each sachet contains:",
@@ -1660,7 +1659,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Antibacterial , Other Specialty",
     packaging: "10ml Aluminium bottle 25 ml multidose Aluminium bottle",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 2.5 gm contains:",
@@ -1686,7 +1685,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 10 ml contains:",
@@ -1716,7 +1715,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -1744,7 +1743,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Immunomodulator , Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains:",
@@ -1770,7 +1769,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 gm contains:",
@@ -1794,7 +1793,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 gm contains:",
@@ -1821,7 +1820,7 @@ const livestock_data = [
     type: "Gel",
     category: "Other Specialty",
     packaging: "125 gm",
-    Productimg: "/Assets/Product img/Livestock/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Pack Contains:",

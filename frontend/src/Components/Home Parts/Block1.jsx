@@ -24,7 +24,8 @@ const Block1 = () => {
           src="/Assets/Aurinko Home.jpeg"
           alt="Aurinko Healthcare"
           className="w-full h-full object-cover rounded-xl shadow-md"
-        />
+          loading="lazy"
+           />
       </div>
     </div>
   );

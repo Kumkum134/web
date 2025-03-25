@@ -7,6 +7,7 @@ const Aqua = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Aqua.jpg"
           alt="Aqua"
           className="w-full h-[500px] object-cover"

@@ -8,7 +8,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Auribery Plus.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auribery Plus.webp",
     Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
     composition: [
       "Each 500 mg Capsule contains:",
@@ -36,7 +36,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Auricam.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auricam.webp",
     Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
     composition: [
       "Each Capsule contains:",
@@ -63,7 +63,7 @@ const human_data = [
     type: "Capsule , Tablet",
     category: "Immunomodulator , Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Auricur.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auricur.webp",
     Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
     composition: [
       "Each Capsule contains:",
@@ -92,7 +92,7 @@ const human_data = [
     type: "Capsule",
     category: "Immunomodulator , Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Auricur Plus.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auricur Plus.webp",
     Productname: "/Assets/Product name/Health suppliments/Auricur Plus.jpeg",
     composition: [
       "1 capsule",
@@ -128,7 +128,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Aurigandha.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurigandha.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurigandha.jpeg",
     composition: [
       "1 Capsule",
@@ -154,7 +154,7 @@ const human_data = [
     type: "Capsule",
     category: "Liver Stimulant, Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Auriliv.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auriliv.webp",
     Productname: "/Assets/Product name/Health suppliments/Auriliv.jpeg",
     composition: [
       "1 Capsule",
@@ -190,7 +190,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Aurijoint.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurijoint.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurijoint.jpeg",
     composition: [
       "1 Capsule",
@@ -221,7 +221,7 @@ const human_data = [
     type: "Capsule",
     category: "Digestive, Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Aurolac forte.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac forte.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurolac forte.jpeg",
     composition: [
       "Each 500 mg Capsule contains:",
@@ -248,7 +248,7 @@ const human_data = [
     type: "Capsule",
     category: "Immunomodulator, Other Specialty",
     packaging: "50 Capsules and 100 Capsules Container",
-    Productimg: "/Assets/Product img/Aurifolia.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurifolia.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurifolia.jpeg",
     composition: [
       "1 Capsule",
@@ -273,7 +273,7 @@ const human_data = [
     type: "Powder",
     category: "Digestive, Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
-    Productimg: "/Assets/Product img/Aurolac Plus.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac Plus.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurolac plus.jpeg",
     composition: [
       "Serving size 1 Packet(2g) Servings Per Container 10",
@@ -304,7 +304,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Auritrol.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auritrol.webp",
     Productname: "/Assets/Product name/Health suppliments/Auritrol.jpeg",
     composition: [
       "1 Capsule",
@@ -331,7 +331,7 @@ const human_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product img/Aurisom.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
     Productname: "/Assets/Product name/Health suppliments/Aurisom.jpeg",
     composition: [
       "1 Enteric Coated Tablet/Capsule",
@@ -359,7 +359,7 @@ const human_data = [
     type: "Capsule",
     category: "Immunomodulator,Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Curino.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Curino.webp",
     Productname: "/Assets/Product name/Health suppliments/Curino.jpeg",
     composition: [
       "1 Capsule",
@@ -384,7 +384,7 @@ const human_data = [
     type: "Capsule",
     category: "Immunomodulator ,Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Curino Plus.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Curino Plus.webp",
     Productname: "/Assets/Product name/Health suppliments/Curino Plus.jpeg",
     composition: [
       "1 Capsule",
@@ -411,7 +411,7 @@ const human_data = [
     type: "Powder",
     category: "Immunomodulator, Other Specialty",
     packaging: "30 sachets in a unit carton",
-    Productimg: "/Assets/Product img/Golden milk.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Golden milk.webp",
     Productname: "/Assets/Product name/Health suppliments/Golden Milk.jpeg",
     composition: [
       "Each 4 gm sachet contains:",
@@ -438,7 +438,7 @@ const human_data = [
     type: "Powder",
     category: "Digestive , Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
-    Productimg: "/Assets/Product img/Immulac.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Immulac.webp",
     Productname: "/Assets/Product name/Health suppliments/Immulac.jpeg",
     composition: [
       "Serving size 1 Packet (2g) Servings Per Container 10",
@@ -470,7 +470,7 @@ const human_data = [
     type: "Capsule",
     category: "Digestive , Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product img/Immulac Power.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Immulac Power.webp",
     Productname: "/Assets/Product name/Health suppliments/Immulac Power.jpeg",
     composition: [
       "Each 500 mg Capsule contains:",

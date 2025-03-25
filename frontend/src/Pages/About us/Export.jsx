@@ -24,6 +24,7 @@ const Export = () => {
           src="https://storage.googleapis.com/a1aa/image/2K7dQ6qCBTD_bYtRoDotMjDJmInAoUzmdOS8KDc0x1U.jpg"
           alt="Export"
           className="w-full h-[500px] object-cover"
+          loading="lazy"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">
@@ -56,6 +57,7 @@ const Export = () => {
             src="/Assets/vision and mission/world-map.png"
             alt="World Map"
             className="w-full rounded-lg shadow-md"
+            loading="lazy"
           />
           {locations.map((loc, index) => (
             <div

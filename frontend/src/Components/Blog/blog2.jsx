@@ -9,6 +9,7 @@ const Blog2 = () => {
 						src="/Assets/Media/MILK-FERVER-COW.jpg"
 						alt="A cow lying on a straw bed"
 						className="w-full object-cover"
+						loading="lazy"
 					/>
 					<div className="p-8">
 						<h1 className="text-4xl font-bold mb-6 text-gray-800 leading-snug">
@@ -32,6 +33,7 @@ const Blog2 = () => {
 							src="/Assets/Media/MILK-FERVER-COW2.jpg"
 							alt="A cow lying on a straw bed"
 							className="h-48 object-cover"
+							loading="lazy"
 						/>
 						<div className="space-y-10">
 							<section>

@@ -34,7 +34,7 @@ const Navbar = () => {
 
   return (
     <header className={`fixed w-full z-50 top-0 transition-all duration-300
-      ${isHomePage ? 'bg-black/10 text-white hover:bg-white hover:text-black' : 'bg-white text-black shadow-md'}
+      ${isHomePage ? 'bg-black/20 text-white font-semibold hover:bg-white hover:text-black' : 'bg-white text-black shadow-md'}
      `}>
       <div className="container mx-auto flex items-center justify-between py-4 lg:py-1 px-6">
         <div className="hidden lg:flex items-center ">
@@ -42,7 +42,7 @@ const Navbar = () => {
             <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="h-16 w-auto cursor-pointer mb-[2%]" />
           </Link>
         </div>
-        <nav className="hidden lg:flex font-bold space-x-6 relative">
+        <nav className="hidden lg:flex space-x-6 relative">
           <Link to="/" className="py-2 px-4 hover:underline hover:underline-offset-8 rounded">
             Home
           </Link>

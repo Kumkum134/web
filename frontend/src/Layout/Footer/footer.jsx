@@ -12,7 +12,7 @@ const Footer = () => {
             <ul className="space-y-1 text-base">
               <li><Link to="/" className="hover:text-orange-400 transition">Home</Link></li>
               <li><Link to="/about-us" className="hover:text-orange-400 transition">About Us</Link></li>
-              <li><Link to="/" className="hover:text-orange-400 transition">Ingredients</Link></li>
+              <li><Link to="/ingredients" className="hover:text-orange-400 transition">Ingredients</Link></li>
               <li><Link to="/contact-us" className="hover:text-orange-400 transition">Contact Us</Link></li>
             </ul>
           </div>
@@ -48,7 +48,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2">Head Office</h5>
               <p>
                 <i className="fas fa-map-marker-alt mr-2"></i>
-                <Link to="https://goo.gl/maps/xyz" target="_blank" className="hover:text-orange-400 transition">
+                <Link to="https://maps.app.goo.gl/26BJUNAtfpp1FtMr6" target="_blank" className="hover:text-orange-400 transition">
                   Plot: 1, Mirzapur, Sec-74, Ballabhgarh, Faridabad, Haryana-121004 (India)
                 </Link>
               </p>
@@ -60,7 +60,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2">Branch Office (Zimbabwe)</h5>
               <p>
                 <i className="fas fa-map-marker-alt mr-2"></i>
-                <Link to="https://goo.gl/maps/xyz" target="_blank" className="hover:text-orange-400 transition">
+                <Link to="" target="_blank" className="hover:text-orange-400 transition">
                   Unit 10, 248 Williams Way, Msasa, Harare, Zimbabwe-1277
                 </Link>
               </p>
@@ -72,7 +72,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2">Branch Office (Buchun)</h5>
               <p>
                 <i className="fas fa-map-marker-alt mr-2"></i>
-                <Link to="https://goo.gl/maps/xyz" target="_blank" className="hover:text-orange-400 transition">
+                <Link to="" target="_blank" className="hover:text-orange-400 transition">
                   1622 Suite, u1 center, 385 bungil 25, Tomaruro, Buchun City, Gyunggido
                 </Link>
               </p>

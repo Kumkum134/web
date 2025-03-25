@@ -19,22 +19,24 @@ const ProductCard = ({ product }) => {
         <img
           src={product.Productimg}
           alt="Product Image"
-          className="h-full w-full rounded-lg"
+          className="h-64 w-64 md:h-80 md:w-80 object-cover rounded-lg"
+          loading="lazy"
         />
       </div>
       <div className="md:w-2/3 w-full p-3 flex flex-col border">
         <img
           src={product.Productname}
           alt="Product Thumbnail"
-          className="h-22 w-64 rounded-lg mb-2 object-contain"
+          className="h-16 w-64 md:h-20 md:w-72 rounded-lg mb-2 object-contain"
+          loading="lazy"
         />
         <div className="flex flex-wrap border-b pb-2">
           {tabs.map((label) => (
             <button
               key={label}
-              className={`px-3 py-1 text-sm md:text-base transition duration-300 ${activeTab === label
-                  ? "bg-green-800 text-orange-500 border-l-4 border-orange-500"
-                  : "bg-green-700 text-white hover:bg-green-600"
+              className={`px-3 py-1 text-sm md:text-lg transition duration-300 ${activeTab === label
+                ? "bg-green-800 text-orange-500 border-l-4 border-orange-500"
+                : "bg-green-700 text-white hover:bg-green-600"
                 }`}
               onClick={() => setActiveTab(label)}
             >
@@ -42,7 +44,7 @@ const ProductCard = ({ product }) => {
             </button>
           ))}
         </div>
-        <div className="mt-3 text-sm text-gray-700 overflow-y-auto max-h-[60vh]">
+        <div className="mt-3 text-base text-gray-700 overflow-y-auto max-h-[60vh]">
           {activeTab === "General Info" && (
             <>
               <h1 className="text-lg font-semibold">{product.name}</h1>
@@ -75,12 +77,17 @@ const ProductCard = ({ product }) => {
             </ul>
           )}
           {activeTab === "Report" && <p>{product.report}</p>}
-          {activeTab === "Brochure" && <p>{product.brochure}</p>}
+          {activeTab === "Brochure" && product.brochure && (
+            <iframe
+              src={product.brochure}
+              title="Brochure"
+              className="w-full h-[500px] border"
+            />
+          )}
           {activeTab === "Feedback" && <p>{product.feedback}</p>}
         </div>
       </div>
     </div>
-
   );
 };
 

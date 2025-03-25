@@ -8,7 +8,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriglow-gold.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriglow Gold.webp",
     Productname: "/Assets/Product name/Persnol product/Auriglow Gold.png",
     composition: [
       "Each Pack Contain:",
@@ -31,7 +31,7 @@ const Persnol_care_Data = [
     type: "Human OTC",
     category: "Other Specialty",
     packaging: "100 ml",
-    Productimg: "/Assets/Product img/Persnol product/Auriglow-Anti-Marks-Oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriglow Anti Marks.webp",
     Productname: "/Assets/Product name/Persnol product/Anti-marks.png",
     composition: [
       "Each Pack Contains:",
@@ -57,7 +57,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriglow-massage-oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriglow-massage-oil.webp",
     Productname: "/Assets/Product name/Persnol product/Auriglow-massage-oil.png",
     composition: [
       "Each 100 gm contain:",
@@ -86,7 +86,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auroshine-Hair-Growth-Serum.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auroshine-Hair-Growth-Serum.webp",
     Productname: "/Assets/Product name/Persnol product/Auroshine Hair.png",
     composition: [
       "Each 20 gm Contains;",
@@ -109,7 +109,7 @@ const Persnol_care_Data = [
     type: "Gel",
     category: "Other Specialty",
     packaging: "100 gm Each Container.",
-    Productimg: "/Assets/Product img/Persnol product/MainImage_Auroshine-Gold-Hair-Mask.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/MainImage_Auroshine-Gold-Hair-Mask.webp",
     Productname: "/Assets/Product name/Persnol product/Auroshine Hair.png",
     composition: [
       "Each pack contains -",
@@ -144,7 +144,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auroshine-Premature-Grayness-Serum.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auroshine-Premature-Grayness-Serum.webp",
     Productname: "/Assets/Product name/Persnol product/Auroshine Hair.png",
     composition: [
       "Each 20 ml Contains;",
@@ -167,7 +167,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auroshine-Anti-Dandruff-Serum.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auroshine-Anti-Dandruff-Serum.webp",
     Productname: "/Assets/Product name/Persnol product/Auroshine Hair.png",
     composition: [
       "Each 20 gm Contains:",
@@ -193,7 +193,7 @@ const Persnol_care_Data = [
     type: "Spray",
     category: "Other Specialty",
     packaging: "20 gm & 100 gm",
-    Productimg: "/Assets/Product img/Persnol product/MainImage_Aurimos-Spray.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/MainImage_Aurimos-Spray.webp",
     Productname: "/Assets/Product name/Persnol product/Aurimos.png",
     composition: [
       "Each 20 GM essential oil contains:",
@@ -222,7 +222,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "10 gm and 30 gm",
-    Productimg: "/Assets/Product img/Persnol product/MainImage_Aurimos-spot-on_.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/MainImage_Aurimos-spot-on_.webp",
     Productname: "/Assets/Product name/Persnol product/Aurimos.png",
     composition: [
       "Each 10 Gm essential oil contains:",
@@ -251,7 +251,7 @@ const Persnol_care_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "120 gm and 50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-dusting-powder.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-dusting-powder.webp",
     Productname: "/Assets/Product name/Persnol product/Auriwell.png",
     composition: [
       "Each 10 gm contains:",
@@ -276,7 +276,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "Packaging: 50 gm and 100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-greyness-control-oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-greyness-control-oil.webp",
     Productname: "/Assets/Product name/Persnol product/Auriwell plane.png",
     composition: [
       "Each Pack contains:",
@@ -300,7 +300,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-anti-stess-oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell Anti stress oil.webp",
     Productname: "/Assets/Product name/Persnol product/Auriwell plane.png",
     composition: [
       "Each 20 gm Contains;",
@@ -323,7 +323,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "50 gm and 100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-hair-growth-oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-hair-growth-oil.webp",
     Productname: "/Assets/Product name/Persnol product/Auriwell plane.png",
     composition: [
       "Each pack contains:",
@@ -347,7 +347,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "50 gm and 100 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-anti-danruff-oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-anti-danruff-oil.webp",
     Productname: "/Assets/Product name/Persnol product/Auriwell plane.png",
     composition: [
       "Each Pack contains:",
@@ -371,7 +371,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "50 gm",
-    Productimg: "/Assets/Product img/Persnol product/Auriwell-Anti-Stress-Oil.jpeg",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-Anti-Stress-Oil.webp",
     Productname: "/Assets/Product name/Persnol product/auriwell-anti-stress-oil.png",
     composition: [
       "Each pack Contains;",

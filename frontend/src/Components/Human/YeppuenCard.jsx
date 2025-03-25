@@ -8,6 +8,7 @@ const YeppuenCard = ({ product }) => {
           src={product.Productimg}
           alt="Product Image"
           className="h-full w-full rounded-lg"
+          loading="lazy"
         />
       </div>
       <div className="md:w-2/3 w-full p-4 flex flex-col">
@@ -16,6 +17,7 @@ const YeppuenCard = ({ product }) => {
             src={product.Productname}
             alt="Product Thumbnail"
             className="h-22 w-64 rounded-lg mb-2 object-contain"
+            loading="lazy"
           />
         )}
         <h1 className="text-xl font-bold">{product.name}</h1>

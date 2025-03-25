@@ -32,7 +32,8 @@ const Block6 = () => {
               src={species.image}
               alt={species.title}
               className="w-full h-[70%] object-cover rounded-t-lg"
-            />
+              loading="lazy"
+              />
             <h1 className="text-sm sm:text-md font-bold text-center mt-2 text-green-800">
               {species.title}
             </h1>

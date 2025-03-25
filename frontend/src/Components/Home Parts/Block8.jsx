@@ -45,7 +45,8 @@ const Block8 = () => {
               src={hoveredIndex === index ? item.hoverImage : item.image}
               alt={item.title}
               className="w-full h-full object-cover transition-opacity duration-300"
-            />
+              loading="lazy"
+              />
           </div>
           <div className="text-center h-[25%] flex flex-col justify-center bg-gray-50 p-3 rounded-b-xl">
             <h3 className="text-lg font-semibold text-gray-800">{item.title}</h3>

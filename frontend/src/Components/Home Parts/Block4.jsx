@@ -36,7 +36,8 @@ const Block4 = () => {
                 src={product.image}
                 alt={product.alt}
                 className="w-full max-w-[300px] sm:max-w-[350px] md:max-w-[400px] lg:max-w-[500px] object-cover rounded-lg shadow-md transition-transform duration-300 hover:scale-105"
-              />
+                loading="lazy"
+                />
             </div>
           </div>
         ))}

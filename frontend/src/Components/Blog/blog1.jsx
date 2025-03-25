@@ -9,7 +9,8 @@ const Blog1 = () => {
             src="/Assets/Media/Blog Cows.jpg"
             alt="A cow and a calf standing on a grassy field"
             className="w-full object-cover"
-          />
+            loading="lazy"
+            />
           <div className="p-8">
             <h1 className="text-4xl font-bold mb-6 text-gray-800 leading-snug">
               HOW TO IMPROVE EARLY LACTATION PERFORMANCE FOR HIGHER PEAK MILK YIELD?

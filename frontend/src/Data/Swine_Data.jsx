@@ -838,7 +838,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Antimicrobial , Antibacterial",
     packaging: "1 L 5 L",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
     Productname: " ",
     composition: [
       "Povidone iodine 10 % with suitable stabilizer and activators."

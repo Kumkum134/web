@@ -8,7 +8,7 @@ const aqua_data = [
     type: "Granule",
     category: "Toxin Binder",
     packaging: "25 Kg pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -38,7 +38,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each ml contains –",
@@ -72,7 +72,7 @@ const aqua_data = [
     type: "Gel",
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Pack Contains :",
@@ -114,7 +114,7 @@ const aqua_data = [
     type: "Granule",
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -149,7 +149,7 @@ const aqua_data = [
     type: "Granule",
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains",
@@ -188,7 +188,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -218,7 +218,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -253,7 +253,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 1 kg, 25 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -290,7 +290,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Contains :",
@@ -320,7 +320,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -352,7 +352,7 @@ const aqua_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each pack Contains:",
@@ -379,7 +379,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "200 gm 1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Ammo-con.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -411,7 +411,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -440,7 +440,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 Kg pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -470,7 +470,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 L Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Alkyl Dimethyl Benzyl Ammonium",
@@ -499,7 +499,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Au.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -528,7 +528,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -560,7 +560,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 Ltr Bottle & 5 Ltr Bottle",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Ltr Contains:",
@@ -585,7 +585,7 @@ const aqua_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "100 gm, 500 gm & 1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
     Productname: " ",
     composition: [
       "Each 1 kg contains:",
@@ -621,7 +621,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Antimicrobial , Antibacterial",
     packaging: "1 L & 5 L",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
     Productname: " ",
     composition: [
       "Povidone iodine 10% with suitable stabilizer and activators."
@@ -648,7 +648,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack, 25 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -673,7 +673,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack 25 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Kg Contains:",
@@ -698,7 +698,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each 80 gm contains:",
@@ -729,7 +729,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Immunomodulator , Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -752,12 +752,12 @@ const aqua_data = [
     id: 25,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN AQUA is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
+      "Aurigain Aqua is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
     segment: "Aqua",
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 gm 500 gm & 1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigain Aqua.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -783,7 +783,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -818,7 +818,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 Ltr & 5 Ltr",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each ml contains: (pH 4.0)",
@@ -849,7 +849,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "10 Ltr & 35 Ltr",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Organic acids"
@@ -874,7 +874,7 @@ const aqua_data = [
     type: "Granule",
     category: "Nutrition Supplement , Toxin Binder , Enzyme , Other Specialty",
     packaging: "1 Kg & 5 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -905,7 +905,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each 80 gm bottle contains:",
@@ -939,7 +939,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "1 kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -966,7 +966,7 @@ const aqua_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Contains:",
@@ -994,7 +994,7 @@ const aqua_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1016,12 +1016,12 @@ const aqua_data = [
     id: 34,
     name: "Aqua Probiotics",
     description:
-      "AURIPRO AQUA is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
+      "Auripro Aqua is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
     segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm, 500 gm",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
     Productname: " ",
     composition: [
       "Each gm contains: -",
@@ -1053,7 +1053,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm 400 gm",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each 80 gm contains:",
@@ -1087,7 +1087,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 250 gm, 500 gm and 1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1124,7 +1124,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "200 gm bottle 1 kg HDPE Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     Productname: " ",
     composition: [
       "Each Kg Contains:",

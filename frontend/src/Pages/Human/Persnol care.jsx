@@ -7,6 +7,7 @@ const Persnolcare = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Persnol care.webp"
           alt="Persnol care"
           className="w-full h-[500px] object-cover"

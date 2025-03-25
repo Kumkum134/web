@@ -1,5 +1,5 @@
 import React from "react";
-import ProductCard from "../../Components/Human/ProductCard"; 
+import ProductCard from "../../Components/Human/ProductCard";
 import pet_data from "../../Data/pet_data.jsx";
 
 const Pet = () => {
@@ -7,6 +7,7 @@ const Pet = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Pet.jpg"
           alt="Pet"
           className="w-full h-[500px] object-cover"

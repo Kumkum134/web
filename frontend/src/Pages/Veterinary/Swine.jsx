@@ -7,6 +7,7 @@ const Swine = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Swine.jpg"
           alt="Swine"
           className="w-full h-[500px] object-cover"

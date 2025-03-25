@@ -8,7 +8,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Performance Enhancer , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimino.webp",
     Productname: " ",
     composition: [
       "Each Litre Contains:",
@@ -38,7 +38,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg Contains:",
@@ -64,7 +64,7 @@ const poultry_data = [
     type: "Powder",
     category: "Vitamins, Minerals and Electrolytes",
     packaging: "1 kg 25 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -102,7 +102,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "AUROL is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
@@ -127,7 +127,7 @@ const poultry_data = [
     type: "Powder",
     category: "Liver Stimulant , Other Specialty",
     packaging: "25 Kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 5 gm contains extracts derived from:",
@@ -159,7 +159,7 @@ const poultry_data = [
     type: "Powder",
     category: "Enzyme , Other Specialty",
     packaging: "1 kg 2.5 kg 25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -197,7 +197,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -235,7 +235,7 @@ const poultry_data = [
     type: "Powder",
     category: " Growth Promoter, Other Specialty",
     packaging: "1 kg and 25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -264,7 +264,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -293,7 +293,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr. Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -330,7 +330,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bags",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each pack contains",
@@ -362,7 +362,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator, Antibacterial, Other Specialty",
     packaging: " 250 ml 500 ml 1 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -391,7 +391,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder, Other Specialty",
     packaging: "500 ml, 1 Ltr and 5 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each liter Contains:",
@@ -426,7 +426,7 @@ const poultry_data = [
     type: "Powder, Liquid",
     category: "Enzyme, Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -465,7 +465,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 ml, 1 Ltr, 5Ltr, 25 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -493,7 +493,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "100 gm, 500 gm & 1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
     Productname: " ",
     composition: [
       "Each 1 kg contains:",
@@ -522,7 +522,7 @@ const poultry_data = [
     type: "Powder, Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Ltr contains:",
@@ -564,7 +564,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -590,7 +590,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -617,7 +617,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty, Antibacterial",
     packaging: "250 gm 1 Kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm of Essential oil contains:",
@@ -647,7 +647,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 10 ml contains:",
@@ -673,7 +673,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -708,7 +708,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 ml 1 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -735,7 +735,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
@@ -760,7 +760,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -787,7 +787,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains-",
@@ -823,12 +823,12 @@ const poultry_data = [
     id: 27,
     name: "Electrolytes for Heat Stress",
     description:
-      "AURILYTE PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -859,12 +859,12 @@ const poultry_data = [
     id: 28,
     name: "Electrolytes for Heat Stress",
     description:
-      "AURILYTE  is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte  is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -897,12 +897,12 @@ const poultry_data = [
     id: 29,
     name: "Premium Liver Tonic",
     description:
-      "AURILIV VET is an advance liver tonic fortified with L-Carnitine and Cynarin extract to support liver health and reduce the risk of liver conditions like fatty liver syndrome. L-Carnitine plays a key role in maintaining liver function due to its effect on lipid metabolism. It transports fatty acids into mitochondria for oxidation and also buffers excess acetyl CoA away from mitochondria. Cynarin extract have hepato-protective effects. It inhibits the biosynthesis of hepato-cholesterol and improves the bile secretion. Choline acts as a lipotrophic substance. Choline and Methionine deficiency increases the risk of Fatty liver as their deficiency causes the synthesis of very-low-density-lipoproteins (VLDL).",
+      "Aurilyte Vet is an advance liver tonic fortified with L-Carnitine and Cynarin extract to support liver health and reduce the risk of liver conditions like fatty liver syndrome. L-Carnitine plays a key role in maintaining liver function due to its effect on lipid metabolism. It transports fatty acids into mitochondria for oxidation and also buffers excess acetyl CoA away from mitochondria. Cynarin extract have hepato-protective effects. It inhibits the biosynthesis of hepato-cholesterol and improves the bile secretion. Choline acts as a lipotrophic substance. Choline and Methionine deficiency increases the risk of Fatty liver as their deficiency causes the synthesis of very-low-density-lipoproteins (VLDL).",
     segment: "Poultry, Livestock",
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains.",
@@ -926,7 +926,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder , Other Specialty",
     packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar 50 Ltr Drum and 200 Ltr Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -952,7 +952,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jarx",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -985,7 +985,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1014,7 +1014,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1051,7 +1051,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1084,7 +1084,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -1110,7 +1110,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -1138,7 +1138,7 @@ const poultry_data = [
     type: "Powder",
     category: "Enzymes , Other Specialty",
     packaging: "5 Kg Pack, 10 kg Pack, 15 kg Bucket",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1163,7 +1163,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack 1 kg Pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains-",
@@ -1188,7 +1188,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Aurovita",
@@ -1215,7 +1215,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1254,7 +1254,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain poultry.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1281,7 +1281,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 gm , 1 kg & 25 kg bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Phytase enzyme 10000 FYT/ gm"
@@ -1303,7 +1303,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains : Calcium sulphate,Guar gum"
@@ -1326,7 +1326,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "xtracts of Allium Sativum and Ocimum sanctum, Phhytochemical principles of Thymol, Curcumin and Capsaicin Nucleotides, Vitamin C,FOS, Selenium, Zinc, Esterified Butyrate, Organic acid derivatives, Fermentation Extracts Base of Ginger, Garlic & Inulin QS"
@@ -1348,7 +1348,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains :",
@@ -1375,7 +1375,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1404,7 +1404,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains high concentration of:",
@@ -1431,7 +1431,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1466,7 +1466,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -1489,7 +1489,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: " ",
+     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",

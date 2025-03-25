@@ -11,6 +11,7 @@ const About = () => {
           src="/Assets/About us.jpg"
           alt="About Us"
           className="w-full h-[500px] object-cover object-bottom"
+          loading="lazy"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

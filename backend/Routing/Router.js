@@ -8,7 +8,7 @@ router.post('/contact-us', async (req, res) => {
         const result = await data.save();
         res.status(201).json(result);
     } catch (error) {
-        console.error('Error:', error); // Error ko log karo
+        console.error('Error:', error);
         res.status(500).json({ message: 'Error saving data' });
     }
 });

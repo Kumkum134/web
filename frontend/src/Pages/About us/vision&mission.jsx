@@ -5,6 +5,7 @@ const VisionMission = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/vision and mission/vission and mission.jpg"
           alt="Vision and Mission"
           className="w-full h-[500px] object-cover object-bottom"
@@ -18,6 +19,7 @@ const VisionMission = () => {
 
         <div className="flex flex-col md:flex-row items-center text-center md:text-left max-w-4xl w-full mb-12">
           <img
+            loading="lazy"
             src="/Assets/vision and mission/Vision.png"
             alt="Vision"
             className="w-48 h-48 object-cover mb-4 md:mb-0 md:mr-6"
@@ -34,6 +36,7 @@ const VisionMission = () => {
 
         <div className="flex flex-col md:flex-row-reverse items-center text-center md:text-left max-w-4xl w-full mb-12">
           <img
+            loading="lazy"
             src="/Assets/vision and mission/Mission.png"
             alt="Mission"
             className="w-48 h-48 object-cover mb-4 md:mb-0 md:ml-6"
@@ -50,6 +53,7 @@ const VisionMission = () => {
 
         <div className="flex flex-col md:flex-row items-center text-center md:text-left max-w-4xl w-full">
           <img
+            loading="lazy"
             src="/Assets/vision and mission/Values.png"
             alt="Values"
             className="w-48 h-48 object-cover mb-4 md:mb-0 md:mr-6"

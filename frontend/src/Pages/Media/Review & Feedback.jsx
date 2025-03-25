@@ -97,6 +97,7 @@ const Rating = () => {
 
           <div className="w-full md:w-1/2">
             <img
+              loading="lazy"
               src="/Assets/Media/ratings.jpg"
               alt="Review & Feedback"
               className="w-full h-auto rounded-lg object-cover"

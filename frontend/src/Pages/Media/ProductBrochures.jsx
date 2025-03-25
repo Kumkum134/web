@@ -68,6 +68,7 @@ const ProductBrochures = () => {
             >
               <div className="bg-white shadow-md rounded-lg overflow-hidden">
                 <img
+                  loading="lazy"
                   src={item.img}
                   alt={item.title}
                   className="w-full h-64 object-cover rounded-lg"
@@ -85,19 +86,20 @@ const ProductBrochures = () => {
         <div className="fixed inset-0 bg-black bg-opacity-80 flex justify-center items-center z-50 p-4">
           <div className="relative flex items-center justify-center w-full max-w-4xl max-h-[80vh]">
             <img
+              loading="lazy"
               src={items[selectedIndex].img}
               alt="Full View"
               className={`max-w-full max-h-[75vh] transition-transform duration-300 ${zoom ? "scale-125" : "scale-100"}`}
               onClick={() => setZoom(!zoom)}
             />
-            
+
             <button
               className="absolute top-15 left-4 text-white text-3xl"
               onClick={prevImage}
             >
               <FaChevronLeft />
             </button>
-            
+
             <button
               className="absolute top-15 right-4 text-white text-3xl"
               onClick={nextImage}

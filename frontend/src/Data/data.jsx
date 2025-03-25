@@ -1,7 +1,7 @@
 export const block3Data = [
   {
     id: 1,
-    image: "/Assets/Product img/Auriplanta.jpg",
+    image: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpeg",
     title: "Auriplanta",
     segment: "LiveStock",
@@ -53,7 +53,7 @@ export const block8Data = [
   },
   {
     id: 2,
-    image: "/Assets/Product img/Aurijoint.jpg",
+    image: "/Assets/Product images/Human/Health Supplements/Aurijoint.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Aurijoint",
     segment: "Health Supplements",
@@ -61,7 +61,7 @@ export const block8Data = [
   },
   {
     id: 3,
-    image: "/Assets/Product img/Auricur Plus.jpg",
+    image: "/Assets/Product images/Human/Health Supplements/Auricur Plus PSD.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auricur Plus",
     segment: "Health Supplements",
@@ -77,7 +77,7 @@ export const block8Data = [
   },
   {
     id: 5,
-    image: "/Assets/Product img/Auriglow anti marks oil.png",
+    image: "/Assets/Product images/Human/Personal Care/Auriglow Anti Marks.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auriglow anti marks oil",
     segment: "Personal Care",

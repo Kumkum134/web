@@ -27,7 +27,7 @@ const Block10 = () => {
       <div className="flex flex-col lg:flex-row items-center justify-center gap-10 mt-12 p-8 relative overflow-hidden">
         <div className="text-center lg:text-left">
           <div>
-            <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="h-32 mx-auto lg:mx-0" />
+            <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="h-32 mx-auto lg:mx-0" loading="lazy"/>
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
               Aurinko Health Care Pvt. Ltd
             </h2>
