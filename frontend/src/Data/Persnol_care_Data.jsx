@@ -86,7 +86,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product images/Human/Personal Care/Auroshine-Hair-Growth-Serum.webp",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auroshine hair growth serum.webp",
     Productname: "/Assets/Product name/Persnol product/Auroshine Hair.png",
     composition: [
       "Each 20 gm Contains;",
