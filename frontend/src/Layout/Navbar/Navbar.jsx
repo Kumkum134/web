@@ -33,9 +33,7 @@ const Navbar = () => {
   }, [isMobileMenuOpen]);
 
   return (
-    <header className={`fixed w-full z-50 top-0 transition-all duration-300
-      ${isHomePage ? 'bg-black/20 text-white font-semibold hover:bg-white hover:text-black' : 'bg-white text-black shadow-md'}
-     `}>
+    <header className={`fixed w-full z-50 top-0 transition-all duration-300 bg-white text-black shadow-md`}>
       <div className="container mx-auto flex items-center justify-between py-4 lg:py-1 px-6">
         <div className="hidden lg:flex items-center ">
           <Link to="/">

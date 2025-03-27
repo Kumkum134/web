@@ -1,7 +1,7 @@
 export const block3Data = [
   {
     id: 1,
-    image: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    image: "/Assets/Product images/Veterinary/Livestock/Auriplanta.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpeg",
     title: "Auriplanta",
     segment: "LiveStock",
@@ -9,7 +9,7 @@ export const block3Data = [
   },
   {
     id: 2,
-    image: "/Assets/Product img/Nomino.jpg",
+    image: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Nomino",
     segment: "LiveStock & Poultry",
@@ -17,7 +17,7 @@ export const block3Data = [
   },
   {
     id: 3,
-    image: "/Assets/Product img/Metagrow-WS.jpg",
+    image: "/Assets/Product images/Veterinary/Poultry/Metagrow-WS.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Metagrow WS",
     segment: "Poultry",
@@ -25,7 +25,7 @@ export const block3Data = [
   },
   {
     id: 4,
-    image: "/Assets/Product img/Yeco Nanophosphosome.jpg",
+    image: "/Assets/Product images/Veterinary/Poultry/Yeco Nanophosphosome.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Yeco Nanophosphosome",
     segment: "Poultry",
@@ -33,7 +33,7 @@ export const block3Data = [
   },
   {
     id: 5,
-    image: "/Assets/Product img/Auribery Plus.jpg",
+    image: "/Assets/Product images/Human/Health Supplements/Auribery Plus.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Auribery Plus",
     segment: "Human",
@@ -45,7 +45,7 @@ export const block3Data = [
 export const block8Data = [
   {
     id: 1,
-    image: "/Assets/Product img/Auritrol.jpg",
+    image: "/Assets/Product images/Human/Health Supplements/Auritrol.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auritrol",
     segment: "Health Supplements",
@@ -61,7 +61,7 @@ export const block8Data = [
   },
   {
     id: 3,
-    image: "/Assets/Product images/Human/Health Supplements/Auricur Plus PSD.webp",
+    image: "/Assets/Product images/Human/Health Supplements/Auricur Plus.webp",
     hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auricur Plus",
     segment: "Health Supplements",

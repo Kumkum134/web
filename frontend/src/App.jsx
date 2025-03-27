@@ -31,46 +31,38 @@ import Nanophosphosome from './Pages/Human/Nano-biotechnology Compounds/Nanophos
 
 const App = () => {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="mt-16">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route
-          path="/*"
-          element={
-            <div className="flex-1 mt-16">
-              <Routes>
-                <Route path="about-us" element={<About />} />
-                <Route path="vision-mission" element={<VisionMission />} />
-                <Route path="manufacturing-facility" element={<ManufacturingFacility />} />
-                <Route path="research-development" element={<ResearchDevelopment />} />
-                <Route path="export" element={<Export />} />
-                <Route path="certificates" element={<Certificates />} />
-                <Route path="health-supplements" element={<Healthsupplements />} />
-                <Route path="nanophosphosome" element={<Nanophosphosome />} />
-                <Route path="personal-care" element={<Persnolcare />} />
-                <Route path="yeppuen" element={<Yeppuen />} />
-                <Route path="livestock" element={<Livestock />} />
-                <Route path="poultry" element={<Poultry />} />
-                <Route path="aqua" element={<Aqua />} />
-                <Route path="swine" element={<Swine />} />
-                <Route path="equine" element={<Equines />} />
-                <Route path="pet" element={<Pet />} />
-                <Route path="feed-grain" element={<FeedGrain />} />
-                <Route path="ingredients" element={<Ingredients />} />
-                <Route path="reports" element={<Reports />} />
-                <Route path="blog" element={<Blog />} />
-                <Route path="blog/blog1" element={<Blog1 />} />
-                <Route path="blog/blog2" element={<Blog2 />} />
-                <Route path="rating" element={<Rating />} />
-                <Route path="productbrochures" element={<ProductBrochures />} />
-                <Route path="articles" element={<Articles />} />
-                <Route path="contact-us" element={<ContactUs />} />
-              </Routes>
-            </div>
-          }
-        />
+        <Route path="/about-us" element={<About />} />
+        <Route path="/vision-mission" element={<VisionMission />} />
+        <Route path="/manufacturing-facility" element={<ManufacturingFacility />} />
+        <Route path="/research-development" element={<ResearchDevelopment />} />
+        <Route path="/export" element={<Export />} />
+        <Route path="/certificates" element={<Certificates />} />
+        <Route path="/health-supplements" element={<Healthsupplements />} />
+        <Route path="/nanophosphosome" element={<Nanophosphosome />} />
+        <Route path="/personal-care" element={<Persnolcare />} />
+        <Route path="/yeppuen" element={<Yeppuen />} />
+        <Route path="/livestock" element={<Livestock />} />
+        <Route path="/poultry" element={<Poultry />} />
+        <Route path="/aqua" element={<Aqua />} />
+        <Route path="/swine" element={<Swine />} />
+        <Route path="/equine" element={<Equines />} />
+        <Route path="/pet" element={<Pet />} />
+        <Route path="/feed-grain" element={<FeedGrain />} />
+        <Route path="/ingredients" element={<Ingredients />} />
+        <Route path="/reports" element={<Reports />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/blog1" element={<Blog1 />} />
+        <Route path="/blog/blog2" element={<Blog2 />} />
+        <Route path="/rating" element={<Rating />} />
+        <Route path="/productbrochures" element={<ProductBrochures />} />
+        <Route path="/articles" element={<Articles />} />
+        <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
+
       <Footer />
     </div>
   );
