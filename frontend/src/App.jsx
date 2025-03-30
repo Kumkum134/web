@@ -5,12 +5,18 @@ import Footer from "./Layout/Footer/footer";
 import About from "./Pages/About us/about";
 import VisionMission from "./Pages/About us/vision&mission";
 import Healthsupplements from "./Pages/Human/Health-supplements";
+import Nanophosphosome from './Pages/Human/Nano-biotechnology Compounds/H-Nanophosphosomes';
+import Neunamin from './Pages/Human/Nano-biotechnology Compounds/H-Neunamin';
+import Neunaparticles from './Pages/Human/Nano-biotechnology Compounds/H-Neunaparticles';
 import Persnolcare from "./Pages/Human/Persnol care";
 import Livestock from "./Pages/Veterinary/Livestock";
 import Poultry from "./Pages/Veterinary/Poultry";
 import Aqua from "./Pages/Veterinary/Aqua";
 import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
+import VNanophosphosome from './Pages/Veterinary/Nano-biotechnology Compounds/V-Nanophosphosomes';
+import VNeunamin from './Pages/Veterinary/Nano-biotechnology Compounds/V-Neunamin';
+import VNeunaparticles from './Pages/Veterinary/Nano-biotechnology Compounds/V-Neunaparticles';
 import Ingredients from "./Pages/Media/Ingredients";
 import Reports from "./Pages/Media/Report";
 import Articles from "./Pages/Media/Articles";
@@ -27,7 +33,6 @@ import Equines from "./Pages/Veterinary/Equines";
 import Blog1 from "./Components/Blog/blog1";
 import Blog2 from "./Components/Blog/blog2";
 import Navbar from "../src/Layout/Navbar/Navbar";
-import Nanophosphosome from './Pages/Human/Nano-biotechnology Compounds/Nanophosphosomes';
 
 const App = () => {
   return (
@@ -42,7 +47,9 @@ const App = () => {
         <Route path="/export" element={<Export />} />
         <Route path="/certificates" element={<Certificates />} />
         <Route path="/health-supplements" element={<Healthsupplements />} />
-        <Route path="/nanophosphosome" element={<Nanophosphosome />} />
+        <Route path="/h-nanophosphosome" element={<Nanophosphosome />} />
+        <Route path="/h-neunamin" element={<Neunamin />} />
+        <Route path="/h-neuna-particles" element={<Neunaparticles />} />
         <Route path="/personal-care" element={<Persnolcare />} />
         <Route path="/yeppuen" element={<Yeppuen />} />
         <Route path="/livestock" element={<Livestock />} />
@@ -52,6 +59,9 @@ const App = () => {
         <Route path="/equine" element={<Equines />} />
         <Route path="/pet" element={<Pet />} />
         <Route path="/feed-grain" element={<FeedGrain />} />
+        <Route path="/v-nanophosphosome" element={<VNanophosphosome />} />
+        <Route path="/v-neunamin" element={<VNeunamin />} />
+        <Route path="/v-neuna-particles" element={<VNeunaparticles />} />
         <Route path="/ingredients" element={<Ingredients />} />
         <Route path="/reports" element={<Reports />} />
         <Route path="/blog" element={<Blog />} />

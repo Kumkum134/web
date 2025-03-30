@@ -8,7 +8,7 @@ const pet_data = [
     type: "Tablet",
     category: "Other Specialty",
     packaging: "6 tablets",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
     Productname: " ",
     composition: [
       "Each tablet contains:",
@@ -35,7 +35,7 @@ const pet_data = [
     type: "Liquid",
     category: "Liver Stimulant",
     packaging: "500 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/LivauroForte Pet.webp",
     Productname: " ",
     composition: [
       "Each 5 ml Contains:",
@@ -67,7 +67,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each pack Contains:",
@@ -98,7 +98,7 @@ const pet_data = [
     type: "Liquid",
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -132,7 +132,7 @@ const pet_data = [
     type: "Liquid",
     category: "Enzyme",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains:",
@@ -164,7 +164,7 @@ const pet_data = [
     type: "Capsule",
     category: "Immunomodulator, Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Capsule:",
@@ -189,7 +189,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -226,7 +226,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement ,Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 50 ml contains:",
@@ -259,7 +259,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each litre essential oil contains:",
@@ -291,7 +291,7 @@ const pet_data = [
     type: "Capsule",
     category: "Immunomodulator",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 500 mg capsule contains:",
@@ -321,7 +321,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Capsule",
@@ -347,7 +347,7 @@ const pet_data = [
     type: "Powder",
     category: "Digestive, Other Specialty",
     packaging: "10 X 2g sachet",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Serving size 1 Packet (2g)",
@@ -382,7 +382,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Capsule",
@@ -407,7 +407,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Capsule",
@@ -439,7 +439,7 @@ const pet_data = [
     type: "Liquid",
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -467,7 +467,7 @@ const pet_data = [
     type: "Capsule",
     category: "Performance Enhancer, Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Enteric coated tablet/capsule:",
@@ -493,7 +493,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "1 Capsule:",
@@ -524,7 +524,7 @@ const pet_data = [
     type: "Powder",
     category: "Digestive, Other Specialty",
     packaging: "10 X 2g sachet",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Serving size 1 Packet (2g)",
@@ -555,7 +555,7 @@ const pet_data = [
     type: "Spray",
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains :",
@@ -588,7 +588,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement, Performance Enhancer, Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 15 ml Contains:",
@@ -644,7 +644,7 @@ const pet_data = [
     type: "Liquid",
     category: "Immunomodulator, Performance Enhancer, Nutrition Supplement, Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Nomino pet.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:|",
@@ -697,7 +697,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 gm, 500 gm",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 gm essential oils contains:",

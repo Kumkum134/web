@@ -293,29 +293,6 @@ const Persnol_care_Data = [
   },
   {
     id: 12,
-    name: "Anti Stress oil",
-    description:
-      "Auriwell Anti Stress Oil makes you feel calm. Provides stress free sleep, relief from daily stress, depression and insomnia. Improves blood circulation make your hair healthy and strong. A completely organic formulation. Auriwell Anti Stress Oil is an unique blend of novel essential oils with richness of vitamin E.",
-    segment: "Human OTC",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "20 gm and 50 gm",
-    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell Anti stress oil.webp",
-    Productname: "/Assets/Product name/Persnol product/Auriwell plane.png",
-    composition: [
-      "Each 20 gm Contains;",
-      "Natural essential Lavender oil, Lemon oil, Geranium oil, Mentha oil, Patchouli oil, Cedarwood oil, Frankincense oil blend with Almond oil fortified with Vitamin E"
-    ],
-    indications:
-      ["Provides stress free sleep and relief from stress, depression and insomnia. Boosts memory function and helps to reduce the effect of Alzheimer disorder. Tones the skin and hair health, Improve blood circulation."],
-    usage:
-      ["For women :- 4-6 gm For men :- 2 gm; Method of Application:Apply Auriwell Anti Stress Oil through gentle massage of scalp in circular motion with your fingers."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 13,
     name: "Hair Growth Oil",
     description:
       "Auriwell Hair Growth oil is a blend of natural cold-pressed Jojoba and Castor oils consisting of essential fatty acids i.e., Oleic acid, Linoleic acid; Saturated fatty acids i.e., Stearic acid, Palmitic acid, Behenic acid; Unsaturated fatty acids i.e., Eicosenoic acid, Ricinoleic acid with natural micro minerals i.e., Copper, Zinc, Chromium; Natural tocopherol and Natural Vitamin B complex. Auriwell Hair Growth oil improves the growth of hair follicle, blood circulation and helps to reduce alopecia.",
@@ -339,7 +316,7 @@ const Persnol_care_Data = [
     feedback: " "
   },
   {
-    id: 14,
+    id: 13,
     name: "Anti Dandruff Oil",
     description:
       "Auriwell Antidandruff oil is a blend of natural cold-pressed Avocado and Jojoba oils consisting of essential fatty acids i.e., Oleic acid, Linoleic acid, Omega-3-fatty acid; Saturated fatty acids i.e., Stearic acid, Palmitic acid, Behenic acid; Unsaturated fatty acids i.e., Eicosenoic acid with Lecithin, natural microminerals i.e., Potassium, Copper, Zinc, Chromium, Natural tocopherol, Natural Vitamin B complex. Auriwell Antidandruff oil nourishes the scalp, improves blood circulation and helps to reduce dandruff.",
@@ -363,7 +340,7 @@ const Persnol_care_Data = [
     feedback: " "
   },
   {
-    id: 15,
+    id: 14,
     name: "Anti Stress Oil",
     description:
       "Stress is a body reaction to any change that required an adjustment or response. The body reacts to these changes with physical, mental and emotional response. Our busy life style causes many problems related to health.Mental stress one of the biggest issue in our life. Improper diet of people causes imbalanced hormone level in body leading to stress.",
@@ -371,7 +348,7 @@ const Persnol_care_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "50 gm",
-    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell-Anti-Stress-Oil.webp",
+    Productimg: "/Assets/Product images/Human/Personal Care/Auriwell Anti stress oil.webp",
     Productname: "/Assets/Product name/Persnol product/auriwell-anti-stress-oil.png",
     composition: [
       "Each pack Contains;",

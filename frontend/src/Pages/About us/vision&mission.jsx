@@ -6,9 +6,9 @@ const VisionMission = () => {
       <div className="relative">
         <img
           loading="lazy"
-          src="/Assets/vision and mission/vission and mission.jpg"
+          src="/Assets/banner/vission and mission.webp"
           alt="Vision and Mission"
-          className="w-full h-[500px] object-cover object-bottom"
+          className="w-full"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

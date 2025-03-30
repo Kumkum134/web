@@ -8,7 +8,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Enzyme , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AURIZYME.webp",
     Productname: " ",
     composition: [
       "Each litre contains:",
@@ -33,7 +33,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg Pack, 25 kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Probicap 3S.webp",
     Productname: " ",
     composition: [
       "Probicap 3S (Unique blend of 3 Bacillus probiotics)",
@@ -60,12 +60,12 @@ const Swine_Data = [
     id: 3,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
-      "AURIVIR is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
+      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
     segment: "Swine, Poultry",
     type: "Liquid, Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -93,12 +93,12 @@ const Swine_Data = [
     id: 4,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Swine, Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -135,7 +135,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -170,7 +170,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Toxin Binder , Other Specialty",
     packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox plus.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -203,7 +203,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -239,7 +239,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/CHELAMIN FORTE.webp",
     Productname: " ",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
@@ -264,12 +264,12 @@ const Swine_Data = [
     id: 9,
     name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
     description:
-      "AURISIL is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
+      "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
     segment: "Swine, Poultry",
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml 1 Ltr",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -297,7 +297,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Immunomodulator, Antibacterial , Other Specialty",
     packaging: "250 gm 1 Kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
     Productname: " ",
     composition: [
       "Each 100 gm of Essential oil contains:",
@@ -325,7 +325,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Gutforte ws.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -351,12 +351,12 @@ const Swine_Data = [
     id: 12,
     name: "Potent Organic Immunomodulator",
     description:
-      "AURIMUNE is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+      "Aurimune is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
     segment: "Swine, Poultry",
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 ml, 1 Ltr",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -384,7 +384,7 @@ const Swine_Data = [
     type: "Liquid, Powder",
     category: "Enzyme , Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/UNILYZ Penta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -408,12 +408,12 @@ const Swine_Data = [
     id: 14,
     name: "Electrolytes for Heat Stress",
     description:
-      "AURILYTE PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -451,7 +451,7 @@ const Swine_Data = [
     type: "Gel",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
     Productname: " ",
     composition: [
       "Phytase enzyme 10000 FYT/ gm"
@@ -475,7 +475,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
     Productname: " ",
     composition: [
       "Aurovita",
@@ -504,7 +504,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack 1 kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains -",
@@ -534,7 +534,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Livauroforte.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -562,7 +562,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigrow.webp",
     Productname: " ",
     composition: [
       " "
@@ -588,7 +588,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Unique Blend.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -620,7 +620,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
     Productname: " ",
     composition: [
       "Contains:",
@@ -647,7 +647,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Pondcure Plus.webp",
     Productname: " ",
     composition: [
       "Contains:",
@@ -672,12 +672,12 @@ const Swine_Data = [
     id: 23,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Swine,Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -715,7 +715,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Nomino.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -741,7 +741,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -767,7 +767,7 @@ const Swine_Data = [
     type: "Spray",
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -797,12 +797,12 @@ const Swine_Data = [
     id: 27,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
     segment: "Swine,Livestock",
     type: "Powder",
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -865,7 +865,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -892,7 +892,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -914,12 +914,12 @@ const Swine_Data = [
     id: 31,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
-      "AURIVIR-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
+      "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
     segment: "Swine,Poultry",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -952,7 +952,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Performance Enhancer , Other Specialty",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
     Productname: " ",
     composition: [
       "Contains high concentration of:",
@@ -980,7 +980,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",

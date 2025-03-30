@@ -8,7 +8,7 @@ const aqua_data = [
     type: "Granule",
     category: "Toxin Binder",
     packaging: "25 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -38,7 +38,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow.webp",
     Productname: " ",
     composition: [
       "Each ml contains –",
@@ -72,7 +72,7 @@ const aqua_data = [
     type: "Gel",
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow Gel.webp",
     Productname: " ",
     composition: [
       "Each Pack Contains :",
@@ -114,7 +114,7 @@ const aqua_data = [
     type: "Granule",
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite Pro.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -144,12 +144,12 @@ const aqua_data = [
     id: 5,
     name: "Advanced Mineral Zeolite with Unique Probiotics",
     description:
-      "Pondlite Pro is zeolite granule enriched with unique probiotic combination to optimize pond hygiene, prevent pathogen colonization, maintain proper pH, eliminate toxic gases and reduce ammonia nitrogen in pond. Pondlite Pro provides superior health conditions for aquaculture growth and multiplication.",
+      "Pondlite Pro DS is zeolite granule enriched with unique probiotic combination to optimize pond hygiene, prevent pathogen colonization, maintain proper pH, eliminate toxic gases and reduce ammonia nitrogen in pond. Pondlite Pro provides superior health conditions for aquaculture growth and multiplication.",
     segment: "Aqua",
     type: "Granule",
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite pro Ds.webp",
     Productname: " ",
     composition: [
       "Each kg contains",
@@ -188,7 +188,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -213,12 +213,12 @@ const aqua_data = [
     id: 7,
     name: "Oxygen Management Solution",
     description:
-      "AUROXY Prime is a potentiated blend of immediate as well as sustained oxygen release compounds, aqua probiotics, copper and ferrous glycinates for complete oxygen management, aqua health improvement and prevention of harmful pathogen in the aqua pond.",
+      "Auroxy Prime is a potentiated blend of immediate as well as sustained oxygen release compounds, aqua probiotics, copper and ferrous glycinates for complete oxygen management, aqua health improvement and prevention of harmful pathogen in the aqua pond.",
     segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy prime.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -248,12 +248,12 @@ const aqua_data = [
     id: 8,
     name: "Immunopotentiator and Growth Promoter",
     description:
-      "PHOSBOL AQUA is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in aquaculture crop.",
+      "Phosbol Aqua is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in aquaculture crop.",
     segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 1 kg, 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Phosbol Aqua.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -290,7 +290,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
     Productname: " ",
     composition: [
       "Contains :",
@@ -320,7 +320,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -352,7 +352,7 @@ const aqua_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigrow.webp",
     Productname: " ",
     composition: [
       "Each pack Contains:",
@@ -411,7 +411,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurimec.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -440,7 +440,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifung.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -465,7 +465,7 @@ const aqua_data = [
     id: 15,
     name: "Benzalkonium Chloride-80%",
     description:
-      "AURIBEN is a quaternary ammonium compound with exceptional microbicidal properties for use as a potent biocide & deodorant in aquaculture. It is a cationic surfactant used to remove ectoparasites from ﬁsh, prawn and shrimp. It has detergent & antibacterial activities and is eﬀective to prevent & control bacterial, protozoan and monogenean infections.",
+      "Auriben is a quaternary ammonium compound with exceptional microbicidal properties for use as a potent biocide & deodorant in aquaculture. It is a cationic surfactant used to remove ectoparasites from ﬁsh, prawn and shrimp. It has detergent & antibacterial activities and is eﬀective to prevent & control bacterial, protozoan and monogenean infections.",
     segment: "Aqua",
     type: "Liquid",
     category: "Other Specialty",
@@ -499,7 +499,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Au.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Plus.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -528,7 +528,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Livauroforte Aqua.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -560,7 +560,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 Ltr Bottle & 5 Ltr Bottle",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Yuschi Liquid.webp",
     Productname: " ",
     composition: [
       "Each Ltr Contains:",
@@ -580,7 +580,7 @@ const aqua_data = [
     id: 19,
     name: "Potent Organic Immunomodulator",
     description:
-      "AURIMUNE FORTE WS is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+      "Aurimune forte WS is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
     segment: "Poultry , Aqua",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
@@ -643,12 +643,12 @@ const aqua_data = [
     id: 21,
     name: "Essential Aqua Minerals",
     description:
-      "AUROMIN is complete blend of essential macro and micro minerals, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
+      "Auromin is complete blend of essential macro and micro minerals, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
     segment: "Aqua",
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack, 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -668,12 +668,12 @@ const aqua_data = [
     id: 22,
     name: "Premium Aqua Nutrition",
     description:
-      "AUROMIN Forte is complete blend of essential macro and micro minerals Fortified with Vitamins, Amino acids and probiotics, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
+      "Auromin Forte is complete blend of essential macro and micro minerals Fortified with Vitamins, Amino acids and probiotics, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
     segment: "Aqua",
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin.webp",
     Productname: " ",
     composition: [
       "Each Kg Contains:",
@@ -698,7 +698,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Planktoban.webp",
     Productname: " ",
     composition: [
       "Each 80 gm contains:",
@@ -729,7 +729,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Immunomodulator , Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -783,7 +783,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -818,7 +818,7 @@ const aqua_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 Ltr & 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auririch.webp",
     Productname: " ",
     composition: [
       "Each ml contains: (pH 4.0)",
@@ -844,12 +844,12 @@ const aqua_data = [
     id: 28,
     name: "Pond Acidifier",
     description:
-      "PONCI, the pond acidifier, is a unique combination of organic acids for neutralizing the harmful high pH in ponds and thus supporting the aqua production.",
+      "Ponci, the pond acidifier, is a unique combination of organic acids for neutralizing the harmful high pH in ponds and thus supporting the aqua production.",
     segment: "Aqua",
     type: "Liquid",
     category: "Other Specialty",
     packaging: "10 Ltr & 35 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Ponci.webp",
     Productname: " ",
     composition: [
       "Organic acids"
@@ -874,7 +874,7 @@ const aqua_data = [
     type: "Granule",
     category: "Nutrition Supplement , Toxin Binder , Enzyme , Other Specialty",
     packaging: "1 Kg & 5 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite pro power.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -905,7 +905,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/PlanktoGrow Dry.webp",
     Productname: " ",
     composition: [
       "Each 80 gm bottle contains:",
@@ -939,7 +939,7 @@ const aqua_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Neunaforte.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -966,7 +966,7 @@ const aqua_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn Plus.webp",
     Productname: " ",
     composition: [
       "Contains:",
@@ -994,7 +994,7 @@ const aqua_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1053,7 +1053,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm 400 gm",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Decompo.webp",
     Productname: " ",
     composition: [
       "Each 80 gm contains:",
@@ -1087,7 +1087,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 250 gm, 500 gm and 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Gutforte.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1124,7 +1124,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "200 gm bottle 1 kg HDPE Jar",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Yuschi pro plus.webp",
     Productname: " ",
     composition: [
       "Each Kg Contains:",

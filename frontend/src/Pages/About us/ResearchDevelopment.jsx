@@ -6,9 +6,9 @@ const ResearchDevelopment = () => {
       <div className="relative">
         <img
           loading="lazy"
-          src="/Assets/banner/Research and developement.jpg"
+          src="/Assets/banner/Research and developement.webp"
           alt="Scientists working in a lab"
-          className="w-full h-[400px] object-cover object-top"
+          className="w-full"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold">

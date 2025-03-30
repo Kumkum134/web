@@ -20,8 +20,10 @@ const human_data = [
       "Other ingredients: Calcium carbonate, Permitted class II preservative."
     ],
     indications:
-      ["Reports suggest that Curcumin supplementation improves immunity & respiratory health, facilitates recovery during pain, inflammation, Rheumatoid arthritis and helps in wound healing.",
-        "Auricur® is a Nanophosphosome®  form of Curcumin with technologically advanced bioenhancer and metabolic potentiator technology."],
+      [
+        "Reports suggest that Curcumin supplementation improves immunity & respiratory health, facilitates recovery during pain, inflammation, Rheumatoid arthritis and helps in wound healing.",
+        "Auricur® is a Nanophosphosome®  form of Curcumin with technologically advanced bioenhancer and metabolic potentiator technology."
+      ],
     usage:
       ["1 tablet/capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
@@ -80,12 +82,16 @@ const human_data = [
       "Vitamin D₃"
     ],
     indications:
-      ["Prepares a for fied Super Health Drink Strengthens body, immunity and stabilizes cellular integrity. ",
+      [
+        "Prepares a for fied Super Health Drink Strengthens body, immunity and stabilizes cellular integrity. ",
         "Acts as rejuvenator and stress reliever.",
-        "Enriched with an oxidants and immunity boosters."],
+        "Enriched with an oxidants and immunity boosters."
+      ],
     usage:
-      ["Mix 1 sachet in a glass full of lukewarm milk/water and consume once or twice daily or as directed by qualified healthcare professionals.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "Mix 1 sachet in a glass full of lukewarm milk/water and consume once or twice daily or as directed by qualified healthcare professionals.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -135,11 +141,15 @@ const human_data = [
       "Daily Value not established "
     ],
     indications:
-      ["Reports suggest that Moringa oleifera is a rich source of Vitamin C and is packed with an oxidants. It helps to strengthen the immune system and supports body systems.",
-        "Auringa is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Moringa oleifera is a rich source of Vitamin C and is packed with an oxidants. It helps to strengthen the immune system and supports body systems.",
+        "Auringa is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily. or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily. or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -258,11 +268,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that Bacopa monnieri supplementa on helps to boost brain health, reduces anxiety and improve memory.",
-        "Aurimind is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Bacopa monnieri supplementa on helps to boost brain health, reduces anxiety and improve memory.",
+        "Aurimind is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -291,11 +305,15 @@ const human_data = [
       "Other ingredients: Calcium carbonate, Permi ed class II preserva ve."
     ],
     indications:
-      ["Reports suggest that supplementa on of Withania somnifera, Convolvulus prostratus and Bacopa monnieri helps to boost brain health, reduces anxiety and mental fa gue, improves concentra on, cogni ve func on.",
-        "Aurimind Plus is a Withania somnifera and Convolvulus prostratus Nanophosphosome®  along with Bacopa monnieri, enriched with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that supplementa on of Withania somnifera, Convolvulus prostratus and Bacopa monnieri helps to boost brain health, reduces anxiety and mental fa gue, improves concentra on, cogni ve func on.",
+        "Aurimind Plus is a Withania somnifera and Convolvulus prostratus Nanophosphosome®  along with Bacopa monnieri, enriched with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily. or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily. or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -320,11 +338,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that Vaccinium macrocarpon extract supplementa on supports Urinary Tract Health.",
-        "Auribery® is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Vaccinium macrocarpon extract supplementa on supports Urinary Tract Health.",
+        "Auribery® is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily during post lunch/dinner. or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily during post lunch/dinner. or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -382,11 +404,15 @@ const human_data = [
       "Other ingredients: Calcium carbonate, Permi ed class II preserva ve. "
     ],
     indications:
-      ["Reports suggest that supplementa on of Saw palme o, Ur ca diocia and Prunus africana helps to improve enlarged prostate condi ons and related symptoms.",
-        "Auriprost is a Serenoa repens Nanophosphosome®  combined with other herbs and minerals, enriched with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that supplementa on of Saw palme o, Ur ca diocia and Prunus africana helps to improve enlarged prostate condi ons and related symptoms.",
+        "Auriprost is a Serenoa repens Nanophosphosome®  combined with other herbs and minerals, enriched with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily. or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily. or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -418,11 +444,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that supplementa on of Bilberry extract, Lutein, Zeaxanthin supports eye health and also reduce the risk of macular degenera on.",
-        "Aurivision is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that supplementa on of Bilberry extract, Lutein, Zeaxanthin supports eye health and also reduce the risk of macular degenera on.",
+        "Aurivision is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -475,11 +505,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that ac ves present in Lepidium meyenii root extract improves  reproduc ve health, enhances vitality & performance.",
-        "Aurimaca is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that ac ves present in Lepidium meyenii root extract improves  reproduc ve health, enhances vitality & performance.",
+        "Aurimaca is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule thrice daily with warm milk/water (morning/evening). or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule thrice daily with warm milk/water (morning/evening). or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -488,7 +522,7 @@ const human_data = [
     id: 17,
     name: " Complementary Food Supplement Vitality and Energy Booster",
     description:
-      "AURIPOWER is a unique formula on of Panax ginseng root extract that helps to boost the immune system, improves vitality, energy levels and manage sexual disfunc on.",
+      "Auripower is a unique formula on of Panax ginseng root extract that helps to boost the immune system, improves vitality, energy levels and manage sexual disfunc on.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -504,11 +538,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that Panax ginseng supplementa on boosts the immune system, improves vitality and energy levels.",
-        "Auripower is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Panax ginseng supplementa on boosts the immune system, improves vitality and energy levels.",
+        "Auripower is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule once or twice daily. or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule once or twice daily. or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -533,11 +571,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that Asparagus racemosus supplementa on helps in breast milk produc on.",
-        "Aurigus is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Asparagus racemosus supplementa on helps in breast milk produc on.",
+        "Aurigus is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -562,11 +604,15 @@ const human_data = [
       "Other ingredients: Calcium carbonate, Permi ed class II preserva ve. "
     ],
     indications:
-      ["Reports suggest that Crataegus monogyna supports blood and nutrient flow to the heart muscle, supports healthy heart func on and enhances cardiac muscle tone and vascular integrity.",
-        "Auricord  is a Nanophosphosome® form of Crataegus monogyna with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Crataegus monogyna supports blood and nutrient flow to the heart muscle, supports healthy heart func on and enhances cardiac muscle tone and vascular integrity.",
+        "Auricord  is a Nanophosphosome® form of Crataegus monogyna with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily with warm milk/water (morning/evening). or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily with warm milk/water (morning/evening). or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -600,7 +646,7 @@ const human_data = [
     id: 21,
     name: "Complementary Food Supplement Supports Healthy Blood Pressure",
     description:
-      "AUROJUNA is a powerful blend of Terminalia arjuna extract to support heart health. Studies suggest that the bark of Arjuna shows a significant reduc on in chest pain by lowering the level of cor sol i.e., the stress hormone. Arjuna also improves exercise tolerance, improves HDL levels and reduces blood pressure. It supports cardiovascular health and strengthens & tones the heart muscles.",
+      "Aurojuna is a powerful blend of Terminalia arjuna extract to support heart health. Studies suggest that the bark of Arjuna shows a significant reduc on in chest pain by lowering the level of cor sol i.e., the stress hormone. Arjuna also improves exercise tolerance, improves HDL levels and reduces blood pressure. It supports cardiovascular health and strengthens & tones the heart muscles.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -615,11 +661,15 @@ const human_data = [
       "Daily Value not established"
     ],
     indications:
-      ["Reports suggest that Terminalia arjuna supplementa on supports healthy blood pressure and reduces the risk of heart disorders.",
-        "Aurojuna is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."],
+      [
+        "Reports suggest that Terminalia arjuna supplementa on supports healthy blood pressure and reduces the risk of heart disorders.",
+        "Aurojuna is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 capsule twice daily. or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily. or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -628,7 +678,7 @@ const human_data = [
     id: 22,
     name: "Complementary Food Supplement Cardiovascular Health ",
     description:
-      "AURIGREEN Is a unique formula on of Camellia sinensis that Helps to reduce blood pressure levels and LDL cholesterol improves blood vessel flexibility and supports cardiovascular health.",
+      "Aurigreen Is a unique formula on of Camellia sinensis that Helps to reduce blood pressure levels and LDL cholesterol improves blood vessel flexibility and supports cardiovascular health.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -644,11 +694,15 @@ const human_data = [
       "For fied with Piperine "
     ],
     indications:
-      ["Reports suggest that Camellia sinensis extract supplementa on improves cardiovascular health & support skin health.",
-        "Aurigreen is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
+      [
+        "Reports suggest that Camellia sinensis extract supplementa on improves cardiovascular health & support skin health.",
+        "Aurigreen is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."
+      ],
     usage:
-      ["1 capsule twice daily with warm milk/water (morning/evening) or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily with warm milk/water (morning/evening) or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -673,11 +727,15 @@ const human_data = [
       "For fied with Piperine"
     ],
     indications:
-      ["Reports suggest that Trigonella foenum graecum extract improves blood sugar management.",
-        "Aurimethi is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
+      [
+        "Reports suggest that Trigonella foenum graecum extract improves blood sugar management.",
+        "Aurimethi is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."
+      ],
     usage:
-      ["3 capsules once or in divided dosage daily during post lunch/dinner or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "3 capsules once or in divided dosage daily during post lunch/dinner or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -703,12 +761,16 @@ const human_data = [
       "Enriched with insulin ac vators"
     ],
     indications:
-      ["Reduces the risk of hyperglycemia-related damage to organs.",
+      [
+        "Reduces the risk of hyperglycemia-related damage to organs.",
         "Protects heart and blood vessels from diabe c complica on.",
-        "An- inflammatory and an- oxidant proper es protects cells from oxida ve stress."],
+        "An- inflammatory and an- oxidant proper es protects cells from oxida ve stress."
+      ],
     usage:
-      ["Take 1 to 2 capsules daily for 16-24 weeks or as directed by qualified physician/endocrinologist. ",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "Take 1 to 2 capsules daily for 16-24 weeks or as directed by qualified physician/endocrinologist. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -735,15 +797,19 @@ const human_data = [
       "Enriched with Berberine-Quercetine Nanophosphosome®"
     ],
     indications:
-      ["Improves insulin sensi vity in hyperglycemic pa ents.",
+      [
+        "Improves insulin sensi vity in hyperglycemic pa ents.",
         "Stabilizes blood sugar level.",
         "Reduces the cytokines level and decreases inflamma on",
         "Improves lipid profiles and maintains cardiovascular health.",
         "Modulates the func on of gut microbiota.",
-        "Improves glycemic control and manage symptoms associated with metabolic syndromes, such as hypertension, elevated level of triglyceride, and decreased HDL levels"],
+        "Improves glycemic control and manage symptoms associated with metabolic syndromes, such as hypertension, elevated level of triglyceride, and decreased HDL levels"
+      ],
     usage:
-      ["Take 1 capsule B.I.D. for 12-18 weeks or as directed by qualified physician/ endocrinologist.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "Take 1 capsule B.I.D. for 12-18 weeks or as directed by qualified physician/ endocrinologist.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -752,7 +818,7 @@ const human_data = [
     id: 26,
     name: " Complementary Food Supplement Gut-acting Probiotic Blend",
     description:
-      "AURIGUT is a unique bland formula on of 3 gut ac ng probio cs enriched with Fructo-oligosaccharide to promotes healthy diges on and enhances gut immunity.",
+      "Aurigut is a unique bland formula on of 3 gut ac ng probio cs enriched with Fructo-oligosaccharide to promotes healthy diges on and enhances gut immunity.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -769,11 +835,15 @@ const human_data = [
       "FOS..............100 mg"
     ],
     indications:
-      ["Diges ves disturbances i.e. indiges on, diarrhea, cons pa on etc. ",
-        "Irritable Bowel Syndrome."],
+      [
+        "Diges ves disturbances i.e. indiges on, diarrhea, cons pa on etc. ",
+        "Irritable Bowel Syndrome."
+      ],
     usage:
-      ["1-2 capsule daily or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1-2 capsule daily or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -782,7 +852,7 @@ const human_data = [
     id: 27,
     name: "Complementary Food Supplement A UNIQUE PROBIOTIC BLEND",
     description:
-      "AUROLAC is a unique blend formula on of 4 gut ac ng probio cs enriched with Fructo-oligosaccharide to improve diges on and gut health.",
+      "Aurolac is a unique blend formula on of 4 gut ac ng probio cs enriched with Fructo-oligosaccharide to improve diges on and gut health.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -803,8 +873,10 @@ const human_data = [
     indications:
       ["Diges ves disturbances i.e. indiges on, diarrhea, cons pa on etc. Irritable Bowel Syndrome."],
     usage:
-      ["1 sachet in luke warm water once or twice daily. or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 sachet in luke warm water once or twice daily. or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -813,7 +885,7 @@ const human_data = [
     id: 28,
     name: "Complementary Food Supplement A UNIQUE PROBIOTIC BLEND",
     description:
-      "AUROLAC Power is an Advanced blend formula on of 4 Gut Acting Probio cs to maintain intes nal pH, improves gut protec on, promotes healthy diges on and enhances gut immunity. AUROLAC Power improves biosynthesis of Vitamin B, Vitamin K & Folic acid. These gut ac ng probio cs produce bacteriocins to act against pathogenic microbes & reduces diges ve disturbances.",
+      "Aurolac Power is an Advanced blend formula on of 4 Gut Acting Probio cs to maintain intes nal pH, improves gut protec on, promotes healthy diges on and enhances gut immunity. AUROLAC Power improves biosynthesis of Vitamin B, Vitamin K & Folic acid. These gut ac ng probio cs produce bacteriocins to act against pathogenic microbes & reduces diges ve disturbances.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -831,11 +903,15 @@ const human_data = [
       "Other ingredients: Silicon Dioxide"
     ],
     indications:
-      ["Diges ves disturbances i.e. indiges on, diarrhea, cons pa on etc.",
-        "Irritable Bowel Syndrome."],
+      [
+        "Diges ves disturbances i.e. indiges on, diarrhea, cons pa on etc.",
+        "Irritable Bowel Syndrome."
+      ],
     usage:
-      ["1 sachet in lukewarm water once or twice daily. or as directed by qualified healthcare professionals.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "1 sachet in lukewarm water once or twice daily. or as directed by qualified healthcare professionals.",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -1062,12 +1138,226 @@ const human_data = [
       "For fied with FOS"
     ],
     indications:
-      ["Regular supplementa on helps to improve the condi on in Osteoporosis, Fracture healing , Low mental acuity , Mental and physical fa gue.",
+      [
+        "Regular supplementa on helps to improve the condi on in Osteoporosis, Fracture healing , Low mental acuity , Mental and physical fa gue.",
         "High sensi vity to cough and cold.",
-        "Loss of appe te."],
+        "Loss of appe te."
+      ],
     usage:
-      ["Children, Men and Women: 1 capsule daily, Pregnant women and for fracture healing: 1 capsule twice daily. or as recommended by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."],
+      [
+        "Children, Men and Women: 1 capsule daily, Pregnant women and for fracture healing: 1 capsule twice daily. or as recommended by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 37,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Moringa oleifera improves Bone health, cardiac functions, liver functions and immunity.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Moringa oleifera.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains:",
+      "Organic honey 7 gm, Moringa oleifera ext. 300 mg (60 mg Saponins)"
+    ],
+    indications:
+      [
+        "Improves digestion and detoxifies the gut",
+        "Supports joint health and helps relieve joint pain",
+        "Manages blood glucose level and helps to support normal blood pressure",
+        "Improve liver functions and prevents liver cell damage"
+      ],
+    usage:
+      [
+        "Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it ",
+        "once or twice a day. Stir the mixture well before consuming."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 38,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Withania somnifera, Convolvulus prostrates and Bacopa monnieri ext. improves concentration, cognitive function and brain health.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Withania somnifera.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      " Each tea spoon full of organic honey contains:",
+      "Organic honey 7 gm, Withania somnifera ext. 125 mg (12.5 mg Withanolides), Convolvulus prostrates ext. 100 mg (4 mg Alkaloids), Bacopa monnieri ext. 100 mg (50 mg Bacosides)",
+      "Fortified with piperine and carum carvi"
+    ],
+    indications:
+      [
+        "Helps to boost brain health",
+        "Reduces anxiety and mental fatigue",
+        "Improves concentration and cognitive function"
+      ],
+    usage:
+      [
+        "Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it ",
+        "once or twice a day. Stir the mixture well before consuming."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 39,
+    name: " ",
+    description:
+      "Wellness Honey enriched with curcumin, optimizes anti-inflammatory properties, provides instant energy and immunity for overall well-being.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Cuecumin.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains: ",
+      "Organic honey 7 gm, Curcumin 95 mg",
+      "Fortified with piperine"
+    ],
+    indications:
+      [
+        "Provides anti-inflammatory, antioxidant and immunity-boosting properties",
+        "Helps to strengthen immunity during common flu such as cold and sore throat",
+        "Strengthens the nervous system and supports joint health",
+        "Improves digestive health and provides instant energy"
+      ],
+    usage:
+      [
+        "Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it once or twice a day. ",
+        "Stir the mixture well before consuming."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 40,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Shilajit improves physical endurance, male fertility, hormonal functions and immune system to keep strong and healthy.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Shilajit.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains: ",
+      "Organic honey 7 gm, Shilajit ext. 300 mg (Fulvic acid 210 mg)"
+    ],
+    indications:
+      [
+        "Helps to boost energy and endurance",
+        "Enhances physical performance ",
+        "Increase male fertility by boosting key hormones and sperm count",
+        "Keeps the immune system strong and healthy"
+      ],
+    usage:
+      ["Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it once or twice a day. Stir the mixture well before consuming."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 41,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Withania somnifera and Carum carvi, reduces mental stress, insomnia & improves metabolism, body growth and immunity.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Carum carvi.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains:",
+      "Organic honey 7 gm, Withania somnifera 125 mg (12.5 mg withanolides)",
+      "Fortified with piperine and Carum carvi "
+    ],
+    indications:
+      [
+        "Improves metabolism and digestive functions.",
+        "Reduces stress, anxiety & strengthens muscle mass.",
+        "Improves the condition of insomnia & immunity booster.",
+        "Improves Antibacterial, antiviral and Anti-inflammatory properties."
+      ],
+    usage:
+      [
+        "Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it once or twice a day.",
+        "Stir the mixture well before consuming."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 42,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Terminalia arjuna and Cinnamomum zeylanicum, improves cardiac functions, strengthens the heart muscles and immunity ",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Terminalia arjuna.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains:",
+      "Organic honey 7 gm, Terminalia arjuna ext. 500 mg (125 mg Tannins), Cinnamomum zeylanicum ext. 500 mg (150 mg Cinnamaldehyde) "
+    ],
+    indications:
+      [
+        "Strengthens heart muscles and helps to manage cholesterol level",
+        "Promotes cardiac functioning by regulating blood pressure ",
+        "Supports blood sugar management and maintains glycemic level in blood",
+        "Improves resistance to fight infections"
+      ],
+    usage:
+      ["Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it once or twice a day. Stir the mixture well before consuming."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 43,
+    name: " ",
+    description:
+      "Wellness Honey enriched with Clove and Tulsi improves respiratory system and immunity to fight against allergies, infections and pathogens.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "1 Kg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Clove and tulsi.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    composition: [
+      "Each tea spoon full of organic honey contains:",
+      "Syzygium aromaticum ext. 150 mg, Ocimum sanctum ext. 250 mg"
+    ],
+    indications:
+      [
+        "Provides relieve in cough, cold and respiratory infections",
+        "Helps to boost immunity",
+        "Improves digestive functions",
+        "Improves anti-inflammatory, antibacterial and antiallergic properties"
+      ],
+    usage:
+      ["Take one tea spoon (approx.7g) of honey in a glass of lukewarm water /milk and consume it once or twice a day. Stir the mixture well before consuming"],
     report: " ",
     brochure: " ",
     feedback: " "

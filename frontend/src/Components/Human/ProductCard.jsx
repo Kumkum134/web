@@ -20,7 +20,6 @@ const ProductCard = ({ product }) => {
           src={product.Productimg}
           alt="Product Image"
           className="h-64 w-64 md:h-80 md:w-80 object-cover rounded-lg"
-          loading="lazy"
         />
       </div>
       <div className="md:w-2/3 w-full p-3 flex flex-col border">
@@ -28,7 +27,6 @@ const ProductCard = ({ product }) => {
           src={product.Productname}
           alt="Product Thumbnail"
           className="h-16 w-64 md:h-20 md:w-72 rounded-lg mb-2 object-contain"
-          loading="lazy"
         />
         <div className="flex flex-wrap border-b pb-2">
           {tabs.map((label) => (

@@ -7,14 +7,13 @@ const Swine = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          loading="lazy"
-          src="/Assets/banner/Swine.jpg"
+          src="/Assets/banner/Swine.webp"
           alt="Swine"
-          className="w-full h-[500px] object-cover"
+          className="w-full"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">
-          <h1 className="text-4xl font-bold">Swine</h1>
+          <h1 className="lg:text-4xl font-bold">Swine</h1>
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">

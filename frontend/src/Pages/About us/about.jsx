@@ -8,10 +8,9 @@ const About = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/About us.jpg"
+          src="/Assets/banner/About us.webp"
           alt="About Us"
-          className="w-full h-[500px] object-cover object-bottom"
-          loading="lazy"
+          className="w-full"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">

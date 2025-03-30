@@ -6,16 +6,7 @@ const Nanophosphosome = () => {
   return (
     <div className="font-sans">
       <div className="relative">
-        <img
-          loading="lazy"
-          src="/Assets/banner/Health suppliments.webp"
-          alt="Health suppliments"
-          className="w-full h-[500px] object-cover object-bottom"
-        />
-        <div className="absolute inset-0 bg-black opacity-50"></div>
-        <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">
-          <h1 className="text-4xl font-bold">Nanophosphosome®</h1>
-        </div>
+        <img src="/Assets/banner/Nanophosphosome.webp" alt="Nanophosphosome" className="w-full"/>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
         {nanophosphosome_data?.length > 0 ? (

@@ -2,10 +2,10 @@ import { useState, useEffect, useRef } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const images = [
-  "/Assets/banner/Nanophosphosome.webp",
-  "/Assets/banner/2.jpg",
-  "/Assets/banner/Auricur Banner.jpg",
-  "/Assets/banner/aurinko banner.jpg",
+  "/Assets/banner/Nanophosphosom.webp",
+  "/Assets/banner/Neuna particle.webp",
+  "/Assets/banner/Nunamin.webp",
+  "/Assets/banner/Ad banner.webp",
 ];
 
 export default function ImageSlider() {
@@ -27,7 +27,7 @@ export default function ImageSlider() {
   }, []);
 
   return (
-    <div className="relative w-full lg:h-[80vh] mx-auto">
+    <div className="relative w-full mx-auto">
       <div className="relative w-full h-full overflow-hidden">
         <img
           src={images[currentIndex]}
@@ -42,7 +42,7 @@ export default function ImageSlider() {
         onClick={prevSlide}
         aria-label="Previous slide"
       >
-        <FaChevronLeft size={24} />
+        <FaChevronLeft />
       </button>
 
       <button
@@ -50,14 +50,14 @@ export default function ImageSlider() {
         onClick={nextSlide}
         aria-label="Next slide"
       >
-        <FaChevronRight size={24} />
+        <FaChevronRight />
       </button>
 
       <div className="absolute bottom-3 left-1/2 transform -translate-x-1/2 flex gap-2">
         {images.map((_, index) => (
           <button
             key={index}
-            className={`w-3 h-3 rounded-2xl transition-colors duration-300 ${
+            className={`w-2 h-2 lg:w-3 lg:h-3 rounded-2xl transition-colors duration-300 ${
               index === currentIndex ? "bg-white scale-125" : "bg-gray-400"
             }`}
             onClick={() => setCurrentIndex(index)}

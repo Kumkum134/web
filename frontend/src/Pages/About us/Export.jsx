@@ -21,10 +21,9 @@ const Export = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="https://storage.googleapis.com/a1aa/image/2K7dQ6qCBTD_bYtRoDotMjDJmInAoUzmdOS8KDc0x1U.jpg"
+          src="/Assets/banner/export.webp"
           alt="Export"
-          className="w-full h-[500px] object-cover"
-          loading="lazy"
+          className="w-full"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white">
