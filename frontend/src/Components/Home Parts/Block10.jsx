@@ -18,16 +18,16 @@ const Block10 = () => {
 
   return (
     <div className="flex flex-col items-center justify-center py-10 px-6 md:px-8 lg:px-12">
-      <div className="text-center">
+      <div className="flex flex-col items-center justify-center">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-green-800">
           Review <span className="text-orange-600">And Feedback</span>
         </h1>
         <div className="h-1 w-52 md:w-64 lg:w-72 xl:w-96 rounded-full mt-2 bg-gradient-to-r from-orange-600 to-green-800"></div>
       </div>
-      <div className="flex flex-col lg:flex-row items-center justify-center gap-10 mt-12 p-8 relative overflow-hidden">
+      <div className="flex flex-col lg:flex-row items-center justify-center gap-10 mt-4 p-8 relative overflow-hidden">
         <div className="text-center lg:text-left">
           <div>
-            <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="h-32 mx-auto lg:mx-0" loading="lazy"/>
+            <img src="/Assets/Aurinko Logo.png" alt="Aurinko Logo" className="h-32 mx-auto lg:mx-0"/>
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
               Aurinko Health Care Pvt. Ltd
             </h2>

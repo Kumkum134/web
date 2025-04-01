@@ -33,6 +33,13 @@ import Equines from "./Pages/Veterinary/Equines";
 import Blog1 from "./Components/Blog/blog1";
 import Blog2 from "./Components/Blog/blog2";
 import Navbar from "../src/Layout/Navbar/Navbar";
+import Gallery from './Pages/Media/Gallery';
+import PhotoGallery from './Components/Gallery/PhotoGallery';
+import VideoGallery from './Components/Gallery/VideoGallery';
+import FarmersFairs from './Components/Gallery/Photos/FarmersFairs';
+import Exhibitions from './Components/Gallery/Photos/Exhibitions';
+import TeamMeetingTraining from './Components/Gallery/Photos/TeamMeetingTraining';
+import CrmActivities from './Components/Gallery/Photos/CrmActivities';
 
 const App = () => {
   return (
@@ -64,6 +71,13 @@ const App = () => {
         <Route path="/v-neuna-particles" element={<VNeunaparticles />} />
         <Route path="/ingredients" element={<Ingredients />} />
         <Route path="/reports" element={<Reports />} />
+        <Route path="/gallery" element={<Gallery />} />
+        <Route path="/photos" element={<PhotoGallery />} />
+        <Route path="/photos/farmers-fairs" element={<FarmersFairs />} />
+        <Route path="/photos/exhibitions" element={<Exhibitions />} />
+        <Route path="/photos/team-meeting-training" element={<TeamMeetingTraining />} />
+        <Route path="/photos/crm-activities" element={<CrmActivities />} />
+        <Route path="/videos" element={<VideoGallery />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/blog1" element={<Blog1 />} />
         <Route path="/blog/blog2" element={<Blog2 />} />
@@ -72,7 +86,6 @@ const App = () => {
         <Route path="/articles" element={<Articles />} />
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
-
       <Footer />
     </div>
   );

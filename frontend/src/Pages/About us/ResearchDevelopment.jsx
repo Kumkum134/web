@@ -5,7 +5,6 @@ const ResearchDevelopment = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          loading="lazy"
           src="/Assets/banner/Research and developement.webp"
           alt="Scientists working in a lab"
           className="w-full"
@@ -44,7 +43,6 @@ const ResearchDevelopment = () => {
 
           <div className="w-full md:w-1/2">
             <img
-              loading="lazy"
               src="/Assets/Research and developement/research img 1.jpg"
               alt="Scientist working with lab equipment"
               className="w-full h-auto mx-auto"
@@ -76,7 +74,6 @@ const ResearchDevelopment = () => {
 
           <div className="w-full md:w-1/2">
             <img
-              loading="lazy"
               src="/Assets/Research and developement/Nanophosphosome.jpg"
               alt="Nanophosphosome"
               className=" h-96 mx-auto"
@@ -113,18 +110,15 @@ const ResearchDevelopment = () => {
           <div className="flex justify-center items-center">
             <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
               <div>
-                <img
-                  loading="lazy" src="/Assets/Research and developement/Curcuma longa.jpg" alt="Curcuma longa" className="w-full rounded-lg shadow-lg" />
+                <img src="/Assets/Research and developement/Curcuma longa.jpg" alt="Curcuma longa" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Curcuma longa</h1>
               </div>
               <div>
-                <img
-                  loading="lazy" src="/Assets/Research and developement/Berberis vulgaris.jpg" alt="Berberis vulgaris" className="w-full rounded-lg shadow-lg" />
+                <img src="/Assets/Research and developement/Berberis vulgaris.jpg" alt="Berberis vulgaris" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Berberis vulgaris</h1>
               </div>
               <div>
-                <img
-                  loading="lazy" src="/Assets/Research and developement/Tagetes erecta.jpg" alt="Tagetes erecta" className="w-full rounded-lg shadow-lg" />
+                <img src="/Assets/Research and developement/Tagetes erecta.jpg" alt="Tagetes erecta" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Tagetes erecta</h1>
               </div>
             </div>
@@ -196,7 +190,6 @@ const ResearchDevelopment = () => {
           </div>
           <div className="w-full md:w-1/2">
             <img
-              loading="lazy"
               src="/Assets/Research and developement/Application of neuna particle.jpg"
               alt="Application of neuna particle"
               className="h-72 mx-auto"
@@ -206,23 +199,19 @@ const ResearchDevelopment = () => {
         <div className="flex justify-center items-center">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div>
-              <img
-                loading="lazy" src="/Assets/Research and developement/Copper Neuna®.jpg" alt="Copper Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img src="/Assets/Research and developement/Copper Neuna®.jpg" alt="Copper Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Copper Neuna®</h1>
             </div>
             <div>
-              <img
-                loading="lazy" src="/Assets/Research and developement/Silver Neuna®.jpg" alt="Silver Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img src="/Assets/Research and developement/Silver Neuna®.jpg" alt="Silver Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Silver Neuna®</h1>
             </div>
             <div>
-              <img
-                loading="lazy" src="/Assets/Research and developement/Zinc Neuna®.jpg" alt="Zinc Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img src="/Assets/Research and developement/Zinc Neuna®.jpg" alt="Zinc Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Zinc Neuna®</h1>
             </div>
             <div>
-              <img
-                loading="lazy" src="/Assets/Research and developement/Potassium Neuna®.jpg" alt="Potassium Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img src="/Assets/Research and developement/Potassium Neuna®.jpg" alt="Potassium Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Potassium Neuna®</h1>
             </div>
           </div>
@@ -246,7 +235,6 @@ const ResearchDevelopment = () => {
             <div className="flex gap-8 flex-wrap items-center">
               <div>
                 <img
-                  loading="lazy"
                   src="/Assets/Research and developement/Carbon Quantum Dots (CQDs).jpg"
                   alt="Carbon Quantum Dots (CQDs)"
                   className="h-20 object-cover"
@@ -264,7 +252,6 @@ const ResearchDevelopment = () => {
             <div className="flex gap-8 flex-wrap items-center">
               <div className="w-20">
                 <img
-                  loading="lazy"
                   src="/Assets/Research and developement/Carbon Polymer Bio-caging.jpg"
                   alt="Carbon Polymer Bio-caging"
                   className="h-20 w-auto object-cover"

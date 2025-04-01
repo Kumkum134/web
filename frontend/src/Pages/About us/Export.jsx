@@ -5,8 +5,12 @@ const Export = () => {
 
   const locations = [
     { name: "India", top: "45%", left: "63%" },
-    { name: "Zimbabwe", top: "75%", left: "50%" },
+    { name: "Zimbabwe", top: "66%", left: "50.5%" },
+    { name: "Egypt", top: "45%", left: "50.5%" },
     { name: "South Korea", top: "37%", left: "75%" },
+    { name: "Bangladesh", top: "45%", left: "66.2%" },
+    { name: "Nepal", top: "43%", left: "64.5%" },
+    { name: "Sri Lanka", top: "53.5%", left: "64.6%" },
   ];
 
   const handleMouseEnter = (name, top, left) => {
@@ -66,7 +70,7 @@ const Export = () => {
               onMouseEnter={() => handleMouseEnter(loc.name, loc.top, loc.left)}
               onMouseLeave={handleMouseLeave}
             >
-              <i className="fas fa-map-marker-alt"></i>
+              <i className="fas fa-map-marker-alt text-xs lg:text-lg"></i>
             </div>
           ))}
           {tooltip.visible && (

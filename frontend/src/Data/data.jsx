@@ -33,10 +33,10 @@ export const block3Data = [
   },
   {
     id: 5,
-    image: "/Assets/Product images/Human/Health Supplements/Auribery Plus.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
-    title: "Auribery Plus",
-    segment: "Human",
+    image: "/Assets/Product images/Veterinary/Livestock/Turbogil vet.webp",
+    hoverImage: "/Assets/Product ads/Turbogil vet.webp",
+    title: "Turbogil vet",
+    segment: "Livestock",
     rating: 4.5,
   }
 ];
@@ -69,18 +69,18 @@ export const block8Data = [
   },
   {
     id: 4,
-    image: "/Assets/Product img/Auriglow-massage-oil.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
-    title: "Auriglow massage Oil",
-    segment: "Personal Care",
+    image: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
+    hoverImage: "/Assets/Product ads/Aurisom.webp",
+    title: "Aurisom",
+    segment: "Health Supplements",
     rating: 4.0,
   },
   {
     id: 5,
-    image: "/Assets/Product images/Human/Personal Care/Auriglow Anti Marks.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
-    title: "Auriglow anti marks oil",
-    segment: "Personal Care",
+    image: "/Assets/Product images/Human/Health Supplements/Quadrical.webp",
+    hoverImage: "/Assets/Product ads/Quadrical.png",
+    title: "Quadrical",
+    segment: "Health Supplements",
     rating: 4.5,
   }
 ];

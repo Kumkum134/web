@@ -19,7 +19,7 @@ const livestock_data = [
     usage:
       ["For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days."],
     report: " ",
-    brochure: "Assets/brochure/Masti 24.png",
+    brochure: "Assets/brochure/Masti 24.webp",
     feedback: " "
   },
   {
@@ -32,7 +32,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: "/Assets/Product name/Livestock/Aurospray.png",
+    Productname: "/Assets/Product name/Livestock/Auro Spray.webp",
     composition: [
       "Each 100 ml contains :",
       "Ocimum sanctum oil 6.4 gm",
@@ -127,8 +127,8 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "16 gm sachet, Pack containing 60 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Fat-a-fat.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Fat-a-Fat.webp",
+    Productname: "/Assets/Product name/Livestock/Fat-a-Fat.webp",
     composition: [
       "Each 15 gm Sachet contains :",
       "Saccharomyces cerevisiae",
@@ -158,7 +158,7 @@ const livestock_data = [
     category: "Digestive",
     packaging: "15 gm sachet, Pack containing 25 sachet",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Probirum.png",
+    Productname: "/Assets/Product name/Livestock/Probirum.webp",
     composition: [
       "Each 15 gm Sachet contains :",
       "Saccharomyces cerevisiae",
@@ -189,7 +189,7 @@ const livestock_data = [
     category: "Performance Enhancer , Immunomodulator",
     packaging: "1Box containing 48 sachets",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Neulact.png",
+    Productname: "/Assets/Product name/Livestock/Neulact.webp",
     composition: [
       "Each sachet contains :",
       "Macro Minerals",
@@ -217,7 +217,7 @@ const livestock_data = [
     category: "Antimicrobial , Antibacterial",
     packaging: "30 ml Vial in a unit carton with Tray and Antiseptic swab",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Neubac.png",
+    Productname: "/Assets/Product name/Livestock/Neubac.webp",
     composition: [
       "Each ml contains:",
       "Moxifloxacin 100 mg"
@@ -239,8 +239,8 @@ const livestock_data = [
     type: "Liquid",
     category: "Anti-Parasitic , Anthelmintic",
     packaging: "6 tablets strip in a unit carton, 100 ml, 250 ml and 500 ml bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen Plus.webp",
     composition: [
       "Each tablet contains:",
       "Fenbendazole………..300 mg",
@@ -273,7 +273,7 @@ const livestock_data = [
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
+    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.webp",
     composition: [
       "Water Soluble Powder & each gm contains-",
       "Trachyspermum ammi extract 60 mg",
@@ -311,8 +311,8 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Digerum.webp",
+    Productname: "/Assets/Product name/Livestock/Digerum.webp",
     composition: [
       "Each gm contains",
       "phytochemical extracts of-",
@@ -352,8 +352,8 @@ const livestock_data = [
     type: "Bolus",
     category: "Anti - Parasitic, Anthelmintic",
     packaging: "Single bolus strip in a unit carton",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfen.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen.webp",
     composition: [
       "Each bolus contains:",
       "Fenbendazole…………….3 gm",
@@ -380,7 +380,7 @@ const livestock_data = [
     category: "Anti-Parasitic , Anthelmintic",
     packaging: "Single bolus strip in a unit carton",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen forte.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfen-Forte.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen Forte.webp",
     composition: [
       "Each bolus contains:",
       "Fenbendazole…………….5 gm",
@@ -408,7 +408,7 @@ const livestock_data = [
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Neunamin plus DS.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Neunamin Plus DS.webp",
     composition: [
       "Each Bolus Contains:",
       "Zinc Neunamin…………………………………..3, 20,000 mcg",
@@ -448,7 +448,7 @@ const livestock_data = [
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Neunamin plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
     composition: [
       "Each Bolus Contains:",
       "Zinc Neunamin…………………………………..1, 60,000 mcg",
@@ -488,7 +488,7 @@ const livestock_data = [
     category: "Milk Enhancer",
     packaging: "10×2 boli in a unit carton",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Milky Vet.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Milk Vet.webp",
     composition: [
       "Each bolus contains:",
       "Calcium…………….. 2000 mg",
@@ -531,7 +531,7 @@ const livestock_data = [
     category: "Flukicide",
     packaging: "100 ml, 500 ml and 1 litre Bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Triclauri.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Triclauri.webp",
     composition: [
       "Each ml contains:",
       "Triclabendazole…………..50 mg",
@@ -559,7 +559,7 @@ const livestock_data = [
     category: "Milk Enhancer",
     packaging: "1 litre bottle; 5 litre and 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurocal plus Gold.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Aurocal Plus Gold.webp",
     composition: [
       "Each 100 ml contains:",
       "Calcium 5000 mg, Phosphorus 2500 mg, Magnesium 250 mg, Vitamin D3 50000 IU, Vitamin B12 200 mcg, Lycopene 50 mcg, Biotin 20 mg, Organic Chromium 24 mg, Zinc glycinate 2000 mg, Copper glycinate 700 mg, Cobalt Sulphate 30 mg, Potassium iodide 15 mg,",
@@ -586,7 +586,7 @@ const livestock_data = [
     category: "Nutrition Supplement",
     packaging: "16 gm sachets, Dispenser pack containing 20 sachets",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Estro Min DS.webp",
     composition: [
       "Each sachet contains:",
       "Copper (MHA) 240 mg",
@@ -625,7 +625,7 @@ const livestock_data = [
     category: "Nutrition Supplement",
     packaging: "500 gm, 5 Kg and 25 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Neunaforte.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Neuna Forte.webp",
     composition: [
       "Each pack contains :",
       "Very high concentrations of Coated Vitamin A",
@@ -673,7 +673,7 @@ const livestock_data = [
     category: "Nutrition Supplement",
     packaging: "400 gm squeezable bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Gelmil Advanced 500.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Gelmil Advanced-500.webp",
     composition: [
       "Each 450 gm contains:",
       "Calcium 40 gm, Phosphorus 13 gm, Magnesium 6 gm,",
@@ -702,7 +702,7 @@ const livestock_data = [
     category: "Preventive Concepts",
     packaging: "500 gm bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Drylact.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Drylact.webp",
     composition: [
       "Each Kg contains:",
       "Salvia officinalis ext., Mentha piperita oil, Petroselinum crispum ext., Vitex agnus-castus berry ext.",
@@ -732,8 +732,8 @@ const livestock_data = [
     type: "Liquid",
     category: "Mosquito repellent",
     packaging: "100 gm, 250 gm and 1 kg Bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimos.webp",
+    Productname: "/Assets/Product name/Livestock/Aurimos.webp",
     composition: [
       "Each 100 gm essential oil contains:",
       "Eugenol…………… 5000 mg",
@@ -759,7 +759,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "11 litre Bottle 5 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat natura.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auriblat Natura.webp",
     composition: [
       "Each 10 ml conains:",
       "Trachyspermum ammi linn extract 6.25 ml",
@@ -790,7 +790,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auriblat.webp",
     composition: [
       "Each 5 ml contains:",
       "(As simethicone USP emlusion) 1%",
@@ -817,7 +817,7 @@ const livestock_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "250 ml. 500 ml",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Ferauri.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Ferauri.webp",
     composition: [
       "Each 50 ml contains:",
       "Chelated Ferrous glycinate 2250 mg (eq. to 450 mg of Iron),",
@@ -846,7 +846,7 @@ const livestock_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "250 ml. 500 ml",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Ferauri plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Ferauri Plus.webp",
     composition: [
       "Each 50 ml contains:",
       "Chelated Ferrous glycinate 2250 mg (eq. to 450 mg of Iron),",
@@ -886,7 +886,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "80 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Metriwin.webp",
     composition: [
       "Each 80 gm contains:",
       "Garlic extract 20 gm, Azadirachta indica extract 20 gm,",
@@ -914,7 +914,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 ml, 1 ltr.",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
     composition: [
       "Each Litre contains:",
       "Methylene Blue 1gm"
@@ -937,7 +937,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "250 ml, 500 ml, 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Aurilum Plus.webp",
     composition: [
       "Each ml contains:",
       "Eugenia jambolaua ext. 50mg",
@@ -961,7 +961,7 @@ const livestock_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Suportho.webp",
     composition: [
       "Each Ltr contains-",
       "Calcium chloride 30 gm, Sodium chloride 10 gm, Chondroitin sulphate 500 mg, Glucosamine 500 mg, Orthophosphoric acid 30 gm, Vitamin D3 20000 IU,",
@@ -989,7 +989,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimet.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Aurimet.webp",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
       "Saraca indica linn 25000 mg",
@@ -1031,7 +1031,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 ml Bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Partum 11.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Partum 11.webp",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
       "Saraca indica linn 5 gm, Clerodendrum phlomidis 5 gm, Stereospermum suaveolens 5 gm, Desmodium gangeticum 5 gm, Uraria picta 5 gm, Aegle marmelos 5 gm, Solanum indicum 5 gm, Solanum xanthocarpum 5 gm, Gmelina arborea 5 gm, Tribulus terrestris 5 gm,",
@@ -1062,7 +1062,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 ml Bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Omega Concept.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Omega Concept.webp",
     composition: [
       "Each 5 ml contains:",
       "Phytochemical extracts of Vitex agnus castus berry, Lepidium meyenii, Salvia officinalis",
@@ -1092,7 +1092,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "200 ml, 1 litre Bottle, 5 litre Jar,  25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auriplanta.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auriplanta.webp",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
       "Achyranthes aspera 12000 mg ",
@@ -1124,13 +1124,13 @@ const livestock_data = [
     id: 36,
     name: "Supports Immunity and Liver Health",
     description:
-      "AURIGRAPH 9 Plus is a technologically advanced liver health supplement enriched with health benefits of Andrographis paniculata and Tinospora cordifolia fortified with Bioenhancer technology to support liver health and immunity.",
+      "Aurigraph 9 Plus is a technologically advanced liver health supplement enriched with health benefits of Andrographis paniculata and Tinospora cordifolia fortified with Bioenhancer technology to support liver health and immunity.",
     segment: "Livestock",
     type: "Liquid",
     category: "Immunomodulator , Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigraph 9 Plus.webp",
+    Productname: "/Assets/Product name/Livestock/Aurigraph 9 Plus.webp",
     composition: [
       "Each 100 ml contains:",
       "Andrographis paniculata extract with Andrographoloids 900 mg",
@@ -1158,8 +1158,8 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 200 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Bufto Forte.webp",
+    Productname: "/Assets/Product name/Livestock/Bufto Forte.webp",
     composition: [
       "Each 200 gm contains:",
       "Calcium 73 gm, Magnesium 27 gm, DL-Methionine 10 gm, Biotin 20 mg, Cobalt sulphate 50 mg,",
@@ -1191,7 +1191,7 @@ const livestock_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "250 ml Bottle, 500 ml Bottle, 1 litre Bottle, 5 litre Jar, 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Livauroforte.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Livauro Forte.webp",
     composition: [
       "Each 5 ml contains extracts derived from:",
       "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 225 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -1226,7 +1226,7 @@ const livestock_data = [
     category: "Digestive , Other Specialty",
     packaging: "10 x 4 boli",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Turbogil vet.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Turbogil Vet.webp",
     composition: [
       "Each bolus contains :",
       "Bacillus coagulans 3200 million cfu,",
@@ -1253,7 +1253,7 @@ const livestock_data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU,",
@@ -1282,8 +1282,8 @@ const livestock_data = [
     type: "Liquid",
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimec.webp",
+    Productname: "/Assets/Product name/LivestockAurimec.webp",
     composition: [
       "Each ml contains:",
       "Ivermectin IP 0.8 mg,",
@@ -1311,7 +1311,7 @@ const livestock_data = [
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
     composition: [
       "Each Kg contains:",
       "Phytochemical extracts of-",
@@ -1346,7 +1346,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Aurilyte Plus.webp",
     composition: [
       "Each 100 gm contains:",
       "Sodium chloride 0.8 gm",
@@ -1377,13 +1377,13 @@ const livestock_data = [
     id: 44,
     name: "Premium Liver Tonic",
     description:
-      "AURILIV VET is an advance liver tonic fortified with L-Carnitine and Cynarin extract to support liver health and reduce the risk of liver conditions like fatty liver syndrome. L-Carnitine plays a key role in maintaining liver function due to its effect on lipid metabolism. It transports fatty acids into mitochondria for oxidation and also buffers excess acetyl CoA away from mitochondria. Cynarin extract have hepato-protective effects. It inhibits the biosynthesis of hepato-cholesterol and improves the bile secretion. Choline acts as a lipotrophic substance. Choline and Methionine deficiency increases the risk of Fatty liver as their deficiency causes the synthesis of very-low-density-lipoproteins (VLDL).",
+      "Auriliv vet is an advance liver tonic fortified with L-Carnitine and Cynarin extract to support liver health and reduce the risk of liver conditions like fatty liver syndrome. L-Carnitine plays a key role in maintaining liver function due to its effect on lipid metabolism. It transports fatty acids into mitochondria for oxidation and also buffers excess acetyl CoA away from mitochondria. Cynarin extract have hepato-protective effects. It inhibits the biosynthesis of hepato-cholesterol and improves the bile secretion. Choline acts as a lipotrophic substance. Choline and Methionine deficiency increases the risk of Fatty liver as their deficiency causes the synthesis of very-low-density-lipoproteins (VLDL).",
     segment: "Livestock , Poultry",
     type: "Powder",
     category: "Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriliv vet.webp",
+    Productname: "/Assets/Product name/Livestock/Auriliv vet.webp",
     composition: [
       "Each 100 ml contains.",
       "Sorbitol 20 gm,",
@@ -1413,7 +1413,7 @@ const livestock_data = [
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Nomino.webp",
     composition: [
       "Each Ltr. contains:",
       "Vitamin A 500,000 IU, Vitamin D3 1,00,000 IU, Vitamin E 10,000 mg, Vitamin B1 1,250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg,",
@@ -1442,7 +1442,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auromilk.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auro Milk.webp",
     composition: [
       "Each 1 kg contains :",
       "Yeast 300 Billion CFU, Lactobacillus sporogenes 2 Billion CFU, Aspergillus oryzae 2 Billion CFU, Bypass protein 80 gm, Nutripro NPN 20 gm, Bypass Fat 100 gm, Calcium 150 gm, Phosphorus 75 gm, Magnesium 14 gm, Elemental Zinc 9 gm, Elemental Copper 4.5 gm, Elemental Manganese 4 gm, Elemental Ferrus 2.5 gm, Methionine 100 gm, Niacin 7 gm, Phytase enzyme 60000 IU, , Vitamin A 10 Lakh IU, Vitamin D3 4 Lakh IU, Sulphur 16 gm, Selenium 4 mg, Potassium iodide 200 mg, Cobalt sulphate 200 mg, Chromium propionate 240 mg."
@@ -1465,7 +1465,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auromilk forte.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auro Milk Forte.webp",
     composition: [
       "Each 1 kg contains :",
       "Calcium 240 gm, Phosphorus 120 gm, Magnesium 20 gm, Sulphur 24 gm, Selenium 5 mg, Potassium iodide 300 mg, Cobalt Sulphate 300 mg, Chromium propionate 360 mg, Nutripro NPN 60 gm, Bypass Fat 300 gm, Bypass Protein 240 gm, Vitamin A (Coated) 15 Lakh IU, Vitamin D3 (Coated) 7.5 Lakh IU, Vitamin E (Coated) 5000 IU, Biotin 300 mg, Niacin 10000 mg, Saccharomyces cerevisiae 500 Billion CFU, Lactobacillus sporogenes 2.5 billion CFU, Aspergillus oryzae 2.5 billion CFU, Bacillus subtilis 100 billion CFU, Bacillus licheniformis 100 billion CFU, Propionibacterium freudenrechii 30 billion CFU, Propionibacterium acidipropionici 0.3 billion CFU, Beta-glucan 21000 mg, Mannan oligosaccharide 27000 mg, Grape Polyphenols extract equivalent to Vitamin E acitivity 10,000 IU ,",
@@ -1491,7 +1491,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "75 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
     composition: [
       "Each 75 gm contains:",
       "Trisodium citrate 30 gm, Vitamin A 200000 IU, Vitamin D3 40000 IU, Vitamin E 1000 IU, Biotin 20 mg, Vitamin K 50 mg, Selenium 10 mg, Copper sulphate 1000 mg, Cobalt sulphate 50 mg, Zinc sulphate 3000 mg, Manganese sulphate 3000 mg, Potassium iodide 10 mg, Lactic acid bacillus 1 billion CFU, Live yeast 50 billion CFU, Serratiopeptidase 75 mg, Aspergillus oryzae 1 billion CFU, Methionine 5 gm, Bacillus subtilis 15 billion CFU, Bacillus licheniformis 15 billion CFU"
@@ -1515,7 +1515,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "100 gm, 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Phosbol.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Phosbol.webp",
     composition: [
       "Each gm contains:",
       "Butaphosphan INN 100 mg",
@@ -1544,7 +1544,7 @@ const livestock_data = [
     category: "Digestive , Other Specialty",
     packaging: "12 gm Sachets 10 Sachets in box",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Salacgil DS.webp",
     composition: [
       "Each 12 g Sachet Contains:",
       "Saccharomyces cerevisiae 5 X 1010 CFU",
@@ -1569,13 +1569,13 @@ const livestock_data = [
     id: 51,
     name: "Quick Acting Rumenotoric-Probiotic Bolus",
     description:
-      "Salacgil DS is an all-natural potentiated probiotic bolus with proven sialagogue and rumino-reticular stimulant action required in prolonged cases of anorexia.",
+      "Salacgil is an all-natural potentiated probiotic bolus with proven sialagogue and rumino-reticular stimulant action required in prolonged cases of anorexia.",
     segment: "Livestock",
     type: "Bolus",
     category: "Digestive , Other Specialty",
     packaging: "4 Bolus in Strip 2 Strips in a unit carton",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Salacgil.webp",
+    Productname: "/Assets/Product name/Livestock/Salacgil.webp",
     composition: [
       "Each bolus contains :",
       "Saccharomyces cerevisiae",
@@ -1607,7 +1607,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 gm 1 kg 5 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auromilk plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Auro Milk Plus.webp",
     composition: [
       "Each 1 kg contains :",
       "Yeast 333 Billion CFU, Lactobacillus sporogenes 2 Billion CFU, Aspergillus oryzae 2 Billion CFU, Bypass protein 80 gm, Nutripro NPN 20 gm, Bypass Fat 100 gm, Calcium 160 gm, Phosphorus 80 gm, Magnesium 14 gm, Zinc Neunamin 1600 mg, Manganese Neunamin 1600 mg, Copper Neunamin 550 mg, Iron Neunamin 640mg, Selenium Neunamin 16 mg, Iodine Neunamin 128 mg, Chromium Neunamin 32 mg Methionine 100 gm, Niacin 7 gm, Biotin 200 mg, Phytase enzyme 60000 IU, , Vitamin A 10 Lakh IU, Vitamin D3 5 Lakh IU, Vitamin E 3300 IU, Grape polyphenol ext.equivalent to Vitamin E activity 6600 IU, Sulphur 16 gm, Cobalt sulphate 200 mg."
@@ -1626,13 +1626,13 @@ const livestock_data = [
     id: 53,
     name: "Estrus Inducing-Conception Promoter Nutrition Supplement",
     description:
-      "ESTROMIN is unique blend of MHA chelated minerals, vitamins, bioactive chromium and grape polyphenols to optimize metabolic and reproductive functions. Estromin supplements essential nutrients to activate gonadal system and induce fertile estrus in bovine.",
+      "Estromin is unique blend of MHA chelated minerals, vitamins, bioactive chromium and grape polyphenols to optimize metabolic and reproductive functions. Estromin supplements essential nutrients to activate gonadal system and induce fertile estrus in bovine.",
     segment: "Livestock",
     type: "Bolus",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "30 Bolus in a container",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Estro Min.webp",
     composition: [
       "Each sachet contains:",
       "Copper (MHA) 120 mg, Zinc (MHA) 240 mg, Iron (MHA) 50 mg, Manganese (MHA) 240 mg,",
@@ -1654,13 +1654,13 @@ const livestock_data = [
     id: 54,
     name: "Phytobiotic Intrauterine Infusion",
     description:
-      "THYPIN-IU is a blend of potent phytobiotic essential oils used to prevent and control the postpartum intrauterine infections and diseases caused by bacteria, mycoplasma and protozoa.",
+      "Thypin-IU is a blend of potent phytobiotic essential oils used to prevent and control the postpartum intrauterine infections and diseases caused by bacteria, mycoplasma and protozoa.",
     segment: "Livestock",
     type: "Liquid",
     category: "Antibacterial , Other Specialty",
     packaging: "10ml Aluminium bottle 25 ml multidose Aluminium bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Thypin- IU.webp",
     composition: [
       "Each 2.5 gm contains:",
       "Terpinen-4-ol 110 mg,",
@@ -1686,7 +1686,7 @@ const livestock_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Livauro.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Livauro.webp",
     composition: [
       "Each 10 ml contains:",
       "Extract derived from",
@@ -1716,7 +1716,7 @@ const livestock_data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Aurivit AD3E.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU",
@@ -1743,8 +1743,8 @@ const livestock_data = [
     type: "Liquid",
     category: "Immunomodulator , Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigraph 9.webp",
+    Productname: "/Assets/Product name/Livestock/Aurigraph 9.webp",
     composition: [
       "Each 100 ml contains:",
       "Andrographis paniculata extract with Andrographoloids 900 mg",
@@ -1770,7 +1770,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "100 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre forte.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Maspre forte.webp",
     composition: [
       "Each 100 gm contains:",
       "Trisodium citrate 30000 mg, Vitamin A 200000 IU, Vitamin D3 100000 IU, Vitamin E 750 IU, Vitamin H 20 mg, Vitamin K 50 mg, Copper glycinate 1000 mg, Zinc glycinate 3000 mg, Manganese glycinate 3000 mg, Selenium 10 mg, Cobalt sulphate 50 mg, Potassium iodide 10 mg, Magnesium 1500 mg, Silica 2500 mg, S. cerevisiae 100 billion CFU, A. oryzae 1000 million CFU, B. coagulans 1000 million CFU, B. subtilis 25 billion CFU, B. licheniformis 25 billion CFU, Serratiopeptidase 100 mg, Methionine 5000 mg, Grape Polyphenol extract 150 mg, MOS Complex 20000 mg, Bromelain 1000 mg."
@@ -1794,7 +1794,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "100 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre ultimate.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Maspre ultimate.webp",
     composition: [
       "Each 100 gm contains:",
       "Trisodium citrate 30000 mg, Vitamin A 200000 IU, Vitamin D3 100000 IU, Vitamin E 750 IU, Vitamin H 20 mg, Vitamin K 50 mg, Copper glycinate 1000 mg, Zinc glycinate 3000 mg, Manganese glycinate 3000 mg, Selenium 10 mg, Cobalt sulphate 50 mg, Potassium iodide 10 mg, Magnesium 1500 mg, Silica 2500 mg, S. cerevisiae 100 billion CFU, A. oryzae 1000 million CFU, B. coagulans 1000 million CFU, B. subtilis 25 billion CFU, B. licheniformis 25 billion CFU, Serratiopeptidase 100 mg, Methionine 5000 mg, Grape Polyphenol extract 150 mg, MOS Complex 20000 mg, Bromelain 1000 mg, Microbial Lysozyme 2,50,000 units, Phospholipase 1,000 units."
@@ -1821,7 +1821,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "125 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre gel.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
+    Productname: "/Assets/Product name/Livestock/Maspre gel.webp",
     composition: [
       "Each Pack Contains:",
       "Turmeric",

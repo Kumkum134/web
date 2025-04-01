@@ -9,7 +9,7 @@ const aqua_data = [
     category: "Toxin Binder",
     packaging: "25 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Pond Lite.webp",
     composition: [
       "Each kg contains:",
       "Silicon dioxide……. 75-85%",
@@ -39,7 +39,7 @@ const aqua_data = [
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Plankto Grow.webp",
     composition: [
       "Each ml contains –",
       "Bacillus licheniformis",
@@ -73,7 +73,7 @@ const aqua_data = [
     category: "Performance Enhancer",
     packaging: "1 liter bottle and 5 liter Jar",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow Gel.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Plankto Grow Gel.webp",
     composition: [
       "Each Pack Contains :",
       "Sargassum wightii",
@@ -115,7 +115,7 @@ const aqua_data = [
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite Pro.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Pondlite Pro.webp",
     composition: [
       "Each kg contains:",
       "Silicon dioxide 70-80%",
@@ -150,7 +150,7 @@ const aqua_data = [
     category: "Toxin Binder",
     packaging: "5 Kg and 25 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite pro Ds.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Pondlite Pro DS.webp",
     composition: [
       "Each kg contains",
       "Bacillus subtilis",
@@ -189,7 +189,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aqua.webp",
     composition: [
       "Each kg contains:",
       "Sodium percarbonate 700 gm",
@@ -219,7 +219,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy prime.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auroxy Prime.webp",
     composition: [
       "Each Kg contains:",
       "Sodium Percarbonate...........650 gm",
@@ -254,7 +254,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "100 gm, 1 kg, 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Phosbol Aqua.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Phosbol Aqua.webp",
     composition: [
       "Each gm contains:",
       "Butaphosphan INN……………………………….100 mg",
@@ -291,7 +291,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "500 gm pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
     composition: [
       "Contains :",
       "Potassium monosulphate compound………..49.8% w/w",
@@ -321,7 +321,7 @@ const aqua_data = [
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aqua.webp",
     composition: [
       "Each gm contains:",
       "Bacillus Subtilis",
@@ -353,7 +353,7 @@ const aqua_data = [
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigrow.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auri Grow.webp",
     composition: [
       "Each pack Contains:",
       "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Fermentation extracts & Inulin"
@@ -380,7 +380,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "200 gm 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Ammo-con.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Ammocon.webp",
     composition: [
       "Each kg contains:",
       "Sea lettuce extract 100 gm",
@@ -412,7 +412,7 @@ const aqua_data = [
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurimec.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aurimec.webp",
     composition: [
       "Each ml contains:",
       "Ivermectin IP 0.8 mg, Benzyl Alcohol IP (As Preservative) 0.02 ml",
@@ -441,7 +441,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "25 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifung.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aurifung PH.webp",
     composition: [
       "Each pack contains:",
       "Pond Alkalizers",
@@ -471,7 +471,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 L Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auriben.webp",
     composition: [
       "Alkyl Dimethyl Benzyl Ammonium",
       "Chloride 80%",
@@ -500,7 +500,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auripro Plus.webp",
     composition: [
       "Each kg contains:",
       "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
@@ -529,7 +529,7 @@ const aqua_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Livauroforte Aqua.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Livauro Forte Aqua.webp",
     composition: [
       "Each 5 ml contains extracts derived from:",
       "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 225 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -561,7 +561,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 Ltr Bottle & 5 Ltr Bottle",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Yuschi Liquid.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Yuschi Liquid.webp",
     composition: [
       "Each Ltr Contains:",
       "Yucca schidigera 10% Extract 100 gm"
@@ -586,7 +586,7 @@ const aqua_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "100 gm, 500 gm & 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aurimune Forte ws.webp",
     composition: [
       "Each 1 kg contains:",
       "Mannan oligosaccharides 160 gm",
@@ -622,7 +622,7 @@ const aqua_data = [
     category: "Antimicrobial , Antibacterial",
     packaging: "1 L & 5 L",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auridine 10.webp",
     composition: [
       "Povidone iodine 10% with suitable stabilizer and activators."
     ],
@@ -649,7 +649,7 @@ const aqua_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack, 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auro Min.webp",
     composition: [
       "Each kg contains:",
       "Copper sulphate 5 gm, Magnesium oxide 36 gm, Zinc sulphate 25 gm, Ferrous sulphate 19 gm, Manganese sulphate 14 gm, Calcium 274 gm, Phosphorus 137 gm, Potassium 100 mg, Sulphur 8.1 gm, Sodium 5.9 gm"
@@ -674,7 +674,7 @@ const aqua_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "10 Kg Pack 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auromin Forte.webp",
     composition: [
       "Each Kg Contains:",
       "Copper sulphate 5gm, Manganese sulphate 14gm, Zinc sulphate 25gm, Ferrous sulphate 19 gm, Selenium 15mg, Cobalt sulphate 100mg, Potassium iodide 325mg, Magnesium oxide 36gm, Calcium 274gm, Phosphorus 137gm, Chromium nicotinate 403mg, Potassium 100mg, Sulphur 8gm, Sodium 5.9gm, Vitamin A 1200000IU, Vitamin D3 240000IU, Vitamin E 3000IU, Vitamin C 10gm, DL- Methionine 2gm, L - Lysine 4gm, Grape Polyphenol ext 300 mg, Saccharomyces cerevisiae 200billion CFU, Bacillus coagulans 100billion CFU, Bacillus subtilis 100billion CFU, Bacillus licheniformis 100billion CFU, Bacillus megatarium 100billion CFU"
@@ -699,7 +699,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "80 gm Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Planktoban.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Plankto Ban.webp",
     composition: [
       "Each 80 gm contains:",
       "Bacillus megaterium",
@@ -730,7 +730,7 @@ const aqua_data = [
     category: "Immunomodulator , Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Vitoaqua.webp",
     composition: [
       "Each Litre contains:",
       "Vitamin C 250,000 mg, Vitamin B12 44, 500 mcg, Stabilizer and activators"
@@ -758,7 +758,7 @@ const aqua_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 gm 500 gm & 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigain Aqua.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aurigain Aqua.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts of -",
@@ -784,7 +784,7 @@ const aqua_data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Vitoaqua Forte.webp",
     composition: [
       "Each Litre contains:",
       "Vitamin B1 7000 mg",
@@ -819,7 +819,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 Ltr & 5 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auririch.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auririch.webp",
     composition: [
       "Each ml contains: (pH 4.0)",
       "Bacillus subtilis, Bacillus megaterium, Thiobacillus denitrificans, Rhodobacter spp.",
@@ -850,7 +850,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "10 Ltr & 35 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Ponci.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Ponci.webp",
     composition: [
       "Organic acids"
     ],
@@ -875,7 +875,7 @@ const aqua_data = [
     category: "Nutrition Supplement , Toxin Binder , Enzyme , Other Specialty",
     packaging: "1 Kg & 5 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Pondlite pro power.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Pondlte pro Power.webp",
     composition: [
       "Each kg contains:",
       "Silicon dioxide 70 % -80 %",
@@ -906,7 +906,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "80 gm Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/PlanktoGrow Dry.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Plankto Grow Dry.webp",
     composition: [
       "Each 80 gm bottle contains:",
       "Bacillus licheniformis",
@@ -940,7 +940,7 @@ const aqua_data = [
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Neunaforte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Neuna Forte Aqua.webp",
     composition: [
       "Each pack contains:",
       "Very high concentrations of coated Vitamin A, coated Vitamin D3, coated Vitamin E, Zinc MHA, Copper MHA, Manganese MHA, Iron MHA, Magnesium, Nicotinamide, Cobalt, Iodine, Sulphur, Potassium, Sodium, Selenium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP extract, Phytobio - CalphosTM, Myo - inositol - hexakisphosphate - 3 phosphohydrolase concentrate, Energy Booster Complex"
@@ -967,7 +967,7 @@ const aqua_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aquasyn Plus.webp",
     composition: [
       "Contains:",
       "Specific Ig Y antibodies for Vibriosis",
@@ -995,7 +995,7 @@ const aqua_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aqua Syn.webp",
     composition: [
       "Each kg contains:",
       "Lactobacillus plantarum, Bacillus amyloliquefaciens, Sargassum spp.Extract, Beta Glucan Mannan Oligosaccharide, Vitamin E, Grape Polyphenol, Ascorbic Acid",
@@ -1022,7 +1022,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "80 gm, 500 gm",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auripro Aqua.webp",
     composition: [
       "Each gm contains: -",
       "Bacillus subtilis",
@@ -1054,7 +1054,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "80 gm 400 gm",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Decompo.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Decompo.webp",
     composition: [
       "Each 80 gm contains:",
       "Bacillus subtilis",
@@ -1088,7 +1088,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "100 gm, 250 gm, 500 gm and 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Gutforte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Aqua.webp",
     composition: [
       "Each kg contains:",
       "Beta Glucan 30,000 mg, Mannan oligosaccharides 40,000 mg, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
@@ -1125,7 +1125,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "200 gm bottle 1 kg HDPE Jar",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Yuschi pro plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Yuschi Pro Plus.webp",
     composition: [
       "Each Kg Contains:",
       "Yucca schidigera 30 % extract 100 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus polymyxa, Bacillus megaterium, Bacillus coagulans, SiO2 25 %, Al2O3 4 %, CaO 1 %, Na2O 0.025 %, MgO 0.5 %, Fe2O3 0.5 %, K2O 0.5 %",
@@ -1145,6 +1145,6 @@ const aqua_data = [
     brochure: " ",
     feedback: " "
   }
-]; 
+];
 
 export default aqua_data;
