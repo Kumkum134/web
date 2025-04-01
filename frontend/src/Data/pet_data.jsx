@@ -9,7 +9,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "6 tablets",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each tablet contains:",
       "Fenbendazole 113.4 mg",
@@ -36,7 +36,7 @@ const pet_data = [
     category: "Liver Stimulant",
     packaging: "500 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/LivauroForte Pet.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 5 ml Contains:",
       "Andrographis paniculata 800 mg",
@@ -68,7 +68,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each pack Contains:",
       "Citronella oil",
@@ -99,7 +99,7 @@ const pet_data = [
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/Auri Mune Pet.webp",
     composition: [
       "Each 100 ml contains:",
       "β- Glucan 540 mg",
@@ -133,7 +133,7 @@ const pet_data = [
     category: "Enzyme",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 5 ml contains:",
       "Fungal Diastase 1: 2000 I.P. 20 mg",
@@ -165,7 +165,7 @@ const pet_data = [
     category: "Immunomodulator, Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Capsule:",
       "Each 500 mg capsule contains",
@@ -190,7 +190,7 @@ const pet_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 100 ml contains:",
       "Calcium 2500 mg",
@@ -227,7 +227,7 @@ const pet_data = [
     category: "Nutrition Supplement ,Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 50 ml contains:",
       "Chelated Ferrous glycinate 3000 mg (eq. of 450 mg of Iron)",
@@ -260,7 +260,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each litre essential oil contains:",
       "Vitamin A Palmitate 6,00,000 IU",
@@ -292,7 +292,7 @@ const pet_data = [
     category: "Immunomodulator",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 500 mg capsule contains:",
       "Curcumin extract 100 mg",
@@ -316,13 +316,13 @@ const pet_data = [
     id: 11,
     name: "Vaccinium macrocarpon Extract",
     description:
-      "AURIBERY PET is a powerful blend of Vaccinium macrocarpon extract enriched with bio-enhancer and metabolic potentiator technology. Bioenhancer and Metabolic potentiator technology enhances the permeability of proanthocyanidins intestinal microvilli and improves the absorption of Withanolides and also prevents it’s metabolic reduction through inhibition of P-gp, efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
+      "AuriBery Pet is a powerful blend of Vaccinium macrocarpon extract enriched with bio-enhancer and metabolic potentiator technology. Bioenhancer and Metabolic potentiator technology enhances the permeability of proanthocyanidins intestinal microvilli and improves the absorption of Withanolides and also prevents it’s metabolic reduction through inhibition of P-gp, efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
     segment: "Pet",
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Capsule",
       "Each 500 mg capsule contains:",
@@ -348,7 +348,7 @@ const pet_data = [
     category: "Digestive, Other Specialty",
     packaging: "10 X 2g sachet",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Serving size 1 Packet (2g)",
       "Calories 6",
@@ -383,7 +383,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Capsule",
       "Each 500 mg capsule contains:",
@@ -408,7 +408,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Capsule",
       "Each 500 mg capsule contains:",
@@ -440,7 +440,7 @@ const pet_data = [
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each ml contains:",
       "Curcumin 50 mg",
@@ -468,7 +468,7 @@ const pet_data = [
     category: "Performance Enhancer, Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Enteric coated tablet/capsule:",
       "Each 500 mg capsule contains",
@@ -494,7 +494,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "1 Capsule:",
       "Each 500 mg capsule contains",
@@ -525,7 +525,7 @@ const pet_data = [
     category: "Digestive, Other Specialty",
     packaging: "10 X 2g sachet",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Serving size 1 Packet (2g)",
       "Calories 6",
@@ -556,7 +556,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 100 ml contains :",
       "Ocimum sanctum oil 8 gm",
@@ -589,7 +589,7 @@ const pet_data = [
     category: "Nutrition Supplement, Performance Enhancer, Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 15 ml Contains:",
       "L - Lysine sysn 60.00 mg",
@@ -645,7 +645,7 @@ const pet_data = [
     category: "Immunomodulator, Performance Enhancer, Nutrition Supplement, Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Nomino pet.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 100 ml contains:|",
       "Vitamin A 500000 IU|",
@@ -698,7 +698,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 gm, 500 gm",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Pet/A.webp",
     composition: [
       "Each 100 gm essential oils contains:",
       "Eugenol…………………………2250 mg",

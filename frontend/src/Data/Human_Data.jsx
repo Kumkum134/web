@@ -9,7 +9,7 @@ const human_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auricur.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricur.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricur.webp",
     composition: [
       "Each Capsule contains:",
       "Curcumin Nanophosphosome® (Auricur®)",
@@ -40,7 +40,7 @@ const human_data = [
     category: "Immunomodulator, Other Specialty",
     packaging: "30 sachets in a unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/Golden milk.webp",
-    Productname: "/Assets/Product name/Health suppliments/Golden Milk.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurinko Golden Milk Latte.webp",
     composition: [
       "Each 4 gm sachet contains:",
       "Curcumin 95 mg, Gingerols 10 mg,",
@@ -67,7 +67,7 @@ const human_data = [
     category: "Immunomodulator, Other Specialty",
     packaging: "30 sachets in a unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/Golden milk.webp",
-    Productname: "/Assets/Product name/Health suppliments/Golden Milk.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurinko Golden Milk Latte Plus.webp",
     composition: [
       "Each 2 gm sachet contains:",
       "Curcumin 47.5 mg,",
@@ -106,7 +106,7 @@ const human_data = [
     category: "Immunomodulator,Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Curino.webp",
-    Productname: "/Assets/Product name/Health suppliments/Curino.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Curino.webp",
     composition: [
       "1 Capsule",
       "Curcumin extract 100 mg",
@@ -130,8 +130,8 @@ const human_data = [
     type: "Capsule",
     category: "Immunomodulator,Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/Curino.webp",
-    Productname: "/Assets/Product name/Health suppliments/Curino.jpeg",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Auringa.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auringa.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : ",
@@ -164,7 +164,7 @@ const human_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auricur Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricur Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricur Plus.webp",
     composition: [
       "1 capsule",
       "Curcumin Nanophosphosome®",
@@ -200,7 +200,7 @@ const human_data = [
     category: "Immunomodulator ,Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Curino Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Curino Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Curino Plus.webp",
     composition: [
       "1 Capsule",
       "Curcumin extract 100 mg",
@@ -227,7 +227,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurijoint.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurijoint.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurijoint.webp",
     composition: [
       "1 Capsule",
       "Curcumin Nanophosphosome® and Boswellia serrata(Aurijoint®)",
@@ -258,7 +258,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurimind.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container: 30, 60 and 90 servings",
@@ -291,7 +291,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurimind Plus.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container: 30, 60 and 90 servings",
@@ -328,7 +328,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auribery.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container: 30, 60 and 90 servings",
@@ -361,7 +361,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auribery Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.webp",
     composition: [
       "Each 500 mg Capsule contains:",
       "Lactobacillus acidophilis 0.25 billion",
@@ -389,7 +389,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auriprost.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auriprost.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container:30, 60 and 90 servings",
@@ -427,7 +427,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurivision.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurivision.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -467,7 +467,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auritrol.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auritrol.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auritrol.webp",
     composition: [
       "1 Capsule",
       "Grape Skin Nanophosphosome® (Auritrol®)",
@@ -495,7 +495,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurimaca.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -528,7 +528,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auripower.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -561,7 +561,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurigus.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container :30, 60 and 90 servings",
@@ -594,7 +594,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings ",
@@ -627,7 +627,7 @@ const human_data = [
     category: "Immunomodulator, Other Specialty",
     packaging: "50 Capsules and 100 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurifolia.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurifolia.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurifolia.webp",
     composition: [
       "1 Capsule",
       "Tinospora cordifolia extract 250 mg",
@@ -652,7 +652,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -684,7 +684,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurigreen.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -717,7 +717,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurimethi.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 3 Capsules",
       "Servings Per Container : 30 servings",
@@ -750,7 +750,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Sugarcalm M.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -785,7 +785,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Sugarcalm - plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       " Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -824,7 +824,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -858,7 +858,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving size 1 Packet (2g)",
       "Servings Per Container 10",
@@ -891,7 +891,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving size 1 Packet (2g)   Servings Per Container 10",
       "Calories.........6",
@@ -926,7 +926,7 @@ const human_data = [
     category: "Digestive, Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac plus.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac plus.webp",
     composition: [
       "Serving size 1 Packet(2g) Servings Per Container 10",
       "Calories 6",
@@ -957,7 +957,7 @@ const human_data = [
     category: "Digestive, Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac forte.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac forte.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac forte.webp",
     composition: [
       "Each 500 mg Capsule contains:",
       "Lactobacillus crispatus 4 billion",
@@ -984,7 +984,7 @@ const human_data = [
     category: "Liver Stimulant, Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auriliv.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auriliv.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auriliv.webp",
     composition: [
       "1 Capsule",
       "Silybum marianum and",
@@ -1018,7 +1018,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/A.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -1045,7 +1045,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurisom.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurisom.webp",
     composition: [
       "1 Enteric Coated Tablet/Capsule",
       "Withania Somnifera Nanophosphosome® *(Aurisom®)",
@@ -1073,7 +1073,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurigandha.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurigandha.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Aurigandha.webp",
     composition: [
       "1 Capsule",
       "Withania somnifera extract 150 mg",
@@ -1099,7 +1099,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Auricam.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each Capsule contains:",
       "Green tea Nanophosphosome ® (Auricam®)",
@@ -1126,7 +1126,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Quadrical.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container: 30, 60 and 90 servings",
@@ -1162,7 +1162,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Moringa oleifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Moringa oleifera ext. 300 mg (60 mg Saponins)"
@@ -1193,7 +1193,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Withania somnifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       " Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera ext. 125 mg (12.5 mg Withanolides), Convolvulus prostrates ext. 100 mg (4 mg Alkaloids), Bacopa monnieri ext. 100 mg (50 mg Bacosides)",
@@ -1224,7 +1224,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Cuecumin.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Curcumin 95 mg",
@@ -1256,7 +1256,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Shilajit.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Shilajit ext. 300 mg (Fulvic acid 210 mg)"
@@ -1284,7 +1284,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Carum carvi.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera 125 mg (12.5 mg withanolides)",
@@ -1316,7 +1316,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Terminalia arjuna.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Terminalia arjuna ext. 500 mg (125 mg Tannins), Cinnamomum zeylanicum ext. 500 mg (150 mg Cinnamaldehyde) "
@@ -1344,7 +1344,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Clove and tulsi.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.jpeg",
+    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Syzygium aromaticum ext. 150 mg, Ocimum sanctum ext. 250 mg"
