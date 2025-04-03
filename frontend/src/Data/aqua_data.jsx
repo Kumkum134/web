@@ -408,7 +408,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 Ltr Bottle & 5 Ltr Bottle",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Yuschi pro plus liquid.webp",
-    Productname: "/Assets/Product name/Aqua/Yuschi Pro Plus liquid.webp",
+    Productname: "/Assets/Product name/Aqua/Yuschi Pro Plus Liquid.webp",
     composition: [
       "Each Kg Contains:",
       "Yucca schidigera 30% extract 100 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus polymyxa, Bacillus megaterium, Bacillus coagulans, (Total Probiotic Count NLT 8000 Billion CFU)"
@@ -613,31 +613,6 @@ const aqua_data = [
   },
   {
     id: 20,
-    name: "Essential Aqua Minerals",
-    description:
-      "Auromin ",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Nutrition Supplement , Other Specialty",
-    packaging: "10 Kg Pack 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin.webp",
-    Productname: "/Assets/Product name/Aqua/Auromin.webp",
-    composition: [
-      " Each kg contains:",
-      "Copper sulphate 5 gm, Magnesium oxide 36 gm, Zinc sulphate 25 gm, Ferrous sulphate 19 gm, Manganese sulphate 14 gm, Calcium  274 gm, Phosphorus 137 gm, Potassium 100 mg, Sulphur 8.1 gm, Sodium 5.9 gm"
-    ],
-    indications:
-      [
-        "Macro and micro essential minerals for higher crop yield and better disease resistance in aquaculture."
-      ],
-    usage:
-      [" 10 kg/ton of feed or as recommended by an aquaculture consultant/Expert"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 21,
     name: "Premium Aqua Nutrition",
     description:
       "Auromin Forte is complete blend of essential macro and micro minerals Fortified with Vitamins, Amino acids and probiotics, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
@@ -662,7 +637,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 22,
+    id: 21,
     name: "Vitamin C Liquid",
     description:
       "Vitoaqua is Vitamin C liquid formulation, a dietry vitamin formulation required for fish and shrimps. They perform specific and systemic functions in a variety of fish and shrimps. Vitoaqua also enhances the immunity and growth of fish and shrimps, reduces the impact of environmental, seasonal & ecological stress conditions in aquaculture.",
@@ -690,7 +665,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 23,
+    id: 22,
     name: "B-Complex and Vitamin C Liquid",
     description:
       "Vitoaqua forte is a combination of Vitamin C and 8 Vitamins of B-Complex group, a dietry vitamin formulation required for fish and shrimps.They perform specific and systemic functions in a variety of fish and shrimps. Vitoaqua forte enhances the immunity and growth of fish and shrimps, reduces the impact of environmental, seasonal & ecological stress conditions in aquaculture.",
@@ -725,7 +700,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 24,
+    id: 23,
     name: "Super Nutrition for Aqua",
     description:
       "Neuna forte aqua is a premium super rich nutrition enriched with MHA Chelates, coated vitamins, potentiated probiotics, GPP, energy booster complex and unique phytobio-calphosTM. A powerful nutrition supplement enriched with 23 essential nutrition for growth, reproduction, better health and disease resistance in aquaculture.",
@@ -752,7 +727,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 25,
+    id: 24,
     name: "Micro-encapsulated Probiotic Formulation.",
     description:
       "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
@@ -761,7 +736,7 @@ const aqua_data = [
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Oprobicap-4S.webp",
     composition: [
       "Each gm contains:",
       "Bacillus Subtilis",
@@ -784,7 +759,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 26,
+    id: 25,
     name: "Aqua Probiotics",
     description:
       "Auripro Aqua is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
@@ -816,7 +791,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 27,
+    id: 26,
     name: "Bio-Remediation of Organic Compost",
     description:
       "A unique probiotics formulation for faster de  of organic waste and reduction of sludge through Bio-remediation process using nitrification, denitrification, oxidation, catabolism, production of proteolytic, amylolytic enzymes and inhibition of pathogenic microorganism.",
@@ -850,7 +825,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 28,
+    id: 27,
     name: "Complete Gut Health Formula",
     description:
       "Auripro Plus is a powerful combination of effective probiotic strains, enzymes and vitamins providing a wide range of gut support, improving FCR, digestibility and absorption.",
@@ -879,7 +854,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 29,
+    id: 28,
     name: "Complete Gut Care with Synbiotics",
     description:
       "Auripro gut aqua",
@@ -888,7 +863,7 @@ const aqua_data = [
     category: "Other Specialty",
     packaging: "1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
-    Productname: "/Assets/Product name/Aqua/A.webp",
+    Productname: "/Assets/Product name/Aqua/Auripro Gut Aqua.webp",
     composition: [
       "Each kg contains:",
       "Beta Glucan & Mos complex 900 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
@@ -912,7 +887,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 29,
     name: "Nano Technology Based and Specific Ig Y Enriched Immunomodulator for Vibriosis",
     description:
       "A nano technology based and specific lgY enriched formulation, fortified with Silver nano particles and potent immuno-stimulants. Enhances cell-mediated and antibody-mediated immunity to improve disease resistance and survivability against fatal shrimp diseases like Vibriosis etc. Highly effective against White Feces Syndrome, White Gut Disease, White Muscle Disease, stunted growth and Loose Shell Syndrome.",
@@ -940,7 +915,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 30,
     name: "Potent Aqua Immunomodulator",
     description:
       "Aquasyn is unique immunomodulator enriched with potentiated probiotics and algal extract. Highly effective for mortality prevention programme during WSSV, Vibriosis and other infections outbreak in shrimp and fish.",
@@ -967,7 +942,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 32,
+    id: 31,
     name: "Potent Organic Immunomodulator",
     description:
       "Aurimune forte WS is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
@@ -1003,7 +978,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 33,
+    id: 32,
     name: "Povidone Iodine 10%",
     description:
       "Auridine-10 is a chemical disinfectant which is widely used in aquaculture. It can decrease the occurrence of pathogenic diseases and improve the survival of aquatic animals. Auridine-10 is a buffer of 1% iodine solution which is specifically used for disinfecting fish eggs. It contains 10% povidone iodine complex which provides 1% iodine. It has been  ed as a broad-spectrum microbicide with potency to inactivate bacteria, fungi, protozoans, several viruses and some spores. Auridine-10 is not only used as a fish egg disinfectant but also to reduce the transmission of diseases between upcoming generations of fishes. Auridine-10 fish egg disinfectant is an important part of aquaculture.",
@@ -1024,13 +999,13 @@ const aqua_data = [
         "For bacterial and fungal skin infections. Helps to prevent infections in cuts, wounds, scratches, abrasion and burns."
       ],
     usage:
-      ["Aqua: Dilute 500-1000 ml of AURIDINE 10 in 100 litres of water and spray uniformly throughout the culture pond of 1 acre or meter water depth. Swine: For Topical Application."],
+      ["Aqua: Dilute 500-1000 ml of Auridine 10 in 100 litres of water and spray uniformly throughout the culture pond of 1 acre or meter water depth. Swine: For Topical Application."],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 34,
+    id: 33,
     name: "Benzalkonium Chloride-80%",
     description:
       "Auriben is a quaternary ammonium compound with exceptional microbicidal properties for use as a potent biocide & deodorant in aquaculture. It is a cationic surfactant used to remove ectoparasites from ﬁsh, prawn and shrimp. It has detergent & antibacterial activities and is eﬀective to prevent & control bacterial, protozoan and monogenean infections.",
@@ -1053,13 +1028,13 @@ const aqua_data = [
         "Decomposes leaving behind no residues and causes no pollution problem."
       ],
     usage:
-      ["Prawn/Shrimp/Fish Ponds: 45-75 Days: 1 Ltr/1300 m2 ; 75-100 Days: 1.5 Ltr/1300 m2 100 days to harvest: 2.0 Ltrs/1300 m2 AURIBEN is indicated for use during high pathogenic bacteria loads and to control and prevent secondary infections as a consequence of viral infection. Red Disease in Shrimp hatcheries: A day’s bath in 1 – 2 ppm solution. Apply AURIBEN once every 7-10 days or 2-3 days according to water quality or as advised by aquaculture consultant."],
+      ["Prawn/Shrimp/Fish Ponds: 45-75 Days: 1 Ltr/1300 m2 ; 75-100 Days: 1.5 Ltr/1300 m2 100 days to harvest: 2.0 Ltrs/1300 m2 Auriben is indicated for use during high pathogenic bacteria loads and to control and prevent secondary infections as a consequence of viral infection. Red Disease in Shrimp hatcheries: A day’s bath in 1 – 2 ppm solution. Apply Auriben once every 7-10 days or 2-3 days according to water quality or as advised by aquaculture consultant."],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 35,
+    id: 34,
     name: "Broad Spectrum, Powerful yet Safe Biocide",
     description:
       "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
@@ -1089,7 +1064,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 36,
+    id: 35,
     name: "Ivermectin Oral Solution Bp (vet) 0.08% W/v",
     description:
       "Aurimec is Ivermectin de-wormer solution for the management of gastro-intestinal nematodes and worms.",
@@ -1118,7 +1093,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 37,
+    id: 36,
     name: "Pond Acidifier",
     description:
       "Ponci, the pond acidifier, is a unique combination of organic acids for neutralizing the harmful high pH in ponds and thus supporting the aqua production.",
@@ -1143,7 +1118,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 38,
+    id: 37,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte is a purely herbal and advanced liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -1175,7 +1150,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 39,
+    id: 38,
     name: "Management of Acidified Ponds",
     description:
       "Aurifung pH is a unique pond alkalizer enriched with potent pond alkalizers and organic anti-bacterial and anti-fungals for management of acidified ponds.",
@@ -1205,7 +1180,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 40,
+    id: 39,
     name: "Unique Antioxidant-Yield Booster Formulation with Carotenoid Pigment",
     description:
       "Phyta canth",
@@ -1213,8 +1188,8 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg & 5 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
+    Productname: "/Assets/Product name/Aqua/Phyta Canth.webp",
     composition: [
       "Each kg contains:",
       "Phytase 150000 IU, Vitamin E 15000 IU, Vitamin C 15000 IU, Grape polyphenol eq. to 15000 IU Vitamin E activity, Canthaxanthin 10%, Tartrazine yellow"
@@ -1233,7 +1208,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 41,
+    id: 40,
     name: "Fish Gel Binder",
     description:
       "AuriFgel",
@@ -1241,8 +1216,8 @@ const aqua_data = [
     type: "Gel",
     category: "Other Specialty",
     packaging: "1 Ltr & 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
+    Productname: "/Assets/Product name/Aqua/Aurifgel.webp",
     composition: [
       "Each Ltr contains:",
       "Essential enzymes, Highly concentrated herbal substances along with Arginine 5200 mg, Phenylalanine 3400 mg, Tryptophan 2900 mg, Glycine 3500 mg, Inositol 2800 mg, L-Lysine 500 mg, DL-Methionine 500 mg, Vitamin B1 4000 mg, Vitamin B2 3750 mg, Vitamin B5 2000 mg, Vitamin B12 15000 mcg, Vitamin A 50000 IU, Vitamin D3 10000 IU, Vitamin C 1000 mg, Seaweed extract 10 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Bacillus amyloliquefaciens (Total probiotic count 100 Billion) with Binding agents, pH stabilizersand attractants Q.S. to 1 Litre"
@@ -1260,7 +1235,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 42,
+    id: 41,
     name: "Complete Gut Care with Synbiotics",
     description:
       "Gut Forte is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
@@ -1297,7 +1272,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 43,
+    id: 42,
     name: "Oxygen Management Solution",
     description:
       "Auroxy is a potentiated blend of immediate as well as sustained oxygen release compounds. aqua probiotics, copper and ferrous glycinates for complete oxygen management aqua health improvement and prevention of harmful pathogen in the aqua pond.",
@@ -1305,7 +1280,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
     Productname: "/Assets/Product name/Aqua/Aqua.webp",
     composition: [
       "Each kg contains:",

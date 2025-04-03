@@ -520,37 +520,6 @@ const pet_data = [
     feedback: " "
   },
   {
-    id: 15,
-    name: "Curcumin Nanophosphosome with Boswellia serrata Extract",
-    description:
-      "Aurijoint Pet is a Nanophosphosome form of Curcumin with Boswellia serrata extract enriched with bio - enhancer and metabolic potentiator technology.Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves the absorption of the actives and also prevents their metabolic reduction through inhibition of P - gp, efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
-    segment: "Pet",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/Aurijoint Pet.webp",
-    composition: [
-      "1 Capsule:",
-      "Each 500 mg capsule contains",
-      "Curcumin Nanophosphosome© and Boswellia",
-      "serrata * (Aurijoint)(Curcumin Phosphatidyl -",
-      "choline - Ethanolamine - Inositol - Serine complex) 250 mg",
-      "Boswellia serrata extract 50 mg",
-      "Curcuminoids 95 mg",
-      "Boswellic acid 37.5 mg",
-      "* Fortified with Turmerone and Piperine",
-      "Other ingredients: Calcium carbonate, Permitted class II preservative."
-    ],
-    indications:
-      ["Reports suggest that Curcumin and Boswellic acid supplementation support joint health and facilitates recovery during pain, inflammation and Rheumatoid arthritis"],
-    usage:
-      ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
     id: 16,
     name: "Complementary Food Supplement",
     description:
@@ -560,7 +529,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 ml, 200 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/A.webp",
-    Productname: "/Assets/Product name/Pet/Aurijoint Pet.webp",
+    Productname: "/Assets/Product name/Pet/Supoj.webp",
     composition: [
       "Each 100 ml contains:",
       "Chi n Hydrolysate........12 g",
@@ -629,7 +598,7 @@ const pet_data = [
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Aurocal Pet.webp",
     composition: [
       "Each 100 ml contains:",
       "Calcium 2500 mg",
@@ -666,7 +635,7 @@ const pet_data = [
     category: "Nutrition Supplement ,Other Specialty",
     packaging: "100 ml, 250 ml",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Erauri Plus Pet.webp",
     composition: [
       "Each 50 ml contains:",
       "Chelated Ferrous glycinate ..............2250 mg (eq. to 450 mg of Iron)",
@@ -775,7 +744,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Aurojuna Pet.webp",
     composition: [
       "1 Capsule",
       "Each 500 mg capsule contains:",
@@ -800,7 +769,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/a.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Sugarcalm-m Pet.webp",
     composition: [
       "Each 500 mg capsule contains:",
       "Probio c blend 5 billion CFU",
@@ -834,7 +803,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
     Productimg: "/Assets/Product images/Veterinary/Pet/a.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Sugarcalm - Plus Pet.webp",
     composition: [
       " Each 500 mg Capsule contains:",
       "Lactobacillus acidophilus………7.5 billion",
@@ -856,6 +825,41 @@ const pet_data = [
         "Small Breeds:  ½ Capsule daily",
         "Medium Breeds: 1 capsule daily",
         "Large Breeds: 1 capsule once or twice daily Supplementation is recommended for 12-18 weeks  or as directed by qualified Veterinary Practitioner."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 25,
+    name: "Brain Health & Cognition Support",
+    description:
+      "Aurimind Plus Pet is a unique advanced formula on blend of Withania somnifera, Convolvulus prostrates & Bacopa monnieri that helps to boost brain health, reduce anxiety and mental fa gue, improves concentra on and cogni ve func on.",
+    segment: "Pet",
+    type: "Tablet",
+    category: "Other Specialty",
+    packaging: "6 tablets",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
+    Productname: "/Assets/Product name/Pet/Aurimind Plus Pet.webp",
+    composition: [
+      "Each 500 mg capsule contains:",
+      "Withania somnifera & Convolvulus prostrates ….400 mg",
+      "Bacopa monnieri ……………………………………….…….100 mg",
+      "For fied with Piperine and Carum carvi"
+    ],
+    indications:
+      [
+        "Helps to boost brain Health",
+        "Helps to reduces anxiety and mental fatigue",
+        "Improves concentra on and cognitive function"
+      ],
+    usage:
+      [
+        "Small Breeds:  ½ Capsule daily ",
+        "Medium Breeds: 1 capsule daily",
+        "Large Breeds: 1 capsule once or twice daily",
+        "Daily supplementa on is recommended or as ",
+        "directed by qualified Veterinary Prac oner."
       ],
     report: " ",
     brochure: " ",
@@ -884,6 +888,64 @@ const pet_data = [
         "Ectoparasite infestation"],
     usage:
       ["Mecfen plus small pets tablets for Puppies and Small Dog (2-25 lbs.); 2 to 4 kg bwt:- 0.5 Tablet; 5 to 7 kg bwt:- 1.0 Tablet; 8 to 12 kg bwt:- 1.5 Tablets; 13 to 18 kg bwt:- 2.0 Tablets; 19 to 25 kg bwt:- 2.5 Tablets. *NOT FOR USE IN PUPPIES LESS THAN 3 WEEKS OF AGE OR DOGS WEIGHING LESS THAN 2 LBS."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 27,
+    name: "Complementary Food Supplement",
+    description:
+      "Aurigus Pet is a unique advanced formula on blend of Asparagus racemosus root extract that helps in breast milk produc on, maintain hormonal balance, augments energy levels and better health in Canines.",
+    segment: "Pet",
+    type: "Tablet",
+    category: "Other Specialty",
+    packaging: "250 mg and 500 mg pack with 60 & 90 capsules",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigus Pet.webp",
+    Productname: "/Assets/Product name/Pet/Aurigus Pet.webp",
+    composition: [
+      "Each 500 mg Capsule contains:",
+      "Asparagus racemosus root extract...........400 mg",
+      "Saponins.....................................................80 mg",
+      "For fied with Piperine "
+    ],
+    indications:
+      [
+        "Helps in breast milk production",
+        "Helps to maintain hormonal balance",
+        "Augments Energy levels and be er health"
+      ],
+    usage:
+      ["Small Breeds/Large Cats: ½ Capsule daily Medium Breeds: 1 capsule daily Large Breeds: 1 capsule once or twice daily Daily supplementa on is recommended or as directed by qualified Veterinary Prac oner "],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 28,
+    name: "Complementary Food Supplement",
+    description:
+      "Aurimaca Pet is a unique advanced formula on blend of Lepidium meyenii root extract that helps to improve reproduc ve health, enhances vitality & performance in Canines.",
+    segment: "Pet",
+    type: "Tablet",
+    category: "Other Specialty",
+    packaging: "250 mg and 500 mg pack with 60 & 90 capsules",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigus Pet.webp",
+    Productname: "/Assets/Product name/Pet/Aurigus Pet.webp",
+    composition: [
+      "Each 500 mg Capsule contains:",
+      "Lepidium meyenii root extract……………………….450 mg",
+      "Sterols …………….………………….67 mg",
+      "Fortified with Piperine "
+    ],
+    indications:
+      [
+        "mprove reproductive health",
+        "Supports vitality & performance"
+      ],
+    usage:
+      ["Medium Breeds: 1 capsule daily",
+        "Large Breeds: 1 capsule once or twice daily Daily supplementation is recommended or as directed by qualified Veterinary Practitioner "],
     report: " ",
     brochure: " ",
     feedback: " "
