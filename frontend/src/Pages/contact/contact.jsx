@@ -170,7 +170,7 @@ const ContactUs = () => {
                 Branch Office (Zimbabwe)
               </h2>
               <p className="mb-2">
-                <i className="fas fa-map-marker-alt text-green-700"></i> Unit 10, 248 Williams Way, Msasa, Harare, Zimbabwe-1277
+                <i className="fas fa-map-marker-alt text-green-700"></i> Unit 10, 248 Williams Way, MASA , Harare, Zimbabwe
               </p>
               <p className="mb-2">
                 <i className="fas fa-envelope text-green-700"></i>  Drabhay@aurinkohealthcare.com
@@ -182,10 +182,10 @@ const ContactUs = () => {
             <div className="mb-8">
               <h2 className="text-2xl font-bold mb-4 flex items-center">
                 <span className="bg-orange-500 h-6 w-1 mr-2"></span>
-                Branch Office (Buchun)
+                Branch Office (Korea)
               </h2>
               <p className="mb-2">
-                <i className="fas fa-map-marker-alt text-green-700"></i> 1622 Suite, u1 center, 385 bungil 25, Tomaruro, Buchun City, Gyunggido
+                <i className="fas fa-map-marker-alt text-green-700"></i> 1622 Suite, U1 center, 385 bungil 25, jomaruro, Buchuncity, Gyunggido, Korea
               </p>
               <p className="mb-2">
                 <i className="fas fa-envelope text-green-700"></i> info@aurinkohealthcare.com

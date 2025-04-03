@@ -61,7 +61,7 @@ const Footer = () => {
               <p>
                 <i className="fas fa-map-marker-alt mr-2"></i>
                 <Link to="" target="_blank" className="hover:text-orange-400 transition">
-                  Unit 10, 248 Williams Way, Msasa, Harare, Zimbabwe-1277
+                  Unit 10, 248 Williams Way, MASA, Harare, Zimbabwe
                 </Link>
               </p>
               <p><i className="fa fa-phone mr-2"></i> +26263772235379</p>
@@ -69,11 +69,11 @@ const Footer = () => {
             </div>
 
             <div>
-              <h5 className="font-semibold mb-2">Branch Office (Buchun)</h5>
+              <h5 className="font-semibold mb-2">Branch Office (Korea)</h5>
               <p>
                 <i className="fas fa-map-marker-alt mr-2"></i>
                 <Link to="" target="_blank" className="hover:text-orange-400 transition">
-                  1622 Suite, u1 center, 385 bungil 25, Tomaruro, Buchun City, Gyunggido
+                  1622 Suite, U1 center, 385 bungil 25, jomaruro, Buchuncity, Gyunggido, Korea
                 </Link>
               </p>
               <p><i className="fa fa-phone mr-2"></i> 02-839-8200</p>

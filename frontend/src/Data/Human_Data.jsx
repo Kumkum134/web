@@ -594,7 +594,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auricord.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings ",
@@ -652,7 +652,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurojuna.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -684,7 +684,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurigreen.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/AuriGreen.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -717,7 +717,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurimethi.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurimethi.webp",
     composition: [
       "Serving Size : 3 Capsules",
       "Servings Per Container : 30 servings",
@@ -750,7 +750,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Sugarcalm M.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Sugarcaim m.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -785,7 +785,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Sugarcalm - plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Sugarcaim Plus.webp",
     composition: [
       " Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -824,7 +824,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurigut.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -858,7 +858,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac.webp",
     composition: [
       "Serving size 1 Packet (2g)",
       "Servings Per Container 10",
@@ -891,7 +891,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac Power.webp",
     composition: [
       "Serving size 1 Packet (2g)   Servings Per Container 10",
       "Calories.........6",
@@ -1018,7 +1018,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/A.webp",
-    Productname: "/Assets/Product name/Health suppliments/A.webp",
+    Productname: "/Assets/Product name/Health suppliments/Reintoni.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container : 30, 60 and 90 servings",
@@ -1126,7 +1126,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "30, 60 and 90 Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Quadrical.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/Quadrical.webp",
     composition: [
       "Serving Size : 1 Capsule",
       "Servings Per Container: 30, 60 and 90 servings",
