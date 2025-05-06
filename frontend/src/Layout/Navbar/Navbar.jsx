@@ -131,7 +131,7 @@ const Navbar = () => {
             <div className="absolute left-0 bg-white shadow-lg rounded mt-2 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
               <Link to="/reports" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/reports")}>Reports</Link>
               <Link to="/gallery" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/gallery")}>Gallery</Link>
-              <Link to="/rating" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/rating")}>Review & Feedback</Link>
+              {/* <Link to="/rating" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/rating")}>Review & Feedback</Link> */}
               <Link to="/productbrochures" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/productbrochures")}>Brochures</Link>
               <Link to="/blog" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/blog")}>Blogs</Link>
               <Link to="/articles" className="block px-4 py-2 hover:bg-gray-100" onClick={(e) => reloadPage(e, "/articles")}>Articles</Link>
@@ -288,9 +288,7 @@ const Navbar = () => {
               <Link to="/gallery" className="block py-2 px-4 hover:bg-gray-100 rounded" onClick={(e) => {closeMobileMenu(); reloadPage(e, "/gallery");}}>
                 Gallery
               </Link>
-              <Link to="/rating" className="block py-2 px-4 hover:bg-gray-100 rounded" onClick={(e) => {closeMobileMenu(); reloadPage(e, "/rating");}}>
-                Review & Feedback
-              </Link>
+              {/* <Link to="/rating" className="block py-2 px-4 hover:bg-gray-100 rounded" onClick={(e) => {closeMobileMenu(); reloadPage(e, "/rating");}}> Review & Feedback </Link> */}
               <Link to="/productbrochures" className="block py-2 px-4 hover:bg-gray-100 rounded" onClick={(e) => {closeMobileMenu(); reloadPage(e, "/productbrochures");}}>
                 Brochures
               </Link>

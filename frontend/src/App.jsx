@@ -1,7 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Home from "./Pages/Home/Home";
 import ContactUs from "./Pages/contact/contact";
-import Footer from "./Layout/Footer/footer";
 import About from "./Pages/About us/about";
 import VisionMission from "./Pages/About us/vision&mission";
 import Healthsupplements from "./Pages/Human/Health-supplements";
@@ -40,6 +39,8 @@ import FarmersFairs from './Components/Gallery/Photos/FarmersFairs';
 import Exhibitions from './Components/Gallery/Photos/Exhibitions';
 import TeamMeetingTraining from './Components/Gallery/Photos/TeamMeetingTraining';
 import CrmActivities from './Components/Gallery/Photos/CrmActivities';
+import Footer from "./Layout/Footer/footer";
+import LastLine from './Layout/Footer/lastline';
 
 const App = () => {
   return (
@@ -87,6 +88,7 @@ const App = () => {
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
       <Footer />
+      <LastLine />
     </div>
   );
 };

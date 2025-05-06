@@ -156,7 +156,6 @@ const ResearchDevelopment = () => {
           </div>
           <div className="w-full md:w-1/2">
             <img
-              loading="lazy"
               src="/Assets/Research and developement/Neuna® particles.jpg"
               alt="Neuna® particles"
               className="w-full h-auto mx-auto"

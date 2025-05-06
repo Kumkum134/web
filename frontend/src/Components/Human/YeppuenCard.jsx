@@ -7,7 +7,7 @@ const YeppuenCard = ({ product }) => {
         <img
           src={product.Productimg}
           alt="Product Image"
-          className="h-full w-full rounded-lg"
+          className="h-64 w-64 md:h-80 md:w-80 object-cover rounded-lg"
         />
       </div>
       <div className="md:w-2/3 w-full p-4 flex flex-col">

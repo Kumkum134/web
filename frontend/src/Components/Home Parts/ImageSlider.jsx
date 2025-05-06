@@ -33,7 +33,7 @@ export default function ImageSlider() {
           src={images[currentIndex]}
           alt={`Slide ${currentIndex + 1}`}
           className="w-full h-full transition-transform duration-500 ease-in-out"
-          loading={currentIndex === 0 ? "eager" : "lazy"}
+          loading={"eager"}
         />
       </div>
 

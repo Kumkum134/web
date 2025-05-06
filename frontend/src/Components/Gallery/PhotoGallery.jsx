@@ -4,10 +4,10 @@ import { motion } from "framer-motion";
 import { FaTractor, FaChartBar, FaUsers, FaHandsHelping } from "react-icons/fa";
 
 const categories = [
-  { name: "Farmers Fairs", path: "/photos/farmers-fairs", icon: <FaTractor size={30} /> },
-  { name: "Exhibitions", path: "/photos/exhibitions", icon: <FaChartBar size={30} /> },
-  { name: "Team Meeting & Training", path: "/photos/team-meeting-training", icon: <FaUsers size={30} /> },
-  { name: "CRM Activities", path: "/photos/crm-activities", icon: <FaHandsHelping size={30} /> },
+  { id: 1, name: "Farmers Fairs", path: "/photos/farmers-fairs", icon: <FaTractor size={30} /> },
+  { id: 2, name: "Exhibitions", path: "/photos/exhibitions", icon: <FaChartBar size={30} /> },
+  { id: 3, name: "Team Meeting & Training", path: "/photos/team-meeting-training", icon: <FaUsers size={30} /> },
+  { id: 4, name: "CRM Activities", path: "/photos/crm-activities", icon: <FaHandsHelping size={30} /> },
 ];
 
 const PhotoGallery = () => {
@@ -28,10 +28,14 @@ const PhotoGallery = () => {
         📷 Explore Photo Categories
       </motion.h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6 w-full max-w-4xl">
-        {categories.map((category, index) => (
-          <Link to={category.path} className="mt-4 text-lg font-semibold text-gray-800" onClick={(e) => reloadPage(e, category.path)}>
+        {categories.map((category) => (
+          <Link
+            key={category.id}  
+            to={category.path}
+            className="mt-4 text-lg font-semibold text-gray-800"
+            onClick={(e) => reloadPage(e, category.path)}
+          >
             <motion.div
-              key={index}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               transition={{ type: "spring", stiffness: 300 }}
@@ -42,6 +46,7 @@ const PhotoGallery = () => {
             </motion.div>
           </Link>
         ))}
+
       </div>
     </div>
   );

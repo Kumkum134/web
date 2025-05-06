@@ -60,7 +60,6 @@ const Export = () => {
             src="/Assets/vision and mission/world-map.png"
             alt="World Map"
             className="w-full rounded-lg shadow-md"
-            loading="lazy"
           />
           {locations.map((loc, index) => (
             <div

@@ -1,6 +1,10 @@
 import { Link } from "react-router-dom";
 
 const Footer = () => {
+  const reloadPage = (e, url) => {
+    e.preventDefault();
+    window.location.href = url;
+  };
   return (
     <footer className="bg-green-800 text-white py-12">
       <div className="container mx-auto px-6">
@@ -10,10 +14,10 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold mb-2 text-orange-500">INFORMATION</h4>
             <ul className="space-y-1 text-base">
-              <li><Link to="/" className="hover:text-orange-400 transition">Home</Link></li>
-              <li><Link to="/about-us" className="hover:text-orange-400 transition">About Us</Link></li>
-              <li><Link to="/ingredients" className="hover:text-orange-400 transition">Ingredients</Link></li>
-              <li><Link to="/contact-us" className="hover:text-orange-400 transition">Contact Us</Link></li>
+              <li><Link to="/" onClick={(e) => reloadPage(e, "/")} className="hover:text-orange-400 transition">Home</Link></li>
+              <li><Link to="/about-us" onClick={(e) => reloadPage(e, "/about-us")} className="hover:text-orange-400 transition">About Us</Link></li>
+              <li><Link to="/ingredients" onClick={(e) => reloadPage(e, "/ingredients")} className="hover:text-orange-400 transition">Ingredients</Link></li>
+              <li><Link to="/contact-us" onClick={(e) => reloadPage(e, "/contact-us")} className="hover:text-orange-400 transition">Contact Us</Link></li>
             </ul>
           </div>
 
@@ -22,7 +26,7 @@ const Footer = () => {
             <ul className="space-y-1 text-base">
               {["Health Supplements", "Personal Care", "Livestock", "Poultry", "Aqua", "Swine", "Pet", "Equine"].map((item, index) => (
                 <li key={index}>
-                  <Link to={`/${item.toLowerCase().replace(" ", "-")}`} className="hover:text-orange-400 transition">{item}</Link>
+                  <Link to={`/${item.toLowerCase().replace(" ", "-")}`} onClick={(e) => reloadPage(e, `/${item.toLowerCase().replace(" ", "-")}`)} className="hover:text-orange-400 transition">{item}</Link>
                 </li>
               ))}
             </ul>
@@ -82,13 +86,6 @@ const Footer = () => {
 
           </div>
         </div>
-
-        <div className="text-center mt-8 border-t border-orange-400 pt-4">
-          <p className="text-sm text-gray-300">
-          © 2014 Aurinko Healthcare Pvt. Ltd. | aurinkohealthcare.com
-          </p>
-        </div>
-
       </div>
     </footer>
   );

@@ -9,12 +9,18 @@ const Blog1 = () => {
             src="/Assets/Media/Blog Cows.jpg"
             alt="A cow and a calf standing on a grassy field"
             className="w-full object-cover"
-            loading="lazy"
             />
           <div className="p-8">
-            <h1 className="text-4xl font-bold mb-6 text-gray-800 leading-snug">
-              HOW TO IMPROVE EARLY LACTATION PERFORMANCE FOR HIGHER PEAK MILK YIELD?
-            </h1>
+          <div className="flex flex-col items-center justify-center py-6 px-4 sm:px-6 md:px-8 lg:px-12">
+							<h1 className="text-3xl font-semibold text-center mb-3 sm:mb-4 text-orange-600">
+              HOW TO IMPROVE EARLY LACTATION {" "}
+								<span className="text-green-800">PERFORMANCE FOR HIGHER PEAK MILK YIELD?</span>
+							</h1>
+							<div
+								className="h-1 w-11/12 sm:w-8/12 lg:w-8/12 xl:w-6/12 max-w-5xl rounded-full"
+								style={{ background: "linear-gradient(to right, #15803d, #ea580c)" }}
+							></div>
+						</div>
             <p className="text-gray-700 mb-6 leading-relaxed">
               Successfully guiding cows through early lactation is key to their health and performance. Thus, nutrition and health during early lactation greatly affect peak milk yields. Preventing health problems and having good feed practices can improve peak milk yields.
             </p>

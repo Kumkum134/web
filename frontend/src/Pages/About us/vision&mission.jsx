@@ -50,7 +50,6 @@ const VisionMission = () => {
 
         <div className="flex flex-col md:flex-row items-center text-center md:text-left max-w-4xl w-full">
           <img
-            loading="lazy"
             src="/Assets/vision and mission/Values.png"
             alt="Values"
             className="w-48 h-48 object-cover mb-4 md:mb-0 md:mr-6"

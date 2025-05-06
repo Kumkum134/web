@@ -205,7 +205,6 @@ const ContactUs = () => {
           height="400"
           style={{ border: 0 }}
           allowFullScreen=""
-          loading="lazy"
         ></iframe>
       </div>
     </div>

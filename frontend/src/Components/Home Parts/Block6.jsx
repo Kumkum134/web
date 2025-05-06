@@ -15,6 +15,14 @@ const Block6 = () => {
     "Feed & Grain": "/feed-grain"
   };
 
+  const handleClick = (e, speciesTitle) => {
+    e.preventDefault();
+    const path = speciesPaths[speciesTitle];
+    if (path) {
+      window.location.href = path;
+    }
+  };
+
   return (
     <div className="relative flex justify-center py-8 px-4 md:px-8 lg:px-12 min-h-48">
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-6 gap-4">
@@ -26,14 +34,13 @@ const Block6 = () => {
             }`}
             onMouseEnter={() => setExpandedIndex(index)}
             onMouseLeave={() => setExpandedIndex(null)}
-            onClick={() => navigate(speciesPaths[species.title])} 
+            onClick={(e) => handleClick(e, species.title)}
           >
             <img
               src={species.image}
               alt={species.title}
               className="w-full h-[70%] object-cover rounded-t-lg"
-              loading="lazy"
-              />
+            />
             <h1 className="text-sm sm:text-md font-bold text-center mt-2 text-green-800">
               {species.title}
             </h1>

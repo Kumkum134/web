@@ -3,8 +3,8 @@ const yeppuen_data = [
     id: 1,
     name: "Hyper Facial Toner",
     work: "정나니 하이퍼 페이설 토너 120ml",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Toner.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     description: [
       "NMPA 수분공급ᆞ 스킨부스팅 미백 추름개선기능성",
       "Instant Moisturization, Skin Boosting",
@@ -19,8 +19,8 @@ const yeppuen_data = [
     id: 2,
     name: "Hyper Facial Serum",
     work: "정나니 하이퍼 페이셜 세럼 45 ml",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Serum.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     description: [
       "NMPA 피부 자생력 케어ᆞ장벽 강화 미백 . 주름개선기능성",
       "Self-generating care, Fortifies skin’s barrier function",
@@ -35,8 +35,8 @@ const yeppuen_data = [
     id: 3,
     name: "Hyper Facial Emulsion",
     work: "정나니 하이퍼 페이셜 에멀전 120 ml",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Emulsion.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     description: [
       "NMPA 생기충전 .유수분밸런스 미백. 주름개선기능성",
       "Radiance, Water-Oil balance",
@@ -48,9 +48,9 @@ const yeppuen_data = [
   },
   {
     id: 4,
-    name: "24k Gold Active Energy Serum ",
-    Productimg: " ",
-    Productname: " ",
+    name: "24k Gold Active Energy Serum",
+    Productimg: "/Assets/Product images/Human/Yeppun/Active Energy Serum.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     work: " ",
     description: [
       "제이엔엔투 24K 골드 엑티브 에너지 세럼 50 ml 수분충전 .피부결정돈 추름개선기능성 Deep Moisturizing, Smooth skin texture | Highly concentrated nutrient serum for better skincare.",
@@ -61,8 +61,8 @@ const yeppuen_data = [
   {
     id: 5,
     name: "24k gold volume care night cream",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/volume care night cream.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     work: " ",
     description: [
       "제이엔엔투 24K 골드 볼륨 케어 나이트 크림 50 g 나이트케어 .활력에너지 주릉개션기능성",
@@ -74,8 +74,8 @@ const yeppuen_data = [
   {
     id: 6,
     name: "24k gold Expert Wrinkle Eye Cream",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Expert Wrinkle Eye Cream.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     work: " ",
     description: [
       "제이엔엔투 24K 골드 엑스퍼트 링클 아이 크림 30 g 안티에이징 토달케어: 장복 강화 주플개션가농성",
@@ -88,8 +88,8 @@ const yeppuen_data = [
   {
     id: 7,
     name: "24K Gold Comfortable Shield Day Cream",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Comfortable Shield Day Cream.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     work: " ",
     description: [
       "제이엔엔투 24K 골드 컴포터블 실드 데이 크림 50 g 유수분 밸런스.피부보호 주름개션가능성 Water - Oil balance, Skin protection | Day cream helps to improve a water - oil balance without stickiness.",
@@ -101,8 +101,8 @@ const yeppuen_data = [
     id: 8,
     name: "Hyper Facial Eye Cream",
     work: "정나니 하이퍼 페이셜 영양 크림 50 ml",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Eye Cream.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     description: [
       "NMPA 영양 공급.보습 장벽 강화 미백.주름개선기능성",
       "Supply rich nutrition, Build up skin barrier",
@@ -117,8 +117,8 @@ const yeppuen_data = [
     id: 9,
     name: "Hyper Facial Nutrition Cream",
     work: "정나니 하이퍼 페이셜 아이 크림 30 ml",
-    Productimg: " ",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Nutrition Cream.webp",
+    Productname: "/Assets/Product images/Human/Yeppun/Logo.webp",
     description: [
       "NMPA 탄력 부여.토탈 솔루션 미백.주름개선기능성",
       "Improvement of Cell Elasticity, Total solution",

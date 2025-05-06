@@ -9,6 +9,7 @@ const ManufacturingFacility = () => {
     "/Assets/Manufactring facilities/Liquid-manufacturing-machine.jpg",
     "/Assets/Manufactring facilities/Pouch-fillling-machine.jpg",
   ];
+
   return (
     <div>
       <div className="relative">
@@ -19,9 +20,12 @@ const ManufacturingFacility = () => {
           loading="lazy"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-          <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold">Manufacturing Facility</h1>
+          <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold">
+            Manufacturing Facility
+          </h1>
         </div>
       </div>
+
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row md:space-x-8">
           <div className="md:w-1/2">
@@ -35,8 +39,8 @@ const ManufacturingFacility = () => {
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h2 className="text-4xl font-bold mb-4">Manufacturing Facility</h2>
             <div className="h-1 w-60 bg-gray-300 rounded"></div>
-            <br></br>
-            <br></br>
+            <br />
+            <br />
             <p className="text-gray-700 mb-4 text-lg">
               Aurinko Healthcare currently operates two manufacturing sites in Ballabhgarh, Faridabad, India.
             </p>
@@ -51,10 +55,16 @@ const ManufacturingFacility = () => {
             </p>
           </div>
         </div>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-8">
           {images.map((img, index) => (
             <div key={index}>
-              <img src={img} alt={`Manufacturing process ${index + 1}`} className="w-full h-auto rounded shadow-inner border-2 border-gray-200" loading="lazy"/>
+              <img
+                src={img}
+                alt={`Manufacturing process ${index + 1}`}
+                className="w-full h-auto rounded shadow-inner border-2 border-gray-200"
+                loading="lazy"
+              />
             </div>
           ))}
         </div>
@@ -62,6 +72,5 @@ const ManufacturingFacility = () => {
     </div>
   );
 };
-
 
 export default ManufacturingFacility;

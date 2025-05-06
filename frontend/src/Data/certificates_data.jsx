@@ -1,5 +1,10 @@
 const certificates = [
   {
+    name: "Apeda",
+    imgSrc:
+      "Assets/Certificates/Apeda.jpg",
+  },
+  {
     name: "MSME",
     imgSrc:
       "Assets/Certificates/msme.jpg",
@@ -33,6 +38,6 @@ const certificates = [
     name: "WHO - GMP",
     imgSrc:
       "Assets/Certificates/WHO - GMP.jpg",
-  },
+  }
 ];
 export default certificates;

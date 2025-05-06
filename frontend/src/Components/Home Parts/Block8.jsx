@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { block8Data } from "../../Data/data";
 import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
 
@@ -40,18 +40,22 @@ const Block8 = () => {
           onMouseEnter={() => setHoveredIndex(index)}
           onMouseLeave={() => setHoveredIndex(null)}
         >
-          <div className="h-[75%] relative">
+          <div className="h-[75%] relative hover:h-full">
             <img
               src={hoveredIndex === index ? item.hoverImage : item.image}
               alt={item.title}
               className="w-full h-full object-cover transition-opacity duration-300"
               loading="lazy"
-              />
+            />
           </div>
-          <div className="text-center h-[25%] flex flex-col justify-center bg-gray-50 p-3 rounded-b-xl">
+          <div
+            className={`text-center h-[25%] flex flex-col justify-center bg-gray-50 p-3 rounded-b-xl transition-opacity duration-300 ${
+              hoveredIndex === index ? "opacity-0" : "opacity-100"
+            }`}
+          >
             <h3 className="text-lg font-semibold text-gray-800">{item.title}</h3>
             <div className="flex justify-center mt-1">{renderStars(item.rating)}</div>
-            <span className="mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-orange-100 text-orange-700">
+            <span className="mt-2 inline-block text-xs font-semibold px-3 py-1 rounded-full bg-green-100 text-green-700">
               {item.segment}
             </span>
           </div>
@@ -62,4 +66,3 @@ const Block8 = () => {
 };
 
 export default Block8;
-// 800px × 1000px?

@@ -9,12 +9,18 @@ const Blog2 = () => {
 						src="/Assets/Media/MILK-FERVER-COW.jpg"
 						alt="A cow lying on a straw bed"
 						className="w-full object-cover"
-						loading="lazy"
 					/>
 					<div className="p-8">
-						<h1 className="text-4xl font-bold mb-6 text-gray-800 leading-snug">
-							MILK FEVER SIGNS CAUSES PREVENTION AND TREATMENT
-						</h1>
+						<div className="flex flex-col items-center justify-center py-6 px-4 sm:px-6 md:px-8 lg:px-12">
+							<h1 className="text-3xl font-semibold text-center mb-3 sm:mb-4 text-orange-600">
+								MILK FEVER SIGNS CAUSES{" "}
+								<span className="text-green-800"> PREVENTION AND TREATMENT</span>
+							</h1>
+							<div
+								className="h-1 w-11/12 sm:w-8/12 lg:w-8/12 xl:w-6/12 max-w-5xl rounded-full"
+								style={{ background: "linear-gradient(to right, #15803d, #ea580c)" }}
+							></div>
+						</div>
 						<h2 className="text-3xl font-semibold text-orange-500 mb-4">Thinking Ahead <br /> SIGNS, CAUSES, PREVENTION, AND TREATMENT</h2>
 						<p className="text-gray-700 mb-6 leading-relaxed">
 							Milk fever is a disorder mainly of dairy cows close to calving. It is a metabolic disease caused by a low blood calcium level (Hypocalcemia).
@@ -33,7 +39,6 @@ const Blog2 = () => {
 							src="/Assets/Media/MILK-FERVER-COW2.jpg"
 							alt="A cow lying on a straw bed"
 							className="h-48 object-cover"
-							loading="lazy"
 						/>
 						<div className="space-y-10">
 							<section>
